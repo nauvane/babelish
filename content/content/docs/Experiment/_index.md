@@ -4,7 +4,7 @@ linkTitle: "Experiment with Markdown"
 date: 2020-03-01T18:30:54Z
 draft: false
 type: docs
-weight: 8
+weight: 10
 description: >
-  Use Markdown as an alternative to a word-processor
+  Use Markdown as an alternative to a word-processor and discover markup
 ---

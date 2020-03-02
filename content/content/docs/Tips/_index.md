@@ -4,8 +4,8 @@ linkTitle: "Tips"
 date: 2020-03-01T18:30:54Z
 draft: false
 type: docs
-weight: 9
+weight: 11
 description: >
-  Shortcuts and techniques to make your work easier
+  Shortcuts and techniques to make your work easier and more efficient
 ---
 
