@@ -1,5 +1,5 @@
 ---
-title: About Babelish
+title: Babelish is...
 linkTitle: About
 date: 2020-03-01
 draft: false
@@ -9,7 +9,5 @@ menu:
     weight: 10
 
 ---
-
-### Babelish is...
 
 ... a resource for language students.
