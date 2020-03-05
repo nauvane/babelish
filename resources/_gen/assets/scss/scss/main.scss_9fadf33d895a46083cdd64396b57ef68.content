@@ -1,5 +1,10 @@
 /*
 
+Local variables
+
+*/
+/*
+
 Bootstrap variables overrides for theme.
 See https://github.com/twbs/bootstrap/pull/23260
 */
