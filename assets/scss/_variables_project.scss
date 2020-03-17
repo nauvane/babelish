@@ -20,3 +20,39 @@ $td-enable-google-fonts: true;
 $google_font_name: "Noto Sans";
 $google_font_family: "Noto+Sans:300,300i,400,400i,700,700i";
 $web-font-path: "https://fonts.googleapis.com/css?family=#{$google_font_family}";
+
+// Image border and caption
+
+img{
+ padding:2px;
+ // background-color:rgba($primary, 0.1);
+ // background-color:#dee2e6;
+ background-color:#eee;
+
+
+}
+
+figcaption{
+    margin-top: 0.5rem;
+    padding-left: 0.5rem;
+    line-height:1.75rem;
+    height:1.75rem;
+    // border:1px solid rgba($primary, 0.075);
+    // background-color:rgba($primary, 0.066);
+    border:1px solid #dee2e6;
+    // background-color:#dee2e6;
+    // border:1px solid #eee;
+    background-color:#eee;
+    width: 80%;
+    // font-weight: 900;
+  }
+  
+  // External links indicator
+  
+  a[target="_blank"]:after {
+    font-family: 'FontAwesome';
+    font-size: 0.66rem;
+    content: " \f08e";
+}
+
+

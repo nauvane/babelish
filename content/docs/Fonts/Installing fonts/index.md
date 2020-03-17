@@ -7,3 +7,12 @@ description: >
   How to select and install fonts for use in different kinds of work
 ---
 
+historical fonts
+
+unicode fonts
+
+what a font encompasses
+
+install Windows
+
+install macOS

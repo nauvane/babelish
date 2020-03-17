@@ -7,3 +7,14 @@ description: >
   Learn how to use all of the resources of a typeface
 ---
 
+typographic signs; and scope of a given script, e.g. Latin script
+
+italics; bold; italics not for quotations
+
+small caps
+
+quotations marks, in more than one language; style considerations
+
+dashes
+
+read more too about Open Type features, e.g. ligatures

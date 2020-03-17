@@ -7,3 +7,8 @@ description: >
   Open Type is a font standard that expands the ways in which you can communicate with type
 ---
 
+notable Open Type features and reasons for using them (e.g. numerals, true small caps; also ligatures)
+
+activate in LibreOffice; in Word
+
+not available in Powerpoint (Keynote?)

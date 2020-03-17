@@ -7,3 +7,10 @@ description: >
   Discover how to automate the entry of frequently used words or phrases
 ---
 
+macOS snippets Keyboard/Text
+
+aText 
+
+Windows FastKeys PhraseExpress
+
+examples: name; email; University College Cork; degree programme; A la recherche du temps perdu

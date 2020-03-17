@@ -6,4 +6,14 @@ weight: 4
 description: >
   Embedding hyperlinks in your documents
 ---
+hyperlinks — typical uses
 
+kinds of link — URLs; DOIs; persistent URLs
+
+human readable text
+
+syntax/parts
+
+obtaining a link and copying it
+
+angled brackets — style

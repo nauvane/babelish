@@ -14,6 +14,8 @@ description: >
 - [PDFs](/docs/applications/#pdfs)
 - [Unicode](/docs/applications/#unicode)
 - [Corpora tools](/docs/applications/#corpora-tools)
+- [Image editors](/docs/applications/#image-editors)
+- [Media players](/docs/applications/#media-players)
 - [Browsers and search engines](/docs/applications/#browsers-and-search-engines)
 
 {{% alert title="Tip" color="primary" %}}
@@ -42,7 +44,6 @@ Before downloading and installing applications, check your operating system, e.g
 
 - [Adobe Reader](https://get.adobe.com/uk/reader/) 
 - [Inkscape](https://inkscape.org/release/inkscape-0.92.4/)
-- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/)
 - [PDFCandy](https://pdfcandy.com/) (Windows)
 - [Preview](https://support.apple.com/en-gb/guide/preview/welcome/mac) (macOS; pre-installed)
 - [Skim](https://skim-app.sourceforge.io/) (macOS)
@@ -50,6 +51,7 @@ Before downloading and installing applications, check your operating system, e.g
 ## Unicode
 
 - [Analyse string](https://r12a.github.io/app-analysestring/) (r12a)
+- [BabelMap](https://www.babelstone.co.uk/Software/BabelMap.html) (Windows)
 - [List characters](https://r12a.github.io/app-listcharacters/) (r12a)
 - [UnicodeChecker](https://earthlingsoft.net/UnicodeChecker/) (macOS)
 - [Unicode character pickers](https://r12a.github.io/pickers/) (r12a)
@@ -63,6 +65,14 @@ Before downloading and installing applications, check your operating system, e.g
 - [AntFileConverter](https://www.laurenceanthony.net/software/antfileconverter/)
 - [LancsBox: Lancaster University corpus toolbox](http://corpora.lancs.ac.uk/lancsbox/)
 - [TagAnt](https://www.laurenceanthony.net/software/tagant/)
+
+## Image editors
+
+- [Gimp](https://www.gimp.org/downloads/)
+
+## Media players
+
+- [VLC](https://www.videolan.org/vlc/)
 
 ## Browsers and search engines
 
