@@ -9,6 +9,9 @@ description: >
 
 As a first step in generating structured documents, you should experiment with Markdown, 'a plain text format for writing structured documents', as it is defined on the [CommonMark site](https://commonmark.org/).
 
+{{< figure src="/images/commonmark.png" caption="Markdown" alt="Markdown" width="80%">}}
+
+
 To begin with, take the [ten-minute CommonMark tutorial](https://commonmark.org/help/tutorial/). Then experiment in writing Markdown on the [pandoc site](https://pandoc.org/try/?text=&amp;from=commonmark&amp;to=).
 
 Markdown was originally developed by John Gruber and its rationale was to simplify as far as possible the process of formatting a computer file for display, as Gruber says:
@@ -41,6 +44,8 @@ This practice is different from how a word-processor is normally used, where one
 #### Non-textual elements
 
 Because Markdown is a plain-text format, it doesn't directly include or represent binary sources, like an image file in ``jpeg`` format, the contents of which are not human-readable; a file in a word-processor, which is itself in binary format, will directly display the image. Rather, Markdown, [when used with Hugo](http://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes), can instruct the program to retrieve these from source:
+
+{{< figure src="/images/brackets.png" caption="Markdown in Brackets" alt="Markdown in Brackets" width="80%">}}
 
 Again we see that instructions to the computer in a plain-text file are contained in human-readable text throughout, just like content and markup. Webpages, which are written in HTML, are also plain-text, and contain instructions for the retrieval of image files, for instance, in exactly the same way. This means that you can draw on image files, or movie files, or sound files as you write your content and then rely on a program like Hugo to ensure that instructions for the correct retrieval and display of these are duly incorporated into your webpage. An editor like Brackets can equally incorporate an image file into a format for printing, alongside your structured plain text, as you can see in the screenshot above: note that in the Markdown file itself, the image is not displayed.
 

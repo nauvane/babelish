@@ -9,6 +9,9 @@ description: >
 
 notable Open Type features and reasons for using them (e.g. numerals, true small caps; also ligatures)
 
+{{< figure src="/images/ligatures.png" caption="Ligatures" alt="Ligatures" width="80%">}}
+
+
 activate in LibreOffice; in Word
 
 not available in Powerpoint (Keynote?)
