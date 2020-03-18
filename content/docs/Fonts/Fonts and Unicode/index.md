@@ -14,6 +14,9 @@ Here is the full set of charactersPreview the document contained in Clara with t
 
 Asian character sets are much larger: in Unicode, they encompass characters (Links to an external site.) that originated in China and that are now used in Chinese (Links to an external site.) (Simplified and Traditional), Japanese (Links to an external site.) and Korean (Links to an external site.). 
 
+{{< figure src="/images/noto_cjk_sc.png" caption="Noto Serif and Sans Serif CJK Simplified Chinese" alt="Noto Serif and Sans Serif CJK Simplified Chinese" width="80%">}}
+
+
 CJK Unified Ideographs
 
 Source  R12A UniView (Links to an external site.) (screenshot)

@@ -14,3 +14,10 @@ This is how Unicode defines a script: "A collection of letters and other written
 ### Latin script
 
 This is the script that you are likely to use most often: it is the one in which English and many European languages are written. 
+
+{{< figure src="/images/word_boundaries.png" caption="Latin script features" alt="Latin script features" width="80%">}}
+
+
+
+{{< figure src="/images/boundaries_han.png" caption="CJK: alignment and boundaries" alt="CJK: alignment and boundaries" width="80%">}}
+

@@ -15,3 +15,6 @@ You should consider using **LibreOffice** for your work in languages for a numbe
 - dedicated add-on tools in a range of languages
 - implementation of [Open Type features](/docs/fonts/open-type)
 
+{{< figure src="/images/spaceindent.png" caption="Spacing and indentation" alt="Spacing and indentation" width="80%">}}
+
+
