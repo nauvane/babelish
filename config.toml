@@ -8,29 +8,10 @@ theme = "docsy"
 pygmentsCodeFences = true
 pygmentsUseClasses = false
 # Use the new Chroma Go highlighter in Hugo.
-pygmentsUseClassic = false
+# pygmentsUseClassic = false
 #pygmentsOptions = "linenos=table"
 # See https://help.farbox.com/pygments.html
 pygmentsStyle = "tango"
-
-## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
-
-# [markup]
-#   [markup.blackFriday]
-#     angledQuotes = false
-#     footnoteAnchorPrefix = ""
-#     footnoteReturnLinkContents = ""
-#     fractions = true
-#     hrefTargetBlank = true
-#     latexDashes = true
-#     nofollowLinks = false
-#     noreferrerLinks = false
-#     plainIDAnchors = true
-#     skipHTML = false
-#     smartDashes = true
-#     smartypants = true
-#     smartypantsQuotesNBSP = false
-#     taskLists = true
 
 # Image processing configuration.
 [imaging]
@@ -38,28 +19,21 @@ resampleFilter = "CatmullRom"
 quality = 75
 anchor = "smart"
 
+# Goldmark
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+        [markup.goldmark.extensions]
+              definitionList = true
+              footnote = true
+              linkify = true
+              strikethrough = true
+              table = true
+              taskList = true
+              typographer = true
 
-# [markup]
-#   defaultMarkdownHandler = "goldmark"
-#   [markup.blackFriday]
-#     angledQuotes = false
-#     footnoteAnchorPrefix = ""
-#     footnoteReturnLinkContents = ""
-#     fractions = true
-#     hrefTargetBlank = true
-#     latexDashes = true
-#     nofollowLinks = false
-#     noreferrerLinks = false
-#     plainIDAnchors = true
-#     skipHTML = false
-#     smartDashes = true
-#     # smartypants = true
-#     # smartypantsQuotesNBSP = false
-#     taskLists = true
 #   [markup.goldmark]
 #     [markup.goldmark.extensions]
 #       definitionList = true
@@ -119,7 +93,7 @@ sidebar_menu_compact = false
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = true
+sidebar_search_disable = false
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = false
 # Set to true to disable the About link in the site footer
@@ -139,6 +113,8 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 time_format_default = " 2 January 2006"
 
 titleCaseStyle = "Chicago"
+
+# Privacy
 
 [privacy.googleAnalytics]
     anonymizeIP = true 
