@@ -6,13 +6,40 @@ weight: 3
 description: >
   How to select and install fonts for use in different kinds of work
 ---
+{{% alert title="Tip" color="primary" %}}
+Both Windows and macOS support TrueType (`.ttf`) and OpenType (`.otf`) fonts. Make sure that any fonts you download are in these formats, rather than webfonts.
+{{% /alert %}}
 
-historical fonts
+### Unicode fonts
 
-unicode fonts
+The most practical resource to access scripts encoded in Unicode is the [Noto Project](https://www.google.com/get/noto/). You can browse which fonts you would like to install. [Noto Serif](https://noto-website-2.storage.googleapis.com/pkgs/NotoSerif-unhinted.zip) includes all of the various Latin character sets.
 
-what a font encompasses
+[Charis SIL](https://software.sil.org/charis/) is also a useful font to install.
 
-install Windows
+### Historical fonts
 
-install macOS
+It is useful also to install fonts that include historical scripts that may no longer be in use, like Ogham, which is just one of a large number of scripts included in [Clara](http://mirrors.ctan.org/fonts/clara.zip). 
+
+[Cardo](http://scholarsfonts.net/cardofnt.html) describes itself as "is a large Unicode font specifically designed for the needs of classicists, Biblical scholars, medievalists, and linguists".
+
+### What a font encompasses
+
+Typically, you will download a font in the form of a `zip` file. Once you have uncompressed it, you will find the separate files for different typefaces: typically **Regular** (or **Roman**), **Italic**, **Bold** and **Bold Italic**. 
+
+Other fonts may contain a much larger range of weights.
+
+{{< figure src="/images/noto_sc_weights.png" caption="Font weights in Noto Sans Simplified Chinese" alt="Font weights in Noto Sans Simplified Chinese" width="80%" >}} 
+
+You can choose to install all of these or simply the ones that you are most likely to find useful.
+
+### Install fonts in Windows
+
+1. [Uncompress the `.zip` file](/docs/applications/#utilities) containing the fonts.
+2. Right click on an individual font file and select **Install**.
+3. Repeat for further styles and weights.
+
+### Install fonts in macOS
+
+1. [Uncompress the `.zip` file](/docs/applications/#utilities) containing the fonts.
+2. Double click on an individual font file.
+3. When Font Book opens, select **Install Font**. As a rule, all of the styles and weights in the same folder will be installed.

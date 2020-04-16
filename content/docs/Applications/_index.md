@@ -9,17 +9,22 @@ description: >
 ---
 
 - [Word-processors](/docs/applications/#word-processors)
+- [Notes](/docs/applications/#notes)
+- [Bibliographical tools](/docs/applications/#bibliographical-tools)
 - [Text editors](/docs/applications/#text-editors)
 - [Markdown](/docs/applications/#markdown)
 - [PDFs](/docs/applications/#pdfs)
 - [Unicode](/docs/applications/#unicode)
 - [Corpora tools](/docs/applications/#corpora-tools)
 - [Image editors](/docs/applications/#image-editors)
+- [Colour](/docs/applications/#colour)
+- [Screenshots](/docs/applications/#screenshots)
 - [Media players](/docs/applications/#media-players)
 - [Browsers and search engines](/docs/applications/#browsers-and-search-engines)
+- [Utilities](/docs/applications/#utilities)
 
 {{% alert title="Tip" color="primary" %}}
-Before downloading and installing applications, check your operating system, e.g. Windows 32-bit *or* 64-bit
+Before downloading and installing applications, check your operating system, e.g. [Windows 32-bit or 64-bit](https://support.microsoft.com/en-gb/help/15056/windows-32-64-bit-faq)
 {{% /alert %}}
 
 ## Word-processors
@@ -27,6 +32,16 @@ Before downloading and installing applications, check your operating system, e.g
 - [LibreOffice](https://www.libreoffice.org/download/download/) (with the following add-ons: [Linguist](https://extensions.libreoffice.org/extensions/linguist); [LingTools](https://extensions.libreoffice.org/extensions/lingtools); and [Typography Toolbar](https://extensions.libreoffice.org/extensions/typography-toolbar))
 - [Google Docs](https://www.google.co.uk/docs/about/)
 - [Microsoft Word](https://office.live.com/start/word.aspx)
+
+## Notes
+
+- [Evernote](https://evernote.com/)
+- [Microsoft OneNote](https://products.office.com/en-ie/onenote/digital-note-taking-app?rtc=1)
+
+## Bibliographical tools
+
+- [EndNote](https://libguides.ucc.ie/endnote)
+- [Zotero](https://www.zotero.org/)
 
 ## Text editors
 
@@ -70,6 +85,14 @@ Before downloading and installing applications, check your operating system, e.g
 
 - [Gimp](https://www.gimp.org/downloads/)
 
+## Colour
+
+- [Color at W3Schools](https://www.w3schools.com/colors/colors_names.asp)
+
+## Screenshots
+
+- [LightShot](https://app.prntscr.com/en/index.html) (macOS and Windows)
+
 ## Media players
 
 - [VLC](https://www.videolan.org/vlc/)
@@ -81,3 +104,13 @@ Before downloading and installing applications, check your operating system, e.g
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Ecosia](https://www.ecosia.org/)
 - [Startpage](https://www.startpage.com/)
+
+## Utilities
+
+- [7-Zip](https://www.7-zip.org/) (Windows)
+- [Archive Utility](https://support.apple.com/en-ie/guide/mac-help/mchlp2528/mac) (macOS, pre-installed)
+- [AText](https://www.trankynam.com/atext/) (macOS and Windows)
+- [Beeftext](https://beeftext.org/) (Windows)
+- [PeaZip](https://www.peazip.org/) (Windows)
+- [The Unarchiver](https://theunarchiver.com/) (macOS)
+- [Wox](http://www.wox.one/) (Windows)

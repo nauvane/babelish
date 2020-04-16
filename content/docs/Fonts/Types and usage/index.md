@@ -33,7 +33,7 @@ optical sizes and weights
 
 character sets, including private use block, for e.g. small caps, ligatures; how to control fonts in Windows and macOS
 
-
+embed fonts
 
 Control–Command–Space bar: Show the Character Viewer, from which you can choose emoji and other symbols. macOS
 
