@@ -9,7 +9,9 @@ description: >
 
 All word-processing applications allow you to make use of templates in order to maintain a consistent style from document to document. Here are some examples to get you started. 
 
-First, install the following fonts on your machine using these links to the relevant compressed `.zip` files:
+### Additional fonts
+
+First, install the following fonts on your machine using these links to download the relevant compressed `.zip` files:
 
 - [Charis SIL](https://software.sil.org/downloads/r/charis/CharisSIL-5.000.zip)
 - [Clara](http://mirrors.ctan.org/fonts/clara.zip)
@@ -18,9 +20,11 @@ First, install the following fonts on your machine using these links to the rele
 
 The Noto CJK fonts allow you to combine [Latin script](/docs/unicode/what-is-a-script) with characters in Japanese, Korean, Simplified Chinese or Traditional Chinese.
 
-Once you have [unzipped the files](/docs/applications/#utilities), you can then [install the fonts](/docs/fonts/installing-fonts).
+Once you have [unzipped the downloaded files](/docs/applications/#utilities), you can then [install the fonts](/docs/fonts/installing-fonts).
 
-Next, you can download these two templates, both of them designed for use with LibreOffice:
+### Using the templates
+
+Next, you can download these two templates, all of them designed for use with LibreOffice:
 
 - an [essay template](/templates/libre_serif_template.odt) using Clara as a serif font
 - an [essay template](/templates/noto_serif_template.odt) using Noto Serif
@@ -30,6 +34,8 @@ Next, you can download these two templates, both of them designed for use with L
 - an [essay template](/templates/noto_sc_sans_mla_template.odt) in MLA style using Noto Sans Simplified Chinese
 
 You can also obtain [an MLA template for Word](https://templates.office.com/en-us/mla-style-research-paper-tm03984841) directly from Microsoft.
+
+### Accessing CJK character sets
 
 Note that you will have to choose which precise Noto CJK font you wish to use according to the language in which you will be writing — here, Simplified Chinese is selected.
 
