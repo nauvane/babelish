@@ -4,31 +4,68 @@ linkTitle: "Fonts and Unicode"
 date: 2020-03-04T11:56:09Z
 weight: 5
 description: >
-  Learn how typefaces allow you to access and use the resources of Unicode
+  How typefaces allow you to access the resources of Unicode
 ---
-Most fonts include the [names] blocks in the Latin script.
 
-Character encodings in the Clara typeface
+### Fonts and scripts
 
-Here is the full set of charactersPreview the document contained in Clara with their code points (and here is the set in simple numerical order). How many scripts (Links to an external site.) can you identify?
+Unicode has led to the development of a range of fonts that encompass not only the major scripts in use in the world today, but also historical and iconographic materials. 
 
-Asian character sets are much larger: in Unicode, they encompass characters (Links to an external site.) that originated in China and that are now used in Chinese (Links to an external site.) (Simplified and Traditional), Japanese (Links to an external site.) and Korean (Links to an external site.). 
+### CJK fonts
 
-{{< figure src="/images/noto_cjk_sc.png" caption="Noto Serif and Sans Serif CJK Simplified Chinese" alt="Noto Serif and Sans Serif CJK Simplified Chinese" width="80%">}}
+Thus, the Noto CJK Simplified Chinese font provides support for the following major contemporary scripts:
 
+>Cyrillic, Han, Hangul, Hiragana, Katakana, Latin, Simplified Han, Traditional Han
 
-CJK Unified Ideographs
+This means in turn that it can encode content in the following languages:
 
-Source  R12A UniView (Links to an external site.) (screenshot)
+> Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bulgarian, Cantonese, Catalan, Chiga, Chinese, Chinese (Simplified), Cornish, Danish, Embu, English, Faroese, Filipino, Friulian, Galician, German, Gusii, Icelandic, Indonesian, Irish, Italian, Japanese, Kabuverdianu, Kalaallisut, Kalenjin, Kamba, Kikuyu, Kinyarwanda, Korean, Low German, Luo, Luxembourgish, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Manx, Meru, Morisyen, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Portuguese, Romansh, Rombo, Rundi, Russian, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Shambala, Shona, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Vietnamese, Vunjo, Zulu
 
-In this way, Unicode treats Han characters (Links to an external site.) different from the Latin, Greek, Cyrillic and Greek character sets. The Noto Project has generated fonts for Han and other character blocks in each of the East Asian languages — here is the (lengthy) character set for Noto Serif CJK Simplified ChinesePreview the document.
+The CJK fonts were developed jointly with Adobe and [the Source Han typefaces](https://source.typekit.com/source-han-serif/) are the equivalent of the Noto versions. Like European serif fonts in particular, the development of Source Han is rooted in calligraphic traditions.
 
-With the adoption of Unicode (Links to an external site.), several projects have been launched to provide free and open-source (Links to an external site.) typefaces to represent glyphs of the scripts encoded by Unicode. 
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/yNfYdxgV1jA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Noto (Links to an external site.) is a notable instance. It has extensive coverage of Latin scripts and now also of Simplified Chinese, Traditional Chinese, Japanese, and Korean (Links to an external site.) and can now be downloaded as a unified font family (Links to an external site.).
+<figcaption>Introducing Source Han Serif, Adobe's open source Pan-CJK typeface</figcaption>
+&nbsp;
 
-The CJK fonts were developed jointly with Adobe and the Source Han typefaces (Links to an external site.) are the equivalent of the Noto versions. 
+### European scripts, ancient and modern
 
-Sources in Irish can generally be encoded and printed using Latin script. The Noto project also includes a typeface for Ogham (Links to an external site.).
+Clara, by contrast, encompasses a range of European scripts, ancient and modern, including Latin, Cyrillic and Thai, as well as the medieval Irish script known as Ogham. It can therefore support the following languages:
 
-combining scripts
+>Afrikaans, Akan, Albanian, Asturian, Asu, Basque, Belarusian, Bemba, Bena, Bosnian, Breton, Bulgarian, Catalan, Central Atlas Tamazight, Chiga, Colognian, Cornish, Croatian, Czech, Danish, Duala, Dutch, Embu, English, Estonian, Ewe, Faroese, Filipino, Finnish, French, Friulian, Fulah, Galician, Ganda, German, Gusii, Hausa, Hawaiian, Hungarian, Icelandic, Inari Sami, Indonesian, Irish, Italian, Jola-Fonyi, Kabuverdianu, Kalaallisut, Kalenjin, Kamba, Kikuyu, Kinyarwanda, Lithuanian, Low German, Lower Sorbian, Luba-Katanga, Luo, Luxembourgish, Luyia, Macedonian, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Maltese, Manx, Meru, Morisyen, Nama, North Ndebele, Northern Sami, Norwegian Bokmål, Norwegian Nynorsk, Nuer, Nyankole, Oromo, Polish, Portuguese, Quechua, Romanian, Romansh, Rombo, Rundi, Russian, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Serbian, Shambala, Shona, Slovak, Slovenian, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Thai, Tongan, Turkish, Turkmen, Ukrainian, Upper Sorbian, Uzbek, Vunjo, Walser, Western Frisian, Wolof, Zulu
+
+The scope of the font is considerably wider than many of the system fonts installed by default on computers. This makes it a useful choice for your work. 
+
+### Phonetic transcription
+
+A set of Unicode blocks that is fully supported in the Noto Sans and Serif fonts, Charis SIL and Clara are among those which cover [the phonetic script](https://www.internationalphoneticassociation.org/sites/default/files/phonsymbol.pdf) of the [International Phonetic Association](https://www.internationalphoneticassociation.org/).
+
+{{< figure src="/images/ipa_eg.png" caption="An IPA transcription" alt="An IPA transcription" width="80%">}}
+
+You can use a dedicated keyboard where you extended inputting in a specialized block is required. 
+
+### Unicode block by block
+
+Using LibreOffice, you can readily explore Unicode blocks contained in a given font. Consider first the case of Noto Serif. To view the characters encoded in a font, select the omega icon and the select **More Characters**.
+
+{{< figure src="/images/omega.png" caption="Access to Unicode blocks in LibreOffice" alt="Access to Unicode blocks in LibreOffice" width="80%">}}
+
+You can then access individual blocks using a drop-down menu.
+
+{{< figure src="/images/blocks.png" caption="Unicode blocks in Noto Serif" alt="Unicode blocks in Noto Serif" width="80%">}}
+
+You can then see the characters that are available in a specific block.
+
+{{< figure src="/images/ipa.png" caption="IPA Extensions in Noto Serif" alt="IPA Extensions in Noto Serif" width="80%">}}
+
+In LibreOffice, you can input characters using this interface, which is a convenient option in isolated cases. 
+
+### Combining scripts
+
+Dedicated Latin scripts were developed for use with Source Serif and Noto CJK fonts. This means that content in European and Asian languages can easily be combined using the same font.
+
+{{< figure src="/images/noto_cjk_sc.png" caption="Noto Serif and Sans Serif CJK: Latin and Simplified Chinese" alt="Noto Serif and Sans Serif: Latin and CJK Simplified Chinese" width="80%">}}
+
+Though Latin and CJK fonts use different baselines and other reference points, they are aligned in such a way as to ensure content in different scripts is integrated.
+
+Similarly, the use of a font like Noto Serif of Charis SIL or Clara makes it possible to combine Latin and IPA scripts, as we can see in the example above.
