@@ -13,6 +13,7 @@ description: >
 - [Bibliographical tools](/docs/applications/#bibliographical-tools)
 - [Text editors](/docs/applications/#text-editors)
 - [Markdown](/docs/applications/#markdown)
+- [Snippets](/docs/applications/#snippets)
 - [PDFs](/docs/applications/#pdfs)
 - [Unicode](/docs/applications/#unicode)
 - [Corpora tools](/docs/applications/#corpora-tools)
@@ -54,6 +55,12 @@ Before downloading and installing applications, check your operating system, e.g
 - [MarkdownPad](http://www.markdownpad.com/) (Windows)
 - [Marked2](https://marked2app.com/) (macOS)
 - [Typora](https://typora.io/) 
+
+## Snippets
+
+- [aText Typing Accelerator](https://www.trankynam.com/atext/) (macOS and Windows)
+- [FastKeys](https://www.fastkeysautomation.com/) (Windows)
+- [Phrase Express](https://www.phraseexpress.com/) (Windows)
 
 ## PDFs
 
