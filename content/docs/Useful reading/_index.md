@@ -13,9 +13,9 @@ Anthony Weston, *[A Rulebook for Arguments](http://library.ucc.ie/record=b118303
 
 ## Portable Document Format
 
-Library of Congress, *PDF is Here to Stay: Archiving with the Portable Document Format*
+Library of Congress, *PDF is Here to Stay: Archiving with the Portable Document Format*.
 
-> [blogs.loc.gov/thesignal/2020/03/pdf-is-here-to-stay/](https://blogs.loc.gov/thesignal/2020/03/pdf-is-here-to-stay/)
+> [blogs.loc.gov/thesignal/2020/03/pdf-is-here-to-stay](https://blogs.loc.gov/thesignal/2020/03/pdf-is-here-to-stay/)
 
 ## Research
 
@@ -33,11 +33,11 @@ Richard Ishida, *An Introduction to Writing Systems and Unicode*.
 
 ## Style guides
 
-MHRA Style Guide
+MHRA Style Guide.
 
-MLA Style
+MLA Style.
 
-> [style.mla.org/](https://style.mla.org/)
+> [style.mla.org](https://style.mla.org/)
 
 ## Typography
 

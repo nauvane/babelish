@@ -19,7 +19,7 @@ Basic operations can be performed by means of shortcuts.
 | Cut   | CTRL+X or CMD+X        |
 | Paste      | CTRL+V or CMD+V |
 | Select all      | CTRL+A or CMD+A    |
-| Undo an action   | CTRL+~Z or CMD+~Z         |
+| Undo an action   | CTRL+Z or CMD+Z         |
 | Redo an action      | CTRL+Y or CMD+Y  |
 | Save      | CTRL+S or CMD+S        |
 | Save as   | CTRL+SHIFT+ S or CMD+SHIFT+ S         |
