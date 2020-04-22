@@ -60,3 +60,23 @@ LibreOffice is, like Word, [extensively documented](https://help.libreoffice.org
 For instance, you can opt to have numbered headings throughout your essay if this choice is appropriate to your content.
 
 ### Styles in Google Docs
+
+Styles can readily be applied also in Google Docs. Once you have logged on to your Google account, you can retrieve your documents and edit them from within a web browser. A file appears on screen in document format.
+
+{{< figure src="/images/gdocs_styles.png" caption="Styles in Google Docs" alt="Styles in Google Docs" width="80%">}}
+
+You can apply a format to a given element of your document using the editing tools displayed on screen, and then apply that in turn to a given style for use in future documents. 
+
+It is also possible to apply more specialized templates by incorporating **Add-ons** into your Google Docs profile. Here, for example, a dedicated MLA formatter has been added to a Google account for use with a given document.
+
+{{< figure src="/images/mla_formatter.png" caption="Apply MLA style with an add-on" alt="Apply MLA style with an add-on" width="80%">}}
+
+Google Docs also allows you to modify your default fonts just as you can when using a word-processor application.
+
+{{< figure src="/images/gdocs_fonts.png" caption="Selecting a font in Google Docs" alt="Selecting a font in Google Docs" width="80%">}}
+
+If you select **More fonts**, you are given the option of using additional fonts from within Google Fonts.
+
+{{< figure src="/images/addit_fonts.png" caption="Options in Google Fonts" alt="Options in Google Fonts" width="80%">}}
+
+Note that you can specify which script you wish to use in selecting a given font style (here, the choice is limited to serif fonts).
