@@ -118,15 +118,24 @@ Old-style numerals are appropriate to use in body text: they form an even line w
 
 ### Accessing font features in word-processors
 
-orthographic ligatures, e.g. œ Œ
+To access font controls in **Word**, select **Format** > **Fonts**, or use to keyboard to select **CTRL+D** (Windows) or **CMD+D** (macOS).
 
-embed fonts
+{{< figure src="/images/word_fonts.png" caption="Fonts in Word" alt="Fonts in Word" width="80%">}}
 
-Control–Command–Space bar: Show the Character Viewer, from which you can choose emoji and other symbols. macOS
+The basic controls are available in this interface. To access more specialized features, select **Advanced**.
 
-keyboards, including pinyin
+{{< figure src="/images/fonts_advanced.png" caption="Advanced font options in Word" alt="Advanced font options in Word" width="80%">}}
 
-https://www.windowscentral.com/how-change-your-keyboard-layout-windows-10
+Here, you can control kerning, where necessary. You can also access OpenType font features, including ligatures. 
 
 
+{{< figure src="/images/nonlining.png" caption="Numerals in Word" alt="Numerals in Word" width="80%">}}
+
+Here, proportional and non-lining or old-style numerals are selected.
+
+The best option to control font features in **LibreOffice** is to use the **[Typography Toolbar](/docs/applications/#word-processors)**.
+
+{{< figure src="/images/typography_toolbar.png" caption="The Typography Toolbar in LibreOffice" alt="The Typography Toolbar in LibreOffice" width="80%">}}
+
+Highlight a segment of text, or press **CTRL+A** or **CMD+A** to select all of the text in a document, and select the feature that you wish to apply.
 
