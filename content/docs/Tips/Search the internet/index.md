@@ -14,7 +14,9 @@ The most common kind of search is via a search engine querying the public intern
 - to search a specific site, use the following method: `CJK site:unicode.org` (note that you do not need to specify the protocol (`https`) nor include the `www` prefix)
 - to search for exact matches of a specific phrase, use quotation marks: `"detective fiction"`, or `"Victor Hugo" drawings`
 - you can use wildcards to extend the scope of a search: `i think therefore *`
-- to limit your search to resources with a specific page title, use this method: `glyph intitle:unicode`
+- wildcards can also be used with search terms: `gramm*` will return results with "grammar", "grammatical", "grammaticalization", and so on
+- a wildcard will also return terms with variant spellings: `characteri?ation` will return "characterization" and "characterisation"
+- to limit your search to resources with a specific page title, use this method: `character intitle:unicode`
 - to find out which pages link to a site you are interested in, use the following method: `link:europeana.eu` (in this case, you can locate versions of the site in question in different European languages)
 - you can limit your search by specifying a file type: `Victor Hugo drawings filetype:jpg`
 - you can search social media by using the relevant prefix as follows: `@twitter unicode`

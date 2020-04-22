@@ -1,6 +1,6 @@
 ---
-title: "Using WordPress"
-linkTitle: "Using WordPress"
+title: "Write a blog with WordPress"
+linkTitle: "Write a blog with WordPress"
 date: 2020-03-03T13:38:25Z
 weight: 3
 description: >
