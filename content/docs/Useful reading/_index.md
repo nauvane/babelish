@@ -23,7 +23,7 @@ Thomas Mann, *[Oxford Guide to Library Research](http://library.ucc.ie/record=b1
 
 ## Scripts 
 
-British Library, *A history of writing*.
+British Library, *A History of Writing*.
 
 > [www.bl.uk/history-of-writing](https://www.bl.uk/history-of-writing) 
 
@@ -31,15 +31,23 @@ Richard Ishida, *An Introduction to Writing Systems and Unicode*.
 
 > [r12a.github.io/scripts/tutorial/part2](https://r12a.github.io/scripts/tutorial/part2)
 
+*ScriptSource*.
+
+> [scriptsource.org](https://scriptsource.org/cms/scripts/page.php)
+
 ## Style guides
 
-MHRA Style Guide.
+*MHRA Style Guide*.
 
-MLA Style.
+*MLA Style*.
 
 > [style.mla.org](https://style.mla.org/)
 
 ## Typography
+
+Adobe, *Glossary of Typographic Terms*.
+
+> [www.adobe.com/ie/products/type/adobe-type-references-tips/glossary.html](https://www.adobe.com/ie/products/type/adobe-type-references-tips/glossary.html)
 
 Matthew Butterick, *Practical Typography*. 
 
@@ -47,7 +55,7 @@ Matthew Butterick, *Practical Typography*.
 
 Paul Luna, *Typography: A Very Short Introduction*. Oxford University Press, 2018.
 
-Microsoft, *Microsoft Typography documentation*.
+Microsoft, *Microsoft Typography Documentation*.
 
 > [docs.microsoft.com/en-us/typography](https://docs.microsoft.com/en-us/typography/)
 
@@ -56,3 +64,7 @@ Microsoft, *Microsoft Typography documentation*.
 Unicode Consortium, *What is Unicode?*
 
 > [www.unicode.org/standard/WhatIsUnicode.html](https://www.unicode.org/standard/WhatIsUnicode.html)
+
+Unicode Consortium, *Glossary of Unicode Terms.*
+
+>[www.unicode.org/glossary](https://www.unicode.org/glossary/)
