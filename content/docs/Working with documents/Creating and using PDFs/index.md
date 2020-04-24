@@ -34,7 +34,7 @@ There are a number of advantages to using a PDF as the file format in which to s
 - a PDF can generate high-resolution print output
 - a PDF is also an online format and can be viewed within a web browser
 - content and presentation in a PDF are fixed, which means that it will appear identically in each machine in which it is opened (in other words, a PDF is "device-independent")
-- because your chosen fonts are embedded in a PDF, the printed output will be identical from printer to printer
+- because your chosen fonts are embedded in a PDF, the printed output will be consistent from printer to printer
 - a PDF can be used to create a file with information which you may want to circulate in a secure format and where you wish to retain the original formatting, for example, in a curriculum vitae
 - a PDF can be used as a presentation format: create and save your file in landscape format and open the file in full screen
 - it is possible to customize a PDF when creating so as to control its appearance on screen when opened

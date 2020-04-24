@@ -7,7 +7,7 @@ description: >
   A script is the medium of writing in a given language — or languages
 ---
 
-Unicode supports 154 scripts, through which the writing systems of the world are mediated. With the publication of [Unicode 13.0.0](http://www.unicode.org/versions/Unicode13.0.0/) on 10 March 2020, the standard now supports [154 scripts](https://www.unicode.org/standard/supported.html). The written word is pervasive and scripts are the basis on which we communicate in writing.
+Unicode supports 154 scripts, through which the writing systems of the world are mediated. With the publication of **[Unicode 13.0.0](http://www.unicode.org/versions/Unicode13.0.0/)** on 10 March 2020, the standard now supports [154 scripts](https://www.unicode.org/standard/supported.html). The written word is pervasive and scripts are the basis on which we communicate in writing.
 
 This is how Unicode defines a script: "A collection of letters and other written signs used to represent textual information in one or more writing systems. For example, Russian is written with a subset of the Cyrillic script; Ukranian is written with a different subset. The Japanese writing system uses several scripts" (<a href="https://www.unicode.org/glossary/#script">Glossary of Unicode terms</a>). Within this framework, the different scripts in the world, historical and contemporary, present [wide variations](https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=cq3q4pwuah).
 
@@ -51,5 +51,5 @@ You can see in the example above that the character **d** is used it its upper c
 - CJK scripts are **ideographic**, with characters usually representing a spoken syllable
 - CJK scripts are left-to-right and can also be written vertically
 - they are not case-sensitive
-- a CJK character can be thought of as bounded by a uniform square frame
+- a CJK character can be thought of as contained a uniform square frame (here, the characters are displayed in **bounding boxes** to illustrate features like case and word separation)
 - CJK scripts do not use spaces as word-separators, though the **justification** of lines leads to adjustments in the placement of characters within their frames

@@ -11,7 +11,7 @@ description: >
 
 ### The profile of a font
 
-One of these ancient features is the presence of serifs, or projections at the extremes of certain strokes, as in the upper case **e** and in **x** here.
+One of these ancient features is the presence of **serifs**, or projections at the extremes of certain strokes, as in the upper case **e** and in **x** here.
 
 {{< figure src="/images/guidelines_serifs.png" caption="Profile of a serif font (right click to view full size)" alt="Profile of a serif font" width="80%">}}
 
@@ -25,7 +25,7 @@ Fonts of quite similar point size can have x-heights that differ quite sharply. 
 
 ### Serif and sans serif
 
-Many [features of the design of serif fonts](https://www.bl.uk/history-of-writing/articles/a-short-history-of-calligraphy-and-typography) derive from calligraphy. Sans serif fonts, by contrast, are more geometric and less ornamental in character.
+Many [features of the design of serif fonts](https://www.bl.uk/history-of-writing/articles/a-short-history-of-calligraphy-and-typography) derive from calligraphy. **Sans serif** fonts, by contrast, are more geometric and less ornamental in character.
 
 {{< figure src="/images/noto_serif_sans.png" caption="Contrasting x-heights" alt="Contrasting x-heights" width="80%">}}
 
@@ -43,7 +43,7 @@ Bold fonts can also be used for emphasis and also to highlight the structural hi
 
 ### OpenType fonts
 
-OpenType is the most widely available font format available today. This is a file format that allows several different font variants to be combined in a single file — extending to features that we will now consider, including small capitals, ligatures and various forms of numerals. 
+**OpenType** is the most widely available font format available today. This is a file format that allows several different font variants to be combined in a single file — extending to features that we will now consider, including small capitals, ligatures and various forms of numerals. 
 
 {{< figure src="/images/one.png" caption="Variations on the number 1" alt="Variations on the number 1" width="80%">}}
 

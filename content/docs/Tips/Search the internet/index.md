@@ -7,7 +7,7 @@ description:
   How do you locate the information you seek on the internet?
 ---
 
-The most common kind of search is via a search engine querying the public internet. [Google](https://www.google.com/) is the most commonly used search engine. [DuckDuckGo](https://duckduckgo.com/) and [Startpage](https://www.startpage.com/) are search engines that allow greater scope for privacy, in that they do not track users and do not store personal information. Startpage uses [Google syndicated searches](https://support.startpage.com/index.php?/Knowledgebase/Article/View/147/22/why-does-google-let-startpage-access-their-search-results).
+The most common kind of search is via a search engine querying the public internet. **[Google](https://www.google.com/)** is the most commonly used search engine. **[DuckDuckGo](https://duckduckgo.com/)** and **[Startpage](https://www.startpage.com/)** are search engines that allow greater scope for privacy, in that they do not track users and do not store personal information. Startpage uses [Google syndicated searches](https://support.startpage.com/index.php?/Knowledgebase/Article/View/147/22/why-does-google-let-startpage-access-their-search-results).
 
 ### Search tips
 
@@ -35,7 +35,7 @@ These operators can also be combined: `"Victor Hugo" AND (novel OR poetry)`
 
 Major data collections or repositories have their own dedicated search facilities. 
 
-Take the example of [data.bnf.fr](https://data.bnf.fr/), a public database provided by the Bibliothèque nationale de France.
+Take the example of **[data.bnf.fr](https://data.bnf.fr/)**, a public database provided by the [Bibliothèque nationale de France](https://www.bnf.fr/).
 
 {{< figure src="/images/databnf.png" caption="data.bnf.fr: a web interface to BNF data" alt="data.bnf.fr: a web interface to BNF data" width="80%" >}}
 
@@ -57,4 +57,4 @@ You may on occasion wish to use relevant illustrations in your work.
 
 {{< figure src="/images/ccsearch.png" caption="Image search in the Creative Commons" alt="Image search in the Creative Commons" width="80%" >}}
 
-The [Creative Commons](https://creativecommons.org/) is a major open-access resource with its own [dedicated search engine](https://ccsearch.creativecommons.org/) — note too its guidance on its own specialized [search query syntax](https://search.creativecommons.org/search-help). Make sure to [document your use of such sources](https://creativecommons.org/use-remix/attribution/) by including captions with the relevant copyright information.
+The **[Creative Commons](https://creativecommons.org/)** is a major open-access resource with its own [dedicated search engine](https://ccsearch.creativecommons.org/) — note too its guidance on its own specialized [search query syntax](https://search.creativecommons.org/search-help). Make sure to [document your use of such sources](https://creativecommons.org/use-remix/attribution/) by including captions with the relevant copyright information.
