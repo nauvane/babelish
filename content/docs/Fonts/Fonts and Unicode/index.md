@@ -68,4 +68,8 @@ Dedicated Latin scripts were developed for use with Source Serif and Noto CJK fo
 
 Though Latin and CJK fonts use different baselines and other reference points, they are aligned in such a way as to ensure content in different scripts is integrated.
 
+{{< figure src="/images/lodoccjk.png" caption="Latin and CJK scripts in Libre Office" alt="Latin and CJK scripts in Libre Office" width="80%">}}
+
+LibreOffice, among other word-processors, now has good support for the display and printing of characters in markedly different scripts.
+
 Similarly, the use of a font like Noto Serif of Charis SIL or Clara makes it possible to combine Latin and IPA scripts, as we can see in the example above.

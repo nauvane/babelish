@@ -30,18 +30,18 @@ Word and LibreOffice files can also [be used with Google Docs](https://support.g
 Several file formats exist in which textual information can be encoded more simply than in a word-processing files. These are referred to as "plain text" formats because they contain only text. The simplest of these formats is a `.txt` file, whose contents include none of the formatting found in word-processor files. 
 
 {{% alert title="Tip" color="primary" %}}
-You can see how a plain text file is different if you save a text document in a word-processor as a file in `.txt` format.
+You can see how a plain text file is different if you use the `Save as` command in Word to generate a file in `.txt` format from a word-processed document.
 {{% /alert %}}
 
-In Windows, you can open a `.txt` file using the **Notepad** application and in macOS with **TextEdit**. Both of these are plain text editors. You can also download and install other such editors, like [Atom](https://atom.io/) or [Brackets](http://brackets.io/). 
+In Windows, you can open a `.txt` file using the **Notepad** application and in macOS with **TextEdit**. Both of these are plain text editors. You can also download and install other such editors, like **[Atom](https://atom.io/)** or **[Brackets](http://brackets.io/)**. 
 
-Plain text files are used in the creation of corpora and you can download copies of works of literature in this format from [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) to create a corpus of your own, or with web applications like [Voyant Tools](https://voyant-tools.org/). 
+Plain text files are used in the creation of corpora and you can download copies of works of literature in this format from [Project Gutenberg](https://www.gutenberg.org/wiki/Main_Page) to create a corpus of your own, or with web applications like **[Voyant Tools](https://voyant-tools.org/)**. 
 
 ### Binary document formats
 
 From these examples we can conclude that the contents of a document can exist within files of different formats and that it is possible to transfer the content between formats, so that the document can then be edited using different applications. Google Docs can be used to import  and can export files in a range of formats.
 
-It is also possible to generate a file in a binary format from a word-processing document. The most common outcome of such an operation is a Portable Document Format file with the extension `.pdf`.  Files in Word or a LibreOffice or Google Docs can be used to create a PDF. 
+It is also possible to generate a file in a binary format from a word-processing document. The most common outcome of such an operation is a **Portable Document Format** file with the extension `.pdf`.  Files in Word or a LibreOffice or Google Docs can be used to create a PDF. 
 
 <iframe width="80%" height="315" src="https://www.youtube.com/embed/_zavrsIxRvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -53,7 +53,7 @@ A binary file is in a file format that contains digital data not in the form of 
 
 Because such applications exist for all operating systems and for mobile devices as well as computers, a PDF file is said to be "platform-independent". 
 
-There are also dedicated open-source applications like [AntFileConverter](https://www.laurenceanthony.net/software/antfileconverter/), which allow you to convert word-processor files or PDFs into plain text for use with corpus tools. 
+There are also dedicated open-source applications like **[AntFileConverter](https://www.laurenceanthony.net/software/antfileconverter/)**, which allow you to convert word-processor files or PDFs into plain text for use with [corpus tools](/docs/applications/#corpora-tools). 
 
 ### Image files
 
@@ -61,9 +61,9 @@ Most image files are also binary files containing digital data. Typical formats 
 
 ### Font files
 
-A digital typeface is typically made up of a series of font files that contain the information required to render different individual fonts, e.g. that typeface's roman, italic and bold styles or weights. An OpenType font file contains the information needed to allow the font to be displayed using computers with different operating systems, e.g. Windows or macOS. OpenType fonts can also contain extended Unicode character sets and a range of typographic features, e.g. small capitals, non-lining numerals. 
+A digital typeface is typically made up of a series of font files that contain the information required to render different individual fonts, e.g. that typeface's roman, italic and bold styles or weights. An **OpenType** font file contains the information needed to allow the font to be displayed using computers with different operating systems, e.g. Windows or macOS. OpenType fonts can also contain extended Unicode character sets and a range of typographic features, e.g. small capitals, non-lining numerals. 
 
-TrueType is a further scalable font format that can be accessed both in Windows and macOS. Web Open Font Format makes use of compressed font files for display in web applications.
+**TrueType** is a further scalable font format that can be accessed both in Windows and macOS. **Web Open Font Format** makes use of compressed font files for display in web applications.
 
 ### Common file extensions and formats
 

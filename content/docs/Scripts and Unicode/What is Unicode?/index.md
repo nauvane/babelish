@@ -29,7 +29,7 @@ UTF-8 can represent any character in Unicode, which means that you can expect to
  
 ### How is Unicode organized?
 
-Unicode is made up of sixteen planes, with no characters assigned as of yet to planes 4 to 13.
+Unicode is made up of sixteen **planes**, with no characters assigned as of yet to planes 4 to 13.
 
 {{< figure src="/images/bmp.png" caption="Unicode planes in UnicodeChecker" alt="Unicode planes in UnicodeChecker" width="80%">}}
 
@@ -60,6 +60,10 @@ Each plane in Unicode is made up of a number of **blocks**. Latin script, for in
 | Phonetic Extensions              | [Character data](https://r12a.github.io/uniview/?block=phonetic_extensions)              | [Character chart](http://www.unicode.org/charts/PDF/U1D00.pdf) |
 | Phonetic Extensions Supplement   | [Character data](https://r12a.github.io/uniview/?block=phonetic_extensions_supplement)   | [Character chart](http://www.unicode.org/charts/PDF/U1D80.pdf) |
 
-Here are the characters that make up Latin-1 Supplement.
+<figcaption>Unicode blocks in Latin script</figcaption>
+
+&nbsp;
+
+Here are the characters that make up the second of these blocks, **Latin-1 Supplement**.
 
 {{< figure src="/images/latin1supp.png" caption="Latin-1 Supplement in UTF-8" alt="Latin-1 Supplement in UTF-8" width="80%">}}
