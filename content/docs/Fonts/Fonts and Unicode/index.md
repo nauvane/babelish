@@ -60,6 +60,14 @@ You can then see the characters that are available in a specific block.
 
 In LibreOffice, you can input characters using this interface, which is a convenient option in isolated cases. 
 
+### Symbols
+
+Unicode extends also to typographical and many other symbols. 
+
+{{< figure src="/images/symbola.png" caption="Symbola: musical symbols in Unicode" alt="Symbola: musical symbols in Unicode" width="80%">}}
+
+The font [Symbola](https://dn-works.com/ufas/) allows access to multilingual blocks and also to [a very wide range of Unicode symbols](https://dn-works.com/wp-content/uploads/2020/UFAS-Docs/Symbola.pdf). 
+
 ### Combining scripts
 
 Dedicated Latin scripts were developed for use with Source Serif and Noto CJK fonts. This means that content in European and Asian languages can easily be combined using the same font.

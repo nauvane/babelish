@@ -13,7 +13,7 @@ This is how Unicode defines a script: "A collection of letters and other written
 
 ### Latin script
 
-This is the script that you are likely to use most often: it is the one in which English and many European languages are written. About two-thirds of the writing systems in the world use [Latin script](https://r12a.github.io/scripts/tutorial/summaries/latin).
+This is the script that you are likely to use most often: it is the one in which English and many European languages are written, and is the most widely script used today (in addtion, about two-thirds of the writing systems in the world today use alphabetical scripts).
 
 {{< figure src="/images/word_boundaries.png" caption="Latin script features" alt="Latin script features" width="80%">}}
 
@@ -51,5 +51,5 @@ You can see in the example above that the character **d** is used it its upper c
 - CJK scripts are **ideographic**, with characters usually representing a spoken syllable
 - CJK scripts are left-to-right and can also be written vertically
 - they are not case-sensitive
-- a CJK character can be thought of as contained a uniform square frame (here, the characters are displayed in **bounding boxes** to illustrate features like case and word separation)
 - CJK scripts do not use spaces as word-separators, though the **justification** of lines leads to adjustments in the placement of characters within their frames
+- a CJK character can be thought of as contained a uniform square frame (here, the characters are displayed in visible **bounding boxes** to illustrate features like case and word separation)
