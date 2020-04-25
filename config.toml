@@ -128,6 +128,6 @@ titleCaseStyle = "Chicago"
 
     [[params.links.developer]]
     	name = "GitHub"
-    	url = "https://github.com/google/nauvane/babelish"
+    	url = "https://github.com/nauvane/babelish"
     	icon = "fab fa-github"
             desc = "Source code"
