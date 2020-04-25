@@ -85,7 +85,19 @@ In some scripts, a single printed character can be composed of two components. T
 
 {{< figure src="/images/ij.png" caption="IJ in Dutch: upper and lower case" alt="IJ in Dutch" width="80%">}}
 
-In other words, this character is different from **i** and **j** printed side by side, which is why it has its own Unicode number. Another example is the character **ǅ** and its lower-case equivalent **ǆ**, which are used in Croatian script — see if you can identify them in <a href="/documents/Noto_Serif_Unicode.pdf" target="_blank">the Noto Serif character set</a>.
+In other words, this character is different from **i** and **j** printed side by side, which is why it has its own Unicode code point. 
+
+{{< figure src="/images/ij_codepoint.png" caption="IJ: a composed character in Unicode" alt="IJ: a composed character in Unicode" width="80%">}}
+
+Another example is the character **ǅ** and its lower-case equivalent **ǆ**, which are used in Croatian script. A further variant is the double capital form. 
+
+{{< figure src="/images/dz_codepoint.png" caption="Latin capital DZ with caron" alt="Latin capital DZ with caron" width="80%">}}
+
+All of these characters form part of the Latin Extended-B block.
+
+{{< figure src="/images/dz_block.png" caption="Latin Extended-B in Unicode" alt="Latin Extended-B in Unicode" width="80%">}}
+
+See if you can identify them also in <a href="/documents/Noto_Serif_Unicode.pdf" target="_blank">the Noto Serif character set</a>.
 
 A **ligature** is another form of joined character, but with a different purpose.
 

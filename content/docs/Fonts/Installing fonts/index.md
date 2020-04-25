@@ -16,6 +16,8 @@ The most practical resource to access scripts encoded in Unicode is the **[Noto 
 
 [Charis SIL](https://software.sil.org/charis/) is also a useful font to install. Here is <a href="/documents/Charis_SIL_Unicode.pdf" target="_blank">the full character set</a>. 
 
+For access to a very wide range of symbols in Unicode, you can turn to the font [Symbola](https://dn-works.com/wp-content/uploads/2020/UFAS-Fonts/Symbola.zip).
+
 ### Historical fonts
 
 It is useful also to install fonts that include historical scripts that may no longer be in use, like Ogham, which is just one of <a href="/documents/Clara_Unicode.pdf" target="_blank">a large number of scripts</a> included in [Clara](http://mirrors.ctan.org/fonts/clara.zip). 

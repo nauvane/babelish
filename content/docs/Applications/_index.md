@@ -115,8 +115,8 @@ Before downloading and installing applications, check your operating system, e.g
 ## Utilities
 
 - [7-Zip](https://www.7-zip.org/) (Windows)
+- [Alfred](https://www.alfredapp.com/) (macOS)
 - [Archive Utility](https://support.apple.com/en-ie/guide/mac-help/mchlp2528/mac) (macOS, pre-installed)
-- [AText](https://www.trankynam.com/atext/) (macOS and Windows)
 - [Beeftext](https://beeftext.org/) (Windows)
 - [PeaZip](https://www.peazip.org/) (Windows)
 - [The Unarchiver](https://theunarchiver.com/) (macOS)

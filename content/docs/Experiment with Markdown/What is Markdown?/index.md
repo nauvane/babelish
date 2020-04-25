@@ -19,7 +19,9 @@ And then experiment in writing Markdown on the [pandoc site](https://pandoc.org/
 
 Markdown is a format where text is encoded with minimal markup: hence **Mark*down***
 
-Markdown is designed for writing structured documents and makes use of a distinct set of formatting conventions. A markup document is made up of "content" and of "markup", the latter consisting of simple tags and other identifiers that designate component parts of the content, for example, a heading, or a list. Markdown files are written in [UTF-8](https://www.w3.org/2001/06/utf-8-test/UTF-8-demo.html).
+Markdown is designed for writing structured documents and makes use of a distinct but simple set of formatting conventions. Any markup document is made up of "content" and of "markup", the latter consisting of simple tags and other identifiers that designate component parts of the content, for example, a heading, or a list. 
+
+Markdown files are written in [UTF-8](https://www.w3.org/2001/06/utf-8-test/UTF-8-demo.html).
 
 ### Markup in practice
 
