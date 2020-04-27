@@ -49,7 +49,7 @@ It is also possible to generate a file in a binary format from a word-processing
 
 &nbsp;
 
-A binary file is in a file format that contains digital data not in the form of plain printable characters. While it is now possible to transform a PDF file into a format in which it can be edited in Word, for instance, a word-processing application cannot be used to open the digital file directly. Instead, you must use a dedicated application that will retain the exact appearance of the document contained in the file, like [Adobe Acrobat Reader](https://get.adobe.com/uk/reader/). 
+A binary file is in a file format that contains digital data not in the form of plain printable characters. While it is now possible to transform a PDF file into a format in which it can be edited in Word, for instance, a word-processing application cannot be used to open the digital PDF file directly. Instead, you must use a dedicated application that will retain the exact appearance of the document contained in the file, like [Adobe Acrobat Reader](https://get.adobe.com/uk/reader/). 
 
 Because such applications exist for all operating systems and for mobile devices as well as computers, a PDF file is said to be "platform-independent". 
 
@@ -94,7 +94,7 @@ A digital typeface is typically made up of a series of font files that contain t
 .mp4
 : a video file format
 
-.odt
+.odf
 : a LibreOffice text document
 
 .otf

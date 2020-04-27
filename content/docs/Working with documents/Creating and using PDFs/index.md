@@ -43,6 +43,11 @@ There are a number of advantages to using a PDF as the file format in which to s
 
 There are one or two disadvantages to using PDF as a format
 
-- a PDF file can as a rule not be modified; if you wish to change the content, you must edit the original word-processor or other file, and then resave it as a PDF
+- a PDF file can as a rule not be modified; if you wish to change the content, the routine option is to edit the original word-processor or other file, and then resave it as a PDF
 - PDFs require dedicated software, though such applications are now very widely available
 
+LibreOffice provides the option when exporting to PDF format of embedding the original word-processed file.
+
+{{< figure src="/images/hybridpdf.png" caption="LibreOffice: embed ODF file in PDF" alt="LibreOffice: embed ODF file in PDF" width="80%">}}
+
+If you check the relevant box, you then have the option of dragging and dropping the resulting PDF into LibreOffice in order to access the Open Document Format file. This option makes it possible to store the ODF and PDF files together and also to edit the original content of a shared PDF.

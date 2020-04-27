@@ -98,7 +98,7 @@ What, then, is the purpose of any of these transformation formats? It is to conn
 | **a**  | U+0061 | 0x61 | 01100001 | 1 |
 | **IJ** | U+0132 | 0xC4B2 | 1100010010110010 | 2 |
 | **天** | U+5929 | 0xE5A4A9 | 111001011010010010101001 | 3| 
-| **𠀀** | U+20000| 0xF0A08080 | 11110000101000001000000010000000 | 4 |
+| **&#x20000;** | U+20000| 0xF0A08080 | 11110000101000001000000010000000 | 4 |
 
 <figcaption>Translating code points between Unicode and binary</figcaption>
 
