@@ -82,7 +82,7 @@ Here again are some data for the upper-case character **a**. You can see that th
 
 {{< figure src="/images/ij_length.png" caption="IJ: code length" alt="IJ: code length" width="80%">}}
 
-By contrast, the upper-case **ij** digraph as used in Dutch represents a single code point and requires two bytes in UTF-8. An **em-dash** requires three bytes.
+By contrast, the upper-case **[ij](/docs/fonts/types-and-usage/#digraphs-and-ligatures)** digraph as used in Dutch represents a single code point and requires two bytes in UTF-8. An **[em-dash](/docs/tips/smart-typography/#dashes)** requires three bytes.
 
 {{< figure src="/images/emrule_length.png" caption="Em-dash: code length" alt="Em-dash: code length" width="80%">}}
 
