@@ -14,7 +14,7 @@ A **[hyperlink](https://www.w3schools.com/html/html_links.asp)** is an element o
 Wherever you use an online source, you should provide a link to it. To go automatically to the address bar of a browser and highlight the current address, press CTRL+L (Windows) or CMD+L (macOS); you can then press CTRL+C or CMD+C to copy the link, so that you can insert it into your own document. 
 
 {{% alert title="Tip" color="primary" %}}
-In body text, a link should always be incorporated into **link text**. Make sure that you write clear and helpful link text: for example, "<u>Smith's discussion</u> shows...", **not** "as you can see <u>here</u>". To create a link, press CTRL+K (Windows) or CMD+K (macOS).
+If you choose to insert a link into body text, it should always be incorporated into intelligible **link text**. Make sure that you write clear and helpful link text: for example, "<u>Smith's discussion</u> shows...", **not** "as you can see <u>here</u>". To create a link, press CTRL+K (Windows) or CMD+K (macOS).
 {{% /alert %}}
 
 ### Kinds of link

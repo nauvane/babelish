@@ -23,9 +23,9 @@ The most common kind of search is via a search engine querying the public intern
 
 You can also use what are termed Boolean operators in your searches:
 
-- `novel AND fiction`: search for material where both terms occur
-- `novel OR fiction`: search for material which contains either or both of the terms (thus, wider in scope that a search with AND)
-- `novel NOT fiction`: search for material that contains the first term but does not contain the second
+- `novel AND fiction`: search for material where **both** terms occur
+- `novel OR fiction`: search for material which contains **either or both** of the terms (thus, wider in scope that a search with AND)
+- `novel NOT fiction`: search for material that contains the first term but does **not** contain the second
 
 You can also exclude a term by using a hyphen: `Celtic -football`
 

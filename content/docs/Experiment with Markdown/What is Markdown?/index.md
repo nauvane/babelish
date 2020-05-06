@@ -7,6 +7,43 @@ description: >
   Markdown is a lightweight and flexible form of plain-text markup
 ---
 
+Markup is a means of denoting the structure of a document. Any markup document is made up of "content" and of "markup", the latter consisting of simple tags and other identifiers that designate component parts of the content, for example, a heading, or a list. 
+
+### Markup in web pages
+
+A commonplace example is the use of markup to denote the structure of webpages. 
+
+> `<!DOCTYPE html>`  
+> `<html>`  
+> `<head> `  
+> `<title>This is an HTML document</title>`  
+> ` </head>`  
+> `<body>`  
+> `<h1>This is a heading</h1>`  
+> `<p>This is a paragraph.</p>`  
+> `</body>`  
+> `</html> `
+
+Today, the form of markup used for writing structured documents for the web is **Hypertext Markup Language** and the current standard is **[HTML5](https://www.w3schools.com/html/default.asp)**. 
+
+This markup language is made up of a series of **[tags](https://www.w3schools.com/tags/default.asp)**. An HTML document is composed by default up of two main components, a `<head>`, which contains information about the document, including its `<title>`, and a `<body>`, which is made up of the content, for instance, headings and paragraphs, as shown above. 
+  
+HTML5 also contains tags for all of the other expected elements of structured documents, such as [ordered](https://www.w3schools.com/tags/tag_ol.asp) and [unordered](https://www.w3schools.com/tags/tag_ul.asp) lists, [inline](https://www.w3schools.com/tags/tag_q.asp) and [block](https://www.w3schools.com/tags/tag_blockquote.asp) quotations, [tables](https://www.w3schools.com/tags/tag_table.asp), and [links](https://www.w3schools.com/tags/tag_a.asp). It also contains tags like `<img>` and `<video>` to display audio-visual material, as well as markup for inline components, such as `<em>` or `<strong>`. 
+    
+Note also that in HTML an opening tag is as a rule matched by a closing tag:
+
+> `this word is <em>emphasized</em>`
+
+### Markup and Markdown
+
+Markdown is a format where text is encoded with minimal markup: hence **Mark*down***
+
+Markdown is designed for writing structured documents and makes use of a distinct but simple set of formatting conventions. 
+
+Markdown files are written in [UTF-8](https://www.w3.org/2001/06/utf-8-test/UTF-8-demo.html).
+
+### Simple structured documents in Markdown
+
 As a first step in generating structured documents, you can experiment with **Markdown**, 'a plain text format for writing structured documents', as it is defined on the [CommonMark site](https://commonmark.org/).
 
 {{< figure src="/images/commonmark.png" caption="Content in Markdown rendered for display" alt="Markdown" width="80%">}}
@@ -14,14 +51,6 @@ As a first step in generating structured documents, you can experiment with **Ma
 Next, take the [ten-minute CommonMark tutorial](https://commonmark.org/help/tutorial/). 
 
 And then experiment in writing Markdown on the [pandoc site](https://pandoc.org/try/?text=&amp;from=commonmark&amp;to=), where you can experiment further by transforming one kind of markup into another.
-
-### Markup and Markdown
-
-Markdown is a format where text is encoded with minimal markup: hence **Mark*down***
-
-Markdown is designed for writing structured documents and makes use of a distinct but simple set of formatting conventions. Any markup document is made up of "content" and of "markup", the latter consisting of simple tags and other identifiers that designate component parts of the content, for example, a heading, or a list. 
-
-Markdown files are written in [UTF-8](https://www.w3.org/2001/06/utf-8-test/UTF-8-demo.html).
 
 ### Markup in practice
 
@@ -31,7 +60,9 @@ So, you use minimal code to designate a heading and other elements:
      
 >     This is a paragraph with a *link* to [CommonMark](https://commonmark.org/)
 
-Single asterisks denote italics; double italics denote bold.
+A paragraph, by contrast with a heading, doesn't bear any specific code in Markdown, but is simply delimited by being followed by a blank line.
+
+Single asterisks denote emphasis, or italics; double asterisks denote strong emphasis, or bold type.
      
 Here is an unordered list: 
 >     - markup
@@ -41,8 +72,6 @@ And here is a block quotation:
 
 >  `> En 1815, M. Charles-François-Bienvenu Myriel était évêque de Digne. C'était un vieillard d'environ soixante-quinze ans; il occupait le siège  de Digne depuis 1806.`
      
-A paragraph, by contrast, doesn't bear any specific code in Markdown, but is simply delimited by being followed by a blank line.
-
 ### Advantages of Markdown
      
 This practice is different from how a word-processor is normally used, where one typically applies a format to a given element of a document, e.g. by applying bold to a heading for display, rather than designating its structural function. 
@@ -58,6 +87,8 @@ By definition, then, Markdown is designed for writing structured documents and, 
 Markdown files can incorporate also **metadata**, again in plain text. 
 
 {{< figure src="/images/metadata.png" caption="File metadata in Markdown" alt="File metadata in Markdown" width="80%">}}
+
+The four elements of metadata included here are the document's title, its author, a set of tags to denote its content, and an abstract, or summary.
 
 ### A standard for Markdown
 

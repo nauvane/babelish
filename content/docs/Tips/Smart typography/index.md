@@ -30,7 +30,7 @@ A hyphen is used to connect two words used a phrasal unit: "a nineteenth-century
 
 Dashes have a different purpose. An **en-dash** is used with ranges of numbers, e.g. 11–22, or to express the sense "between", e.g. "the Franco–Prussian war". An **em-dash** is used as a punctuation mark to separate parts of a sentence more decisively than with a comma.
 
-> If you are interested in languages, you need to know about characters — and glyphs.
+> If you are interested in languages, you need to know about characters — and Unicode.
 
 Em-dashes can also be the equivalent of parentheses:
 

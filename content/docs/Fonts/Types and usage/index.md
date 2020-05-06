@@ -27,7 +27,7 @@ Fonts of quite similar point size can have x-heights that differ quite sharply. 
 
 Many [features of the design of serif fonts](https://www.bl.uk/history-of-writing/articles/a-short-history-of-calligraphy-and-typography) derive from calligraphy. **Sans serif** fonts, by contrast, are more geometric and less ornamental in character.
 
-{{< figure src="/images/noto_serif_sans.png" caption="Contrasting x-heights" alt="Contrasting x-heights" width="80%">}}
+{{< figure src="/images/noto_serif_sans.png" caption="Serif and sans serif" alt="Serif and sans serif" width="80%">}}
 
 Even so, some sans serif fonts retain the contrast between thinner and thicker elements of a character: compare the **shoulder** of the letter **h** in the two forms of the Noto font, or the **counter** of the sans serif **g**. Note also that in the serif and sans serif forms of Noto the x-height, capital height, ascender and descender lines are identical. Today, many fonts exist in the form of **font families** encompassing serif and sans serif forms with many variants of style and weight. Noto Sans is the font used in this site.
 
@@ -37,7 +37,7 @@ Even so, some sans serif fonts retain the contrast between thinner and thicker e
 
 {{< figure src="/images/weights.png" caption="Styles and weights: roman, italic and bold" alt="Styles and weights: roman, italic and bold" width="80%">}}
 
-Nowadays, they are used for more specialized purposes, e.g. to emphasize individual words (especially in serif fonts) and to denote the titles of books and other full-length works, e.g. *Le città invisibili*, *Le Mariage de Figaro*. Word-processors sometimes present block quotations by default in italics, but this is not a style that you should follow in your essays. 
+Nowadays, they are used for more specialized purposes, e.g. to emphasize individual words (especially in serif fonts) and to denote the titles of books and other full-length works, e.g. *Le città invisibili*, *Le Mariage de Figaro*. Word-processors sometimes present block quotations by default in italics, but this is not a style that you should follow in your essays; likewise, italics should not be used for inline quotations. 
 
 Bold fonts can also be used for emphasis and also to highlight the structural hierarchy of elements of a document, e.g. in headings. Note that here all three typefaces have the same point size, but differ in width. 
 
@@ -81,7 +81,7 @@ In some cases, several characters in a row will require kerning, though to diffe
 
 ### Digraphs and ligatures
 
-In some scripts, a single printed character can be composed of two components. This feature is termed a **digraph**: here is an example of a character that represents a discrete diphthong in Dutch  and belongs to the [Latin Extended-A block](https://unicode.org/charts/PDF/U0100.pdf) in Unicode.
+In some scripts, a single printed character can be composed of two components. This feature is termed a **[digraph](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#multig)**: here is an example of a character that represents a discrete diphthong in Dutch  and belongs to the [Latin Extended-A block](https://unicode.org/charts/PDF/U0100.pdf) in Unicode.
 
 {{< figure src="/images/ij.png" caption="IJ in Dutch: upper and lower case" alt="IJ in Dutch" width="80%">}}
 
@@ -93,13 +93,13 @@ Another example is the character **ǅ** and its lower-case equivalent **ǆ**, wh
 
 {{< figure src="/images/dz_codepoint.png" caption="Latin capital DZ with caron" alt="Latin capital DZ with caron" width="80%">}}
 
-All of these characters form part of the Latin Extended-B block.
+All of these three characters form part of the Latin Extended-B block.
 
 {{< figure src="/images/dz_block.png" caption="Latin Extended-B in Unicode" alt="Latin Extended-B in Unicode" width="80%">}}
 
 See if you can identify them also in <a href="/documents/Noto_Serif_Unicode.pdf" target="_blank">the Noto Serif character set</a>.
 
-A **ligature** is another form of joined character, but with a different purpose.
+A **[ligature](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#ligature)** is another form of joined character, but with a different purpose.
 
 {{< figure src="/images/ligatures.png" caption="Ligatures" alt="Ligatures" width="80%">}}
 
