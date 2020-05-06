@@ -70,7 +70,9 @@ Here are the characters that make up the second of these blocks, **Latin-1 Suppl
 
 When you are working in a given application and select a character on a keyboard, you need to be sure that it will then appear on screen: you depend on a **character encoding** for this to happen. 
 
-The most common encoding used today is **UTF-8**. It is the standard encoding for the internet and is also the default in word-processing applications. When you enter a character in UTF-8, a computer will then transform that into binary code in **bits**, or minimal units of digital information (usually a **0** or a **1**).
+The most common encoding used today is **UTF-8**. It is the standard encoding for the internet and is also the default in word-processing applications. When you enter a character in UTF-8, a computer will then transform that into binary code in **bits**, or minimal units of digital information (usually a **0** or a **1**). 
+
+For example, the character **A** in UTF-8 has the following value in binary code: `01000001`.
 
 {{< figure src="/images/unicode_utf.png" caption="Unicode and UTF code points in UnicodeChecker" alt="Unicode and UTF code points in UnicodeChecker" width="80%">}}
 
@@ -106,4 +108,4 @@ What, then, is the purpose of any of these transformation formats? It is to conn
 
 It is in binary format that the characters you type are ultimately stored in a computer.
 
-Transformation formats such as UTF-8 can represent any character in Unicode, which means that you can expect to be able to input any character in any script in the course of your work. The existence of a single standard and a universal encoding like UTF-8 therefore greatly simplifies your work.
+Transformation formats such as UTF-8 can represent any character in Unicode, which means that you can expect to be able to input any character in any script in the course of your work. The existence of a single standard and a universal encoding like UTF-8 therefore greatly simplifies your work. UTF-8 values are also much easier to handle that plain binary code would be.

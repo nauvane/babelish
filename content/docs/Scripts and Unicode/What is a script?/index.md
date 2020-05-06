@@ -13,7 +13,7 @@ This is how Unicode defines a script: "A collection of letters and other written
 
 ### Latin script
 
-This is the script that you are likely to use most often: it is the one in which English and many European languages are written, and is the most widely script used today (in addtion, about two-thirds of the writing systems in the world today use alphabetical scripts).
+This is the script that you are likely to use most often: it is the one in which English and many European languages are written, and is the most widely script used today (in addition, about two-thirds of the writing systems in the world today use [alphabetical scripts](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#alph)).
 
 {{< figure src="/images/word_boundaries.png" caption="Latin script features" alt="Latin script features" width="80%">}}
 
@@ -38,7 +38,8 @@ You can see in the example above that the character **d** is used it its upper c
 - it is a **cursive** script; in other words, the characters "join up"
 - the shape of cursive characters can be determined by the characters to which they are joined
 - characters can also overlap
-- the script directly represents only consonants and long vowel sounds, with short vowel sounds and other phonetic information being denoted by **diacritics**
+- the script directly represents only consonants and long vowel sounds; in other words, it is an **[abjad](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#abjad)**
+- short vowel sounds and other phonetic information being denoted by **[diacritics](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#diacritic)**
 - unlike Latin script, it is not case-sensitive
 - like Latin script, it has native digits
 - spaces are used as word-separators
@@ -58,7 +59,7 @@ Here is an example of a sentence using [the Simplified Chinese script](https://r
 - they are not case-sensitive
 - Han does not use spaces as word-separators, though the **justification** of lines leads to adjustments in the placement of characters within their frames
 - Korean, by contrast, does feature spacing between words
-- both Han and Japanese script uses a centred baseline, whereas in Korean a bottom baseline is used
+- both Han and Japanese script uses [a centred baseline](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#baseline), whereas in Korean a bottom baseline is used
 
 {{< figure src="/images/boundaries_han.png" caption="Han: case and boundaries" alt="Han: case and boundaries" width="80%">}}
 

@@ -15,11 +15,11 @@ A file format is typically designated by the file's extension, which takes the f
 
 This is also an Open XML format, which means a Word file can more easily be transferred between computers and also transformed into other document formats. It also makes it [compact and modular in its structure](https://support.office.com/en-gb/article/open-xml-formats-and-file-name-extensions-5200d93c-3449-4380-8e11-31ef14555b18#bm2). Because information about the file is stored together with its contents, it will open with the same appearance in a different user's computer.
 
-A LibreOffice file with the extension `.odt` is also a word-processing file. LibreOffice makes use of the [OpenDocument Format](https://www.libreoffice.org/discover/what-is-opendocument/). This format supports structured documents that are interoperable. This means that ODF files can be read on machines using different operating systems and with a range of different applications other than LibreOffice. 
+A LibreOffice file with the extension `.odf` is also a word-processing file. LibreOffice makes use of the [OpenDocument Format](https://www.libreoffice.org/discover/what-is-opendocument/). This format supports structured documents that are interoperable. This means that ODF files can be read on machines using different operating systems and with a range of different applications other than LibreOffice. 
 
 Both Word and LibreOffice store all of the information associated with a given document in the form of a compressed archive file (usually a `.zip` file).
 
-{{< figure src="/images/odt.png" caption="Contents of a LibreOffice `.odt` file archive" alt="Contents of a LibreOffice `.odt` file archive" width="80%">}}
+{{< figure src="/images/odt.png" caption="Contents of a LibreOffice template file archive in `.odt` format" alt="Contents of a LibreOffice template file archive" width="80%">}}
 
 As well as the contents of the file, this format contains information about the styles used in a given document as well as its metadata. All of this data is in the form of `.xml` files, a format designed for the exchange of information between computer applications. The eighteen files of which this example is made up also include an image file in `.jpg` format embedded in the document — it is the largest file by some margin. Finally, because these files also contain information about the configuration of the LibreOffice application in which the document was created, it too will be retrieved with exactly the same layout when opened in a different machine.
 

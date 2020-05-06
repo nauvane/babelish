@@ -79,4 +79,4 @@ If you select **More fonts**, you are given the option of using additional fonts
 
 {{< figure src="/images/addit_fonts.png" caption="Options in Google Fonts" alt="Options in Google Fonts" width="80%">}}
 
-Note that you can specify which script you wish to use in selecting a given font style (here, the choice is limited to serif fonts).
+Note that you can specify which script you wish to use in selecting a given font style (here, the choice has been restricted to serif fonts).
