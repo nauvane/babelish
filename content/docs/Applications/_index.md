@@ -13,6 +13,7 @@ description: >
 - [Bibliographical tools](/docs/applications/#bibliographical-tools)
 - [Text editors](/docs/applications/#text-editors)
 - [Markdown](/docs/applications/#markdown)
+- [Touch typing](/docs/applications/#touch-typing)
 - [Snippets](/docs/applications/#snippets)
 - [PDFs](/docs/applications/#pdfs)
 - [Unicode](/docs/applications/#unicode)
@@ -55,6 +56,13 @@ Before downloading and installing applications, check your operating system, e.g
 - [MarkdownPad](http://www.markdownpad.com/) (Windows)
 - [Marked2](https://marked2app.com/) (macOS)
 - [Typora](https://typora.io/) 
+
+## Touch typing
+
+- [Klavaro](https://sourceforge.net/projects/klavaro/) (Windows)
+- [Rapid Typing](https://rapidtyping.com/) (Windows)
+- [typing.com](https://www.typing.com/)
+- [Typist](https://apps.apple.com/us/app/typist/id415166115) (macOS)
 
 ## Snippets
 
