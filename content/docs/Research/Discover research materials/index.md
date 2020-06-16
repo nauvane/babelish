@@ -24,3 +24,9 @@ Academic books, essays and articles are typical secondary sources. You will rece
 ### Reference sources
 
 You also have access to a wide range of **authoritative** reference resources and you should as a rule make use of these rather than drawing on webpages that happen to appear among the results of an internet research. One example of such a source is **[Oxford Reference Online](https://ucc.idm.oclc.org/login?URL=https://www.oxfordreference.com/)**, to which you have access through the library.
+
+### Open access
+
+Alongside [the many sources of knowledge and information](https://libguides.ucc.ie/az.php) to which the University subscribes, you can also access [open-access](https://www.openaccess.nl/en/what-is-open-access) materials, in other words, research sources that are available online free of charge and without restrictive licensing conditions. 
+
+Open-access is an increasingly important ways of accessing current research and [a wide range of open-access outlets](https://modernlanguages.sas.ac.uk/about-us/online-resources/open-access-resources-modern-languages) now exist in several European languages. You can also explore [open-access journals](https://doaj.org/) and in addition UCC maintains its own [institutional repository](https://libguides.ucc.ie/openaccess/gettingstarted) of open-access material. 
