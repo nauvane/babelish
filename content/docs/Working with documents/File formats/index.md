@@ -73,6 +73,9 @@ A digital typeface is typically made up of a series of font files that contain t
 .docx
 : a Word text document
 
+.epub
+: an e-book file for use with most e-book readers (note, however, that a Kindle uses files in `.azw` or `.azw3` format); as well as text, it can support color images, graphics, interactive elements, and video files
+
 .html
 : a document in [Hypertext Markup Language](https://www.w3schools.com/html/html_intro.asp) designed for display on the web
 
