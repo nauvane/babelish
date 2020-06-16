@@ -25,6 +25,10 @@ The most important single aspect of the design of your document is **body text**
 
 For an item like an essay, **line length** should be about eighty characters in total, including spaces: this makes it easier for the eye to move from line to line. For this reason, you should ensure that your document has generous left and right margins (up to 4 cm).
 
+{{% alert title="Tip" color="primary" %}}
+A word-processor allows you to specify dimensions in the units of your choice, e.g. **centimetres** or **inches**. You can also use **points**, which is the unit for type sizes and for spaces in a printed document.
+{{% /alert %}}
+
 In Word, you can adjust these settings by choosing **File** > **Page Setup** > **Margins...** 
 
 {{< figure src="/images/spaceindent.png" caption="Spacing and indentation" alt="Spacing and indentation" width="80%">}}
