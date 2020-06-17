@@ -17,7 +17,7 @@ Here are the characters contained in **Basic Latin**, which is the first block o
 
 {{< figure src="/images/unicode_basiclatin.png" caption="Basic Latin block in Unicode" alt="Basic Latin block in Unicode" width="80%">}}
 
-This block contains the familar basic alphabet, and some punctuation and other characters. Note that this chart denotes each character's code point in Unicode in **hexadecimal** form, a number system in base 16: `0–9, A–E`.
+This block contains the familar basic alphabet, and some punctuation and other characters. Note that this chart denotes each character's code point in Unicode in **hexadecimal** form, a number system in base 16: `0–9, A–F`.
 
 Basic Latin begins at `U+0020`, which represents a space, and extends to `U+007E`, which is the tilde character. 
 

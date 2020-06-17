@@ -59,9 +59,9 @@ As you can see here, they are marginally taller than the font's x-height.
 
 {{< figure src="/images/weights_sc.png" caption="Roman and small caps" alt="Roman and small caps" width="80%">}}
 
-An unbroken series, as here, is referred to as **even small capitals** and is a form often used in headings, and in [page headers and footers](/docs/working-with-documents/structured-documents). Note that this font also incorporates a form of the exclamation mark that is in proportion with the small capitals.
+An unbroken series, as here, without any upper case characters is referred to as **even small capitals** and is a form often used in headings, and in [page headers and footers](/docs/working-with-documents/structured-documents). Note that this font also incorporates a form of the exclamation mark that is in proportion with the small capitals.
 
-The legibility of small caps demands that what is termed the line's **tracking**, in other words, the space between characters, is increased.  
+The legibility of small caps demands that what is termed the line's **tracking**, in other words, the space between characters, is increased: hence the greater width of the second line.  
 
 ### Kerning
 
@@ -107,7 +107,9 @@ Today, what are termed **standard ligatures** are joined characters that avert o
 
 {{< figure src="/images/noto_liga.png" caption="Noto Serif: with and without ligatures" alt="Noto Serif: with and without ligatures" width="80%">}}
 
-In the case of Noto Serif, **f** and **l** are liable to clash. You can, however, opt for fonts which are designed in such a way as not to require ligatures, like [Liberation Serif](https://www.dafont.com/liberation-serif.font), which is the default open-source font in Libre Office.
+In the case of Noto Serif, **f** and **l** are liable to clash, as you can see in the top line. 
+
+You can, however, opt for fonts which are designed in such a way as not to require ligatures, like [Liberation Serif](https://www.dafont.com/liberation-serif.font), which is the default open-source font in Libre Office.
 
 {{< figure src="/images/liberation_nolig.png" caption="Liberation Serif" alt="Liberation Serif" width="80%">}}
 

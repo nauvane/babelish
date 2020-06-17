@@ -102,4 +102,8 @@ Markup matters because it is widely used to store structured data, including a w
 
 {{< figure src="/images/hr.png" caption="EU legislation: a structured document in Croatian" alt="EU legislation: a structured document in Croatian" width="80%">}}
 
-In EU translation databases, texts like legal documents are **encoded** using [XML markup](https://www.w3schools.com/xml/xml_whatis.asp), consisting of specialized tags, e.g. `<p>` for **paragraph**, or `<head>` for a **heading** that contains information about a document. As you work with specialized collections like these in the course of your studies, you will learn more about the different kinds of markup that allow large collections of linguistic data to be used in flexible ways. Experimenting with Markdown is a way of beginning to understand other forms of markup.
+In EU translation databases, texts like legal documents are **encoded** using [XML markup](https://www.w3schools.com/xml/xml_whatis.asp), consisting of specialized tags, e.g. `<p>` for **paragraph**, or `<head>` for a **heading** that contains information about a document. 
+  
+  Collections of electronic texts are a further example of the use of markup. A local example is [CELT](https://celt.ucc.ie/about.html), which is a collection of materials relating to Irish literary and historical culture in the languages represented on the island, including Irish, Latin, Anglo-Norman French and English. CELT makes use of [specialized markup](https://celt.ucc.ie//links.html#sgmltei) designed for use with just these kinds of sources.
+  
+  As you work with specialized collections like these in the course of your studies, you will learn more about the different kinds of markup that allow large collections of linguistic data to be used in flexible ways. Experimenting with Markdown is a way of beginning to understand other forms of markup.
