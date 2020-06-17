@@ -10,11 +10,13 @@ menu:
 
 Today, information technologies make a wide range of tools and resources available to all those who work in languages. In the course of your studies, you will find yourself using computers and online tools more and more extensively throughout your writing and research. Here, you can explore further how you can use these tools in many areas of your work, and in the writing that you yourself will produce.
 
-This site aims to document some of the ways in which you can use these resources productively. This documentation is divided into ten sections. You can read through all of these in sequence, or concentrate on individual parts as the need arises. You will also find template files that you can use in your own written work, and also advice you can follow if you become interested in establishing your own online profile, for example by writing a blog or by creating your own web domain. 
+This site aims to document some of the ways in which you can use these resources productively. This documentation is divided into eleven sections. You can read through all of these in sequence, or concentrate on individual parts as the need arises. You will also find template files that you can use in your own written work, and also advice you can follow if you become interested in establishing your own online profile, for example by writing a blog or by creating your own web domain. 
 
 ### Encountering information technology
 
-In your studies, you will have access to a wide range of [resources](https://libguides.ucc.ie/languages) and [facilities](https://libguides.ucc.ie/libraryessentials), and you will make use of [digital tools](https://www.ucc.ie/en/sit/) in availing of them. You will be able to do so using [open-access computers](https://www.ucc.ie/en/sit/services/about/) on campus, as well equipment that is at your own personal disposal. Beyond these resources, the internet will allow you to explore a vast range of collections and applications that will have a bearing on all aspects of your work — spanning research, collection of data and materials, reading, writing. 
+In your studies, you will have access to a wide range of [resources](https://libguides.ucc.ie/languages) and [facilities](https://libguides.ucc.ie/libraryessentials), and you will make use of [digital tools](https://www.ucc.ie/en/sit/) in availing of them. You will be able to do so using [open-access computers](https://www.ucc.ie/en/sit/services/about/) on campus, as well as equipment that is at your own personal disposal and which you may choose to bring on campus with you or use to work remotely. 
+
+Beyond these resources, the internet will allow you to explore a vast range of collections and applications that will have a bearing on all aspects of your work — spanning research, collection of data and materials, reading, writing. 
 
 ### Your work in languages
 

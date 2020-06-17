@@ -21,7 +21,8 @@ This is the script that you are likely to use most often: it is the one in which
 
 Scripts can be defined according to a number of characteristics, using [Unicode](https://www.unicode.org/glossary/) or [typographical](https://www.adobe.com/ie/products/type/adobe-type-references-tips/glossary.html) terminology. Here are a number of these characteristics in the case of Latin script:
 
-- Latin script is **bicameral**, meaning that it has upper-case and lower-case characters, and is **case-sensitive** — so, we recognize **brown** to be an adjective and **Brown** to be a proper noun
+- Latin script is **alphabetical**
+- it is **bicameral**, meaning that it has upper-case and lower-case characters, and is **case-sensitive** — so, we recognize **brown** to be an adjective and **Brown** to be a proper noun
 - it is a **left-to-right** script
 - it uses spaces as **word-separators**
 - Latin script uses **hyphenation**
@@ -37,11 +38,11 @@ You can see in the example above that the character **d** is used it its upper c
 [Arabic scripts](https://r12a.github.io/scripts/arabic/index) present several more distinguishing features than Latin script. After the Latin alphabet, it is the second most widely used script in the world.
 
 - Arabic is a **right-to-left** mid-baseline script
+- the script directly represents only consonants and long vowel sounds; in other words, it is an **[abjad](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#abjad)**
+- short vowel sounds and other phonetic information are denoted by **[diacritics](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#diacritic)**
 - it is a **cursive** script; in other words, the characters "join up"
 - the shape of cursive characters can be determined by the characters to which they are joined
 - characters can also overlap
-- the script directly represents only consonants and long vowel sounds; in other words, it is an **[abjad](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#abjad)**
-- short vowel sounds and other phonetic information are denoted by **[diacritics](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#diacritic)**
 - unlike Latin script, it is not case-sensitive
 - like Latin script, it has native digits
 - spaces are used as word-separators
@@ -58,6 +59,8 @@ Here is an example of a sentence using [the Simplified Chinese script](https://r
 
 {{< figure src="/images/han.png" caption="CJK: Simplified Chinese" alt="CJK: Simplified Chinese" width="80%">}}
 
+Can you identify the use of Traditional Chinese quotation marks here, as well as the European comma and full point?
+
 - Han scripts are **ideographic**, with characters usually representing a spoken syllable
 - for this reason, Han script is also referred to as a **[logosyllabary](https://scriptsource.org/cms/scripts/page.php?item_id=glossary#logosyl)**
 - Japanese script features both syllabic and ideographic-syllabic text, with word-spacing being used with the former
@@ -69,7 +72,7 @@ Here is an example of a sentence using [the Simplified Chinese script](https://r
 
 {{< figure src="/images/boundaries_han.png" caption="Han: case and boundaries" alt="Han: case and boundaries" width="80%">}}
 
-A Han ideogram can be thought of as contained a uniform square frame: here, the characters are displayed in visible **bounding boxes** to illustrate the absence of features like case and word separation. Note that punctuation marks imported from European scripts are **[full-width](https://unicode.org/glossary/#fullwidth)** rather than **[half-width](https://unicode.org/glossary/#halfwidth)**, and therefore do not require additional spacing. Can you identify the use of Traditional Chinese quotation marks here, as well as the European comma and full point?
+A Han ideogram can be thought of as contained a uniform square frame: here, the characters are displayed in visible **bounding boxes** to illustrate the absence of features like case and word separation. Note that punctuation marks imported from European scripts are **[full-width](https://unicode.org/glossary/#fullwidth)** rather than **[half-width](https://unicode.org/glossary/#halfwidth)**, and therefore do not require additional spacing. 
 
 ### A historical script: Ogham
 
