@@ -27,6 +27,6 @@ You also have access to a wide range of **authoritative** reference resources an
 
 ### Open access
 
-Alongside [the many sources of knowledge and information](https://libguides.ucc.ie/az.php) to which the University subscribes, you can also access [open-access](https://www.openaccess.nl/en/what-is-open-access) materials, in other words, research sources that are available online free of charge and without restrictive licensing conditions. 
+Alongside [the many sources of knowledge and information](https://libguides.ucc.ie/az.php) to which the University subscribes, you can also make use of [open-access](https://www.openaccess.nl/en/what-is-open-access) materials, in other words, research sources that are available online free of charge and without restrictive licensing conditions. 
 
-Open-access is an increasingly important ways of accessing current research and [a wide range of open-access outlets](https://modernlanguages.sas.ac.uk/about-us/online-resources/open-access-resources-modern-languages) now exist in several European languages. You can also explore [open-access journals](https://doaj.org/) and in addition UCC maintains its own [institutional repository](https://libguides.ucc.ie/openaccess/gettingstarted) of open-access material. 
+Open-access is an increasingly important way of availing of current research and [a wide range of open-access outlets](https://modernlanguages.sas.ac.uk/about-us/online-resources/open-access-resources-modern-languages) now exists in several European languages. You can also explore [open-access journals](https://doaj.org/) and in addition UCC maintains its own [institutional repository](https://libguides.ucc.ie/openaccess/gettingstarted) of open-access research. 
