@@ -66,6 +66,8 @@ Here are the characters that make up the second of these blocks, **Latin-1 Suppl
 
 {{< figure src="/images/latin1supp.png" caption="Latin-1 Supplement in the Basic Multilingual Plane" alt="Latin-1 Supplement in the Basic Multilingual Plane" width="80%">}}
 
+Unicode charts are now available in [French](https://www.unicode.org/charts/fr/) as well as English, with the added possibility of [searching for characters by name](https://www.unicode.org/charts/fr/charindex.html).
+
 ### How computers handle characters
 
 When you are working in a given application and select a character on a keyboard, you need to be sure that it will then appear on screen: you depend on a **character encoding** for this to happen. 
@@ -94,17 +96,7 @@ CJK characters in UTF-8 are as a rule longer than those in Latin scripts.
 
 What, then, is the purpose of any of these transformation formats? It is to connect a Unicode reference-point to the purely binary encoding through which a computer operates.
 
-|   | Unicode | UTF-8 | Binary | Bytes |
-|:---:|---------|--------|---------|:---------:|
-| **A** | U+0041 | 0x41 | 01000001 | 1 |
-| **a**  | U+0061 | 0x61 | 01100001 | 1 |
-| **IJ** | U+0132 | 0xC4B2 | 1100010010110010 | 2 |
-| **天** | U+5929 | 0xE5A4A9 | 111001011010010010101001 | 3| 
-| **&#x20000;** | U+20000| 0xF0A08080 | 11110000101000001000000010000000 | 4 |
-
-<figcaption>Translating code points between Unicode and binary</figcaption>
-
-&nbsp;
+{{< figure src="/images/unicode_binary.png" caption="Translating code points between Unicode and binary" alt="Translating code points between Unicode and binary" width="80%">}}
 
 It is in binary format that the characters you type are ultimately stored in a computer.
 
