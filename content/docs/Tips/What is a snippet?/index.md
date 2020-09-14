@@ -11,6 +11,8 @@ A snippet is a useful shortcut: a short string of text expands into a word or ph
 
 In macOS, you can create such snippets by opening **System Preferences**, and then select **Keyboard** > **Text**. You can then create snippets of your own, for example, your name, or your email address, or your degree programme, but also titles of books to which you refer often in an essay or a recurring phrase or concept, e.g. "gmm" for "grammaticalization". 
 
+### Using dedicated tools
+
 [Dedicated tools](/docs/applications/#snippets) can be used in more extensive and flexible ways to create and use snippets. 
 
 {{< figure src="/images/atext.png" caption="aText: an expansion tool for Mac and Windows" alt="aText: an expansion tool for Mac and Window" width="80%">}}
