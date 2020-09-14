@@ -2,7 +2,7 @@
 title: "File formats"
 linkTitle: "File formats"
 date: 2020-03-14T21:04:41Z
-weight: 8
+weight: 9
 description: >
   A file's format is expressed in its file extension
 ---
