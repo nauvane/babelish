@@ -42,7 +42,7 @@ A set of Unicode blocks that is fully supported in the Noto Sans and Serif fonts
 
 {{< figure src="/images/ipa_eg.png" caption="An IPA transcription" alt="An IPA transcription" width="80%">}}
 
-You can use a dedicated keyboard where extended inputting in a specialized block is required. 
+You can use a dedicated keyboard where you extended inputting in a specialized block is required. 
 
 ### Unicode block by block
 

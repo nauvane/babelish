@@ -67,7 +67,6 @@ Before downloading and installing applications, check your operating system, e.g
 ## Snippets
 
 - [aText Typing Accelerator](https://www.trankynam.com/atext/) (macOS and Windows)
-- [Beeftext](https://beeftext.org/) (Windows)
 - [FastKeys](https://www.fastkeysautomation.com/) (Windows)
 - [Phrase Express](https://www.phraseexpress.com/) (Windows)
 
@@ -126,6 +125,7 @@ Before downloading and installing applications, check your operating system, e.g
 - [7-Zip](https://www.7-zip.org/) (Windows)
 - [Alfred](https://www.alfredapp.com/) (macOS)
 - [Archive Utility](https://support.apple.com/en-ie/guide/mac-help/mchlp2528/mac) (macOS, pre-installed)
+- [Beeftext](https://beeftext.org/) (Windows)
 - [PeaZip](https://www.peazip.org/) (Windows)
 - [The Unarchiver](https://theunarchiver.com/) (macOS)
 - [Wox](http://www.wox.one/) (Windows)
