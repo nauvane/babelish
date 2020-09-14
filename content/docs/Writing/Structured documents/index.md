@@ -2,7 +2,7 @@
 title: "Structured documents"
 linkTitle: "Structured documents"
 date: 2020-03-02
-weight: 3
+weight: 4
 description: >
   Learn to make the structure of your documents explicit
 ---

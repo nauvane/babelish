@@ -29,4 +29,6 @@ Another strategy is to make use of dedicated note-taking applications. One examp
 
 You can treat this digital tool as a surrogate for a paper notebook, in that you can click and insert material at any place in the "page". You can also incorporate scans of physical documents and can record audio notes, among other facilities. 
 
-The important thing about taking notes is to ensure that whatever process you use is productive for you. You may, for instance, find it more convenient to combine physical and digital notes, and some writers argue that the act of writing with pen and paper is more conducive to remembering the material that you have learnt. Experiment and discover which style, or styles, of learing works best for you in different contexts. 
+### Discover what works best for you
+
+The important thing about taking notes is to ensure that whatever process you use is productive for you. You may, for instance, find it more convenient to combine physical and digital notes, and some writers argue that the act of writing with pen and paper is more conducive to remembering the material that you have learnt. Experiment and discover which style, or styles, of learning works best for you in different contexts. 
