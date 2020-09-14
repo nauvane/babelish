@@ -16,15 +16,9 @@ In macOS, the simplest method to make a screenshot is to use [the built-in softw
 - CMD+SHIFT+3: capture a shot of your desktop. An icon will appear on-screen: click on this and you can then annotate or crop the shot as you wish
 - CMD+SHIFT+4: capture a shot of a specific portion of your screen by dragging the crosshairs that appear over the desired area
 
-### File format
-
 Wherever possible, you should capture screenshots in `.png` format: this is a lossless format and therefore is likely to result in a higher-resolution file. 
 
-### Dedicated applications
-
 You can also make use of [dedicated applications](/docs/applications/#screenshots) to capture screenshots. 
-
-### References and fair use
 
 You should always include a caption, giving your source and including a link where relevant.
 

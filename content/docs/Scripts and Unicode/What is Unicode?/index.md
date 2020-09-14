@@ -66,8 +66,6 @@ Here are the characters that make up the second of these blocks, **Latin-1 Suppl
 
 {{< figure src="/images/latin1supp.png" caption="Latin-1 Supplement in the Basic Multilingual Plane" alt="Latin-1 Supplement in the Basic Multilingual Plane" width="80%">}}
 
-Unicode charts are now available in [French](https://www.unicode.org/charts/fr/) as well as English, with the added possibility of [searching for characters by name](https://www.unicode.org/charts/fr/charindex.html).
-
 ### How computers handle characters
 
 When you are working in a given application and select a character on a keyboard, you need to be sure that it will then appear on screen: you depend on a **character encoding** for this to happen. 
