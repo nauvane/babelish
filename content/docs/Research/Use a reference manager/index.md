@@ -11,7 +11,7 @@ A reference manager is a flexible tool: it can be integrated into word-processor
 
 ### Experiment with Zotero
 
-[Zotero](https://www.zotero.org/) is a free and open-source reference manager with is available for Windows and macOS. While it provides users with 300MB of storage free of charge, a subscription is required to retains larger volumes of material. 
+[Zotero](https://www.zotero.org/) is a free and open-source reference manager with is available for Windows and macOS. The application provides users with a limited quantity of online storage free of charge; a subscription is required to retain larger volumes of material, though data can also simply be stored locally on your own hard disk. 
 
  {{< figure src="/images/zotero_app.png" caption="Zotero: desktop application" alt="Zotero: desktop application" width="80%">}}
  
