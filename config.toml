@@ -78,10 +78,10 @@ anchor = "smart"
 github_project_repo = "https://github.com/nauvane/babelish"
 
 # Enable Algolia DocSearch
-algolia_docsearch = false
+algolia_docsearch = true
 
 # Enable local search
-offlineSearch = true
+# offlineSearch = false
 
 [frontmatter]
 
@@ -96,7 +96,7 @@ sidebar_menu_compact = false
 #  Set to true to disable breadcrumb navigation.
 breadcrumb_disable = false
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = false
 # Set to true to disable the About link in the site footer
@@ -119,12 +119,12 @@ titleCaseStyle = "Chicago"
 
 # Privacy
 
-[privacy.googleAnalytics]
-    anonymizeIP = true 
-    respectDoNotTrack = true 
-    useSessionStorage = true 
-[privacy.twitter]
-    enableDNT = true
+# [privacy.googleAnalytics]
+#     anonymizeIP = true 
+#     respectDoNotTrack = true 
+#     useSessionStorage = true 
+# [privacy.twitter]
+#     enableDNT = true
 
     [[params.links.developer]]
     	name = "GitHub"
