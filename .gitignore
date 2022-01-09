@@ -11,3 +11,4 @@ hugo.linux
 docsy-example
 themes/docsy
 node_modules
+assets/.DS_Store
