@@ -1,0 +1,13 @@
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+/docsy-example
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
+docsy-example
+themes/docsy
+node_modules
