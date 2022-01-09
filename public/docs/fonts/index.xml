@@ -1,0 +1,428 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Babelish – Fonts</title>
+    <link>/docs/fonts/</link>
+    <description>Recent content in Fonts on Babelish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Sun, 01 Mar 2020 18:30:54 +0000</lastBuildDate>
+    
+	  <atom:link href="/docs/fonts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Types and usage</title>
+      <link>/docs/fonts/types-and-usage/</link>
+      <pubDate>Wed, 04 Mar 2020 11:55:11 +0000</pubDate>
+      
+      <guid>/docs/fonts/types-and-usage/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://www.bl.uk/history-of-writing/articles/a-short-history-of-calligraphy-and-typography&#34;&gt;Features of the Latin script&lt;/a&gt; that continue to shape how we communicate in print go back to the century that followed the invention of movable type in Europe and even further to ancient Rome.&lt;/p&gt;
+&lt;h3 id=&#34;the-profile-of-a-font&#34;&gt;The profile of a font&lt;/h3&gt;
+&lt;p&gt;One of these ancient features is the presence of &lt;strong&gt;serifs&lt;/strong&gt;, or projections at the extremes of certain strokes, as in the upper case &lt;strong&gt;e&lt;/strong&gt; and in &lt;strong&gt;x&lt;/strong&gt; here.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/guidelines_serifs.png&#34;
+         alt=&#34;Profile of a serif font&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Profile of a serif font (right click to view full size)&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Each font has a number of distinctive elements, notably its &lt;strong&gt;x-height&lt;/strong&gt;, or the height of lower-case characters, and its &lt;strong&gt;capital height&lt;/strong&gt;. The full &lt;strong&gt;point size&lt;/strong&gt; of a digital font is the distance between its &lt;strong&gt;descender&lt;/strong&gt; and &lt;strong&gt;ascender lines&lt;/strong&gt; (typography, needless to say, has &lt;a href=&#34;https://www.adobe.com/ie/products/type/adobe-type-references-tips/glossary.html&#34;&gt;its own distinctive terminology&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;A font&amp;rsquo;s x-height has an important bearing on its legibility.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/xheights.png&#34;
+         alt=&#34;Contrasting x-heights&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Contrasting x-heights&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Fonts of quite similar point size can have x-heights that differ quite sharply. The raised x-height of Noto Serif means that it is more legible at smaller point sizes, provided that &lt;a href=&#34;/docs/working-with-documents/word-processors#document-design-using-a-word-processor&#34;&gt;inter-line spacing&lt;/a&gt; is slightly increased.&lt;/p&gt;
+&lt;h3 id=&#34;serif-and-sans-serif&#34;&gt;Serif and sans serif&lt;/h3&gt;
+&lt;p&gt;Many &lt;a href=&#34;https://www.bl.uk/history-of-writing/articles/a-short-history-of-calligraphy-and-typography&#34;&gt;features of the design of serif fonts&lt;/a&gt; derive from calligraphy. &lt;strong&gt;Sans serif&lt;/strong&gt; fonts, by contrast, are more geometric and less ornamental in character.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/noto_serif_sans.png&#34;
+         alt=&#34;Serif and sans serif&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Serif and sans serif&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Even so, some sans serif fonts retain the contrast between thinner and thicker elements of a character: compare the &lt;strong&gt;shoulder&lt;/strong&gt; of the letter &lt;strong&gt;h&lt;/strong&gt; in the two forms of the Noto font, or the &lt;strong&gt;counter&lt;/strong&gt; of the sans serif &lt;strong&gt;g&lt;/strong&gt;. Note also that in the serif and sans serif forms of Noto the x-height, capital height, ascender and descender lines are identical. Today, many fonts exist in the form of &lt;strong&gt;font families&lt;/strong&gt; encompassing serif and sans serif forms with many variants of style and weight. Noto Sans is the font used in this site.&lt;/p&gt;
+&lt;h3 id=&#34;styles-and-weights&#34;&gt;Styles and weights&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bl.uk/collection-items/first-book-in-italic-typeface&#34;&gt;Italic fonts&lt;/a&gt; were first used in the sixteenth century to print material in Latin.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/weights.png&#34;
+         alt=&#34;Styles and weights: roman, italic and bold&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Styles and weights: roman, italic and bold&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Nowadays, they are used for more specialized purposes, e.g. to emphasize individual words (especially in serif fonts) and to denote the titles of books and other full-length works, e.g. &lt;em&gt;Le città invisibili&lt;/em&gt;, &lt;em&gt;Le Mariage de Figaro&lt;/em&gt;. Word-processors sometimes present block quotations by default in italics, but this is not a style that you should follow in your essays; likewise, italics should not be used for inline quotations.&lt;/p&gt;
+&lt;p&gt;Bold fonts can also be used for emphasis and also to highlight the structural hierarchy of elements of a document, e.g. in headings. Note that here all three typefaces have the same point size, but differ in width.&lt;/p&gt;
+&lt;h3 id=&#34;opentype-fonts&#34;&gt;OpenType fonts&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;OpenType&lt;/strong&gt; is the most widely available font format available today. This is a file format that allows several different font variants to be combined in a single file — extending to features that we will now consider, including small capitals, ligatures and various forms of numerals.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/one.png&#34;
+         alt=&#34;Variations on the number 1&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Variations on the number 1&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here are the several forms of the number &lt;strong&gt;1&lt;/strong&gt; in the font &lt;a href=&#34;https://fonts.google.com/specimen/Faustina&#34;&gt;Faustina&lt;/a&gt;, including forms used in fractions, lining and non-lining versions with tabular and proportional variations. It is possible to activate any OpenType forms you wish to use in a document using controls in a word-processor.&lt;/p&gt;
+&lt;h3 id=&#34;small-capitals-and-structural-divisions&#34;&gt;Small capitals and structural divisions&lt;/h3&gt;
+&lt;p&gt;Small capitals, which are characters that take the form of capitals but are proportional in height and weight to lower-case characters, emerged also in the sixteenth-century, typically to designate headings or other structural elements.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/small_caps.png&#34;
+         alt=&#34;Small caps&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Small caps&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As you can see here, they are marginally taller than the font&amp;rsquo;s x-height.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/weights_sc.png&#34;
+         alt=&#34;Roman and small caps&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Roman and small caps&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;An unbroken series, as here, without any upper case characters is referred to as &lt;strong&gt;even small capitals&lt;/strong&gt; and is a form often used in headings, and in &lt;a href=&#34;/docs/working-with-documents/structured-documents&#34;&gt;page headers and footers&lt;/a&gt;. Note that this font also incorporates a form of the exclamation mark that is in proportion with the small capitals.&lt;/p&gt;
+&lt;p&gt;The legibility of small caps demands that what is termed the line&amp;rsquo;s &lt;strong&gt;tracking&lt;/strong&gt;, in other words, the space between characters, is increased: hence the greater width of the second line.&lt;/p&gt;
+&lt;h3 id=&#34;kerning&#34;&gt;Kerning&lt;/h3&gt;
+&lt;p&gt;Even where the tracking in a given font may have been varied, some upper-case characters call for further adjustments. This form of adjustment is called &lt;strong&gt;kerning&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/kerning_noboxes.png&#34;
+         alt=&#34;Top line: no kerning&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Top line: no kerning&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can see here that the spacing between the first three characters in the top line looks out of proportion with the rest.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/kerning_boxes.png&#34;
+         alt=&#34;Kerning applied&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Kerning applied&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here is the second of the two lines with each character enclosed within a &lt;strong&gt;bounding box&lt;/strong&gt;. Kerning is a special form of adjustment between specific upper case characters in particular. As you can see, when kerning is applied the &lt;strong&gt;a&lt;/strong&gt; and the &lt;strong&gt;v&lt;/strong&gt; all notably overlap, making the string as a whole appear more evenly spaced.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/kerningbis.png&#34;
+         alt=&#34;Variable kerning&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Variable kerning&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In some cases, several characters in a row will require kerning, though to different degrees according to the specific combinations that may arise.&lt;/p&gt;
+&lt;h3 id=&#34;digraphs-and-ligatures&#34;&gt;Digraphs and ligatures&lt;/h3&gt;
+&lt;p&gt;In some scripts, a single printed character can be composed of two components. This feature is termed a &lt;strong&gt;&lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#multig&#34;&gt;digraph&lt;/a&gt;&lt;/strong&gt;: here is an example of a character that represents a discrete diphthong in Dutch  and belongs to the &lt;a href=&#34;https://unicode.org/charts/PDF/U0100.pdf&#34;&gt;Latin Extended-A block&lt;/a&gt; in Unicode.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/ij.png&#34;
+         alt=&#34;IJ in Dutch&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;IJ in Dutch: upper and lower case&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In other words, this character is different from &lt;strong&gt;i&lt;/strong&gt; and &lt;strong&gt;j&lt;/strong&gt; printed side by side, which is why it has its own Unicode code point.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/ij_codepoint.png&#34;
+         alt=&#34;IJ: a composed character in Unicode&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;IJ: a composed character in Unicode&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Another example is the character &lt;strong&gt;ǅ&lt;/strong&gt; and its lower-case equivalent &lt;strong&gt;ǆ&lt;/strong&gt;, which are used in Croatian script. A further variant is the double capital form.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/dz_codepoint.png&#34;
+         alt=&#34;Latin capital DZ with caron&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Latin capital DZ with caron&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;All of these three characters form part of the Latin Extended-B block.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/dz_block.png&#34;
+         alt=&#34;Latin Extended-B in Unicode&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Latin Extended-B in Unicode&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;See if you can identify them also in &lt;a href=&#34;/documents/Noto_Serif_Unicode.pdf&#34; target=&#34;_blank&#34;&gt;the Noto Serif character set&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;&lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#ligature&#34;&gt;ligature&lt;/a&gt;&lt;/strong&gt; is another form of joined character, but with a different purpose.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/ligatures.png&#34;
+         alt=&#34;Ligatures&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Ligatures&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Today, what are termed &lt;strong&gt;standard ligatures&lt;/strong&gt; are joined characters that avert otherwise awkward clashes, e.g. when an &lt;strong&gt;i&lt;/strong&gt; or &lt;strong&gt;l&lt;/strong&gt; follows an &lt;strong&gt;f&lt;/strong&gt;. It is a good idea to activate these ligatures if you notice that clashes do arise in the font that you may be using.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/noto_liga.png&#34;
+         alt=&#34;Noto Serif: with and without ligatures&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Noto Serif: with and without ligatures&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the case of Noto Serif, &lt;strong&gt;f&lt;/strong&gt; and &lt;strong&gt;l&lt;/strong&gt; are liable to clash, as you can see in the top line.&lt;/p&gt;
+&lt;p&gt;You can, however, opt for fonts which are designed in such a way as not to require ligatures, like &lt;a href=&#34;https://www.dafont.com/liberation-serif.font&#34;&gt;Liberation Serif&lt;/a&gt;, which is the default open-source font in Libre Office.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/liberation_nolig.png&#34;
+         alt=&#34;Liberation Serif&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Liberation Serif&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;OpenType fonts also often include historical or discretionary ligatures, which are mainly ornamental or antiquarian. These should be avoided in your essays: for the reader of today, they are something of a distraction. On the other hand, if you are reproducing the typography of an original source, you may wish to make use of them.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/ws.png&#34;
+         alt=&#34;Ligatures&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Shakespeare, Sonnet 130: historical st ligature&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;numerals&#34;&gt;Numerals&lt;/h3&gt;
+&lt;p&gt;OpenType fonts typically include numerals in different styles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;old-style (or non-lining) proportional numerals&lt;/li&gt;
+&lt;li&gt;old-style tabular numerals&lt;/li&gt;
+&lt;li&gt;lining proportional numerals&lt;/li&gt;
+&lt;li&gt;lining tabular numerals&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/numerals.png&#34;
+         alt=&#34;Varieties of numerals&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Varieties of numerals&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Old-style numerals are appropriate to use in body text: they form an even line with alphabetical characters, so improving the legibility of your content. Tabular forms, whether lining or non-lining, are most useful in tables: columns of numbers then remain aligned from row to row. Lining numerals are as a rule slightly less than capital height. Where figures are to be combined with upper case characters, lining numerals are a better choice.&lt;/p&gt;
+&lt;h3 id=&#34;accessing-font-features-in-word-processors&#34;&gt;Accessing font features in word-processors&lt;/h3&gt;
+&lt;p&gt;To access font controls in &lt;strong&gt;Word&lt;/strong&gt;, select &lt;strong&gt;Format&lt;/strong&gt; &amp;gt; &lt;strong&gt;Fonts&lt;/strong&gt;, or use to keyboard to select &lt;strong&gt;CTRL+D&lt;/strong&gt; (Windows) or &lt;strong&gt;CMD+D&lt;/strong&gt; (macOS).&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/word_fonts.png&#34;
+         alt=&#34;Fonts in Word&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Fonts in Word&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The basic controls are available in this interface. To access more specialized features, select &lt;strong&gt;Advanced&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/fonts_advanced.png&#34;
+         alt=&#34;Advanced font options in Word&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Advanced font options in Word&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here, you can control kerning, where necessary. You can also access OpenType font features, including ligatures.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/nonlining.png&#34;
+         alt=&#34;Numerals in Word&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Numerals in Word&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here, proportional and non-lining or old-style numerals are selected.&lt;/p&gt;
+&lt;p&gt;The best option to control font features in &lt;strong&gt;LibreOffice&lt;/strong&gt; is to use the &lt;strong&gt;&lt;a href=&#34;/docs/applications/#word-processors&#34;&gt;Typography Toolbar&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/typography_toolbar.png&#34;
+         alt=&#34;The Typography Toolbar in LibreOffice&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;The Typography Toolbar in LibreOffice&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Highlight a segment of text, or press &lt;strong&gt;CTRL+A&lt;/strong&gt; or &lt;strong&gt;CMD+A&lt;/strong&gt; to select all of the text in a document, and select the feature that you wish to apply.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Installing fonts</title>
+      <link>/docs/fonts/installing-fonts/</link>
+      <pubDate>Wed, 04 Mar 2020 11:55:33 +0000</pubDate>
+      
+      <guid>/docs/fonts/installing-fonts/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Tip&lt;/h4&gt;
+
+    Both Windows and macOS support &lt;strong&gt;TrueType&lt;/strong&gt; (&lt;code&gt;.ttf&lt;/code&gt;) and &lt;strong&gt;OpenType&lt;/strong&gt; (&lt;code&gt;.otf&lt;/code&gt;) fonts. Make sure that any fonts you download are in these formats, rather than webfonts.
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;unicode-fonts&#34;&gt;Unicode fonts&lt;/h3&gt;
+&lt;p&gt;The most practical resource to access scripts encoded in Unicode is the &lt;strong&gt;&lt;a href=&#34;https://www.google.com/get/noto/&#34;&gt;Noto Project&lt;/a&gt;&lt;/strong&gt;. You can browse which fonts you would like to install. &lt;a href=&#34;https://noto-website-2.storage.googleapis.com/pkgs/NotoSerif-unhinted.zip&#34;&gt;Noto Serif&lt;/a&gt; includes all of the various Latin blocks in Unicode and much more besides, as you can see from &lt;a href=&#34;/documents/Noto_Serif_Unicode.pdf&#34; target=&#34;_blank&#34;&gt;the full character set&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://software.sil.org/charis/&#34;&gt;Charis SIL&lt;/a&gt; is also a useful font to install. Here is &lt;a href=&#34;/documents/Charis_SIL_Unicode.pdf&#34; target=&#34;_blank&#34;&gt;the full character set&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For access to a very wide range of symbols in Unicode, you can turn to the font &lt;a href=&#34;https://dn-works.com/wp-content/uploads/2020/UFAS-Fonts/Symbola.zip&#34;&gt;Symbola&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;historical-fonts&#34;&gt;Historical fonts&lt;/h3&gt;
+&lt;p&gt;It is useful also to install fonts that include historical scripts that may no longer be in use, like Ogham, which is just one of &lt;a href=&#34;/documents/Clara_Unicode.pdf&#34; target=&#34;_blank&#34;&gt;a large number of scripts&lt;/a&gt; included in &lt;a href=&#34;http://mirrors.ctan.org/fonts/clara.zip&#34;&gt;Clara&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://scholarsfonts.net/cardofnt.html&#34;&gt;Cardo&lt;/a&gt;, which describes itself as &amp;ldquo;is a large Unicode font specifically designed for the needs of classicists, Biblical scholars, medievalists, and linguists&amp;rdquo;, is also &lt;a href=&#34;/documents/Cardo_Unicode.pdf&#34; target=&#34;_blank&#34;&gt;a useful resource&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;what-a-font-encompasses&#34;&gt;What a font encompasses&lt;/h3&gt;
+&lt;p&gt;Typically, you will download a font in the form of a &lt;code&gt;zip&lt;/code&gt; file. Once you have uncompressed it, you will find the separate files for different typefaces: typically &lt;strong&gt;Regular&lt;/strong&gt; (or &lt;strong&gt;Roman&lt;/strong&gt;), &lt;strong&gt;Italic&lt;/strong&gt;, &lt;strong&gt;Bold&lt;/strong&gt; and &lt;strong&gt;Bold Italic&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Other fonts may contain a much larger range of weights.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/noto_sc_weights.png&#34;
+         alt=&#34;Font weights in Noto Sans Simplified Chinese&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Font weights in Noto Sans Simplified Chinese&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can choose to install all of these or simply the ones that you are most likely to find useful.&lt;/p&gt;
+&lt;h3 id=&#34;installing-fonts-in-windows&#34;&gt;Installing fonts in Windows&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;/docs/applications/#utilities&#34;&gt;Unzip the compressed file&lt;/a&gt; containing the fonts.&lt;/li&gt;
+&lt;li&gt;Right click on an individual font file and select &lt;strong&gt;Install&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Repeat for further styles and weights.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;installing-fonts-in-macos&#34;&gt;Installing fonts in macOS&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;/docs/applications/#utilities&#34;&gt;Unzip the compressed file&lt;/a&gt; containing the fonts.&lt;/li&gt;
+&lt;li&gt;Double click on an individual font file.&lt;/li&gt;
+&lt;li&gt;When Font Book opens, select &lt;strong&gt;Install Font&lt;/strong&gt;. As a rule, all of the styles and weights of the same font will be installed.&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Fonts and Unicode</title>
+      <link>/docs/fonts/fonts-and-unicode/</link>
+      <pubDate>Wed, 04 Mar 2020 11:56:09 +0000</pubDate>
+      
+      <guid>/docs/fonts/fonts-and-unicode/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;fonts-and-scripts&#34;&gt;Fonts and scripts&lt;/h3&gt;
+&lt;p&gt;Unicode has led to the development of a range of fonts that encompass not only the major scripts in use in the world today, but also historical and iconographic materials.&lt;/p&gt;
+&lt;h3 id=&#34;cjk-fonts&#34;&gt;CJK fonts&lt;/h3&gt;
+&lt;p&gt;Thus, &lt;a href=&#34;https://noto-website-2.storage.googleapis.com/pkgs/NotoSerifCJKsc-hinted.zip&#34;&gt;the Noto CJK Simplified Chinese font&lt;/a&gt; provides support for the following major contemporary scripts:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Cyrillic, Han, Hangul, Hiragana, Katakana, Latin, Simplified Han, Traditional Han&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This means in turn that it can encode content in the following languages:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Afrikaans, Albanian, Asu, Basque, Bemba, Bena, Bulgarian, Cantonese, Catalan, Chiga, Chinese, Chinese (Simplified), Cornish, Danish, Embu, English, Faroese, Filipino, Friulian, Galician, German, Gusii, Icelandic, Indonesian, Irish, Italian, Japanese, Kabuverdianu, Kalaallisut, Kalenjin, Kamba, Kikuyu, Kinyarwanda, Korean, Low German, Luo, Luxembourgish, Luyia, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Manx, Meru, Morisyen, North Ndebele, Norwegian Bokmål, Norwegian Nynorsk, Nyankole, Oromo, Portuguese, Romansh, Rombo, Rundi, Russian, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Shambala, Shona, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Vietnamese, Vunjo, Zulu&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The CJK fonts were developed jointly with Adobe and &lt;a href=&#34;https://source.typekit.com/source-han-serif/&#34;&gt;the Source Han typefaces&lt;/a&gt; are the equivalent of the Noto versions. Like European serif fonts in particular, the development of Source Han is rooted in calligraphic traditions.&lt;/p&gt;
+&lt;iframe width=&#34;80%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/yNfYdxgV1jA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;figcaption&gt;Introducing Source Han Serif, Adobe&#39;s open source Pan-CJK typeface&lt;/figcaption&gt;
+&amp;nbsp;
+&lt;h3 id=&#34;european-scripts-ancient-and-modern&#34;&gt;European scripts, ancient and modern&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://mirrors.ctan.org/fonts/clara.zip&#34;&gt;Clara&lt;/a&gt;, by contrast, encompasses a range of European scripts, ancient and modern, including Latin and Cyrillic, as well as the medieval Irish script known as Ogham. It can therefore support the following languages:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Afrikaans, Akan, Albanian, Asturian, Asu, Basque, Belarusian, Bemba, Bena, Bosnian, Breton, Bulgarian, Catalan, Central Atlas Tamazight, Chiga, Colognian, Cornish, Croatian, Czech, Danish, Duala, Dutch, Embu, English, Estonian, Ewe, Faroese, Filipino, Finnish, French, Friulian, Fulah, Galician, Ganda, German, Gusii, Hausa, Hawaiian, Hungarian, Icelandic, Inari Sami, Indonesian, Irish, Italian, Jola-Fonyi, Kabuverdianu, Kalaallisut, Kalenjin, Kamba, Kikuyu, Kinyarwanda, Lithuanian, Low German, Lower Sorbian, Luba-Katanga, Luo, Luxembourgish, Luyia, Macedonian, Machame, Makhuwa-Meetto, Makonde, Malagasy, Malay, Maltese, Manx, Meru, Morisyen, Nama, North Ndebele, Northern Sami, Norwegian Bokmål, Norwegian Nynorsk, Nuer, Nyankole, Oromo, Polish, Portuguese, Quechua, Romanian, Romansh, Rombo, Rundi, Russian, Rwa, Samburu, Sango, Sangu, Scottish Gaelic, Sena, Serbian, Shambala, Shona, Slovak, Slovenian, Soga, Somali, Spanish, Swahili, Swedish, Swiss German, Taita, Teso, Tongan, Turkish, Turkmen, Ukrainian, Upper Sorbian, Uzbek, Vunjo, Walser, Western Frisian, Wolof, Zulu&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The scope of the font is considerably wider than many of the system fonts installed by default on computers. This makes it a useful choice for your work.&lt;/p&gt;
+&lt;h3 id=&#34;phonetic-transcription&#34;&gt;Phonetic transcription&lt;/h3&gt;
+&lt;p&gt;A set of Unicode blocks that is fully supported in the Noto Sans and Serif fonts, &lt;a href=&#34;https://software.sil.org/charis/&#34;&gt;Charis SIL&lt;/a&gt; and Clara are among those which cover &lt;a href=&#34;https://www.internationalphoneticassociation.org/sites/default/files/phonsymbol.pdf&#34;&gt;the phonetic script&lt;/a&gt; of the &lt;a href=&#34;https://www.internationalphoneticassociation.org/&#34;&gt;International Phonetic Association&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/ipa_eg.png&#34;
+         alt=&#34;An IPA transcription&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;An IPA transcription&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can use a dedicated keyboard where extended inputting in a specialized block is required.&lt;/p&gt;
+&lt;h3 id=&#34;unicode-block-by-block&#34;&gt;Unicode block by block&lt;/h3&gt;
+&lt;p&gt;Using LibreOffice, you can readily explore Unicode blocks contained in a given font. Consider first the case of Noto Serif. To view the characters encoded in a font, select the omega icon and the select &lt;strong&gt;More Characters&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/omega.png&#34;
+         alt=&#34;Access to Unicode blocks in LibreOffice&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Access to Unicode blocks in LibreOffice&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can then access individual blocks using a drop-down menu.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/blocks.png&#34;
+         alt=&#34;Unicode blocks in Noto Serif&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Unicode blocks in Noto Serif&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can then see the characters that are available in a specific block.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/ipa.png&#34;
+         alt=&#34;IPA Extensions in Noto Serif&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;IPA Extensions in Noto Serif&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In LibreOffice, you can input characters using this interface, which is a convenient option in isolated cases.&lt;/p&gt;
+&lt;h3 id=&#34;symbols&#34;&gt;Symbols&lt;/h3&gt;
+&lt;p&gt;Unicode extends also to typographical and many other symbols.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/symbola.png&#34;
+         alt=&#34;Symbola: musical symbols in Unicode&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Symbola: musical symbols in Unicode&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The font &lt;a href=&#34;https://dn-works.com/ufas/&#34;&gt;Symbola&lt;/a&gt; allows access to multilingual blocks and also to &lt;a href=&#34;https://dn-works.com/wp-content/uploads/2020/UFAS-Docs/Symbola.pdf&#34;&gt;a very wide range of Unicode symbols&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;combining-scripts&#34;&gt;Combining scripts&lt;/h3&gt;
+&lt;p&gt;Dedicated Latin scripts were developed for use with Source Serif and Noto CJK fonts. This means that content in European and Asian languages can easily be combined using the same font.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/noto_cjk_sc.png&#34;
+         alt=&#34;Noto Serif and Sans Serif: Latin and CJK Simplified Chinese&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Noto Serif and Sans Serif CJK: Latin and Simplified Chinese&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Though Latin and CJK fonts use different baselines and other reference points, they are aligned in such a way as to ensure content in different scripts is integrated.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/lodoccjk.png&#34;
+         alt=&#34;Latin and CJK scripts in Libre Office&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Latin and CJK scripts in Libre Office&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;LibreOffice, among other word-processors, now has good support for the display and printing of characters in markedly different scripts.&lt;/p&gt;
+&lt;p&gt;Similarly, the use of a font like Noto Serif of Charis SIL or Clara makes it possible to combine Latin and IPA scripts, as we can see in the example above.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

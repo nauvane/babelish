@@ -1,0 +1,144 @@
+baseURL = "/"
+languageCode = "en-ie"
+title = "Babelish"
+linkTitle = "Home"
+theme = "docsy"
+
+# Highlighting config
+pygmentsCodeFences = true
+pygmentsUseClasses = false
+# Use the new Chroma Go highlighter in Hugo.
+# pygmentsUseClassic = false
+#pygmentsOptions = "linenos=table"
+# See https://help.farbox.com/pygments.html
+pygmentsStyle = "friendly"
+
+enableGitInfo = true
+
+[build]
+  writeStats = true
+
+# Image processing configuration.
+[imaging]
+resampleFilter = "CatmullRom"
+quality = 75
+anchor = "smart"
+
+# Goldmark
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+        [markup.goldmark.extensions]
+              definitionList = true
+              footnote = true
+              linkify = true
+              strikethrough = true
+              table = true
+              taskList = true
+              typographer = true
+
+#   [markup.goldmark]
+#     [markup.goldmark.extensions]
+#       definitionList = true
+#       footnote = true
+#       linkify = true
+#       strikethrough = true
+#       table = true
+#       taskList = true
+#       typographer = true
+#     [markup.goldmark.parser]
+#       attribute = true
+#       autoHeadingID = true
+#       autoHeadingIDType = "github"
+#     [markup.goldmark.renderer]
+#       hardWraps = false
+#       unsafe = false
+#       xHTML = false
+#   [markup.highlight]
+#     codeFences = true
+#     guessSyntax = false
+#     hl_Lines = ""
+#     lineNoStart = 1
+#     lineNos = false
+#     lineNumbersInTable = true
+#     noClasses = true
+#     # style = "monokai"
+#     tabWidth = 4
+#   # [markup.tableOfContents]
+#   #   endLevel = 3
+#   #   ordered = false
+#   #   startLevel = 2
+
+      
+# The version number for the version of the docs represented in this doc set.
+# Used in the "version-banner" partial to display a version number for the  current doc set.
+# version = "0.0"
+
+# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
+# github_repo = "https://github.com/nauvane/babelish"
+
+# An optional link to a related project repo. For example, the sibling repository where your product code lives.
+github_project_repo = "https://github.com/nauvane/babelish"
+
+gcs_engine_id = "b3dee438472820b40"
+
+# Enable Algolia DocSearch
+algolia_docsearch = false
+
+# Enable local search
+offlineSearch = true 
+#
+[frontmatter]
+
+lastmod = [":fileModTime", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", ":filename", "date", ":fileModTime"]
+date = ["publishDate", ":filename", "date", ":fileModTime"]
+
+# User interface configuration
+[params.ui]
+# Enable to show the side bar menu in its compact state.
+sidebar_menu_compact = true
+#  Set to true to disable breadcrumb navigation.
+breadcrumb_disable = false
+#  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
+sidebar_search_disable = false
+#  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
+navbar_logo = false
+# Set to true to disable the About link in the site footer
+footer_about_disable = true
+
+# Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
+# This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
+# If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
+# add "hide_feedback: true" to the page's front matter.
+[params.ui.feedback]
+enable = false
+# The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
+# yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+# no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+
+[outputs]
+section = [ "HTML", "RSS", "print" ]
+
+[params]
+time_format_blog = "2 January 2006"
+time_format_default = " 2 January 2006"
+
+titleCaseStyle = "Chicago"
+
+# Privacy
+
+# [privacy.googleAnalytics]
+#     anonymizeIP = true 
+#     respectDoNotTrack = true 
+#     useSessionStorage = true 
+# [privacy.twitter]
+#     enableDNT = true
+
+    [[params.links.developer]]
+    	name = "GitHub"
+    	url = "https://github.com/nauvane/babelish"
+    	icon = "fab fa-github"
+            desc = "Source code for Babelish"

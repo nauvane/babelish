@@ -1,0 +1,160 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Babelish – Experiment with Markdown</title>
+    <link>/docs/experiment-with-markdown/</link>
+    <description>Recent content in Experiment with Markdown on Babelish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Sun, 01 Mar 2020 18:30:54 +0000</lastBuildDate>
+    
+	  <atom:link href="/docs/experiment-with-markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: What is Markdown?</title>
+      <link>/docs/experiment-with-markdown/what-is-markdown/</link>
+      <pubDate>Wed, 04 Mar 2020 12:19:41 +0000</pubDate>
+      
+      <guid>/docs/experiment-with-markdown/what-is-markdown/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Markup is a means of denoting the structure of a document. Any markup document is made up of &amp;ldquo;content&amp;rdquo; and of &amp;ldquo;markup&amp;rdquo;, the latter consisting of simple tags and other identifiers that designate component parts of the content, for example, a heading, or a list.&lt;/p&gt;
+&lt;h3 id=&#34;markup-in-web-pages&#34;&gt;Markup in web pages&lt;/h3&gt;
+&lt;p&gt;A commonplace example is the use of markup to denote the structure of webpages.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;&amp;lt;html&amp;gt;&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;&amp;lt;head&amp;gt; &lt;/code&gt;&lt;br&gt;
+&lt;code&gt;&amp;lt;title&amp;gt;This is an HTML document&amp;lt;/title&amp;gt;&lt;/code&gt;&lt;br&gt;
+&lt;code&gt; &amp;lt;/head&amp;gt;&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;&amp;lt;h1&amp;gt;This is a heading&amp;lt;/h1&amp;gt;&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;&amp;lt;p&amp;gt;This is a paragraph.&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;&amp;lt;/body&amp;gt;&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;&amp;lt;/html&amp;gt; &lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Today, the form of markup used for writing structured documents for the web is &lt;strong&gt;Hypertext Markup Language&lt;/strong&gt; and the current standard is &lt;strong&gt;&lt;a href=&#34;https://www.w3schools.com/html/default.asp&#34;&gt;HTML5&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This markup language is made up of a series of &lt;strong&gt;&lt;a href=&#34;https://www.w3schools.com/tags/default.asp&#34;&gt;tags&lt;/a&gt;&lt;/strong&gt;. An HTML document is composed by default up of two main components, a &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt;, which contains information about the document, including its &lt;code&gt;&amp;lt;title&amp;gt;&lt;/code&gt;, and a &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt;, which is made up of the content, for instance, headings and paragraphs, as shown above.&lt;/p&gt;
+&lt;p&gt;HTML5 also contains tags for all of the other expected elements of structured documents, such as &lt;a href=&#34;https://www.w3schools.com/tags/tag_ol.asp&#34;&gt;ordered&lt;/a&gt; and &lt;a href=&#34;https://www.w3schools.com/tags/tag_ul.asp&#34;&gt;unordered&lt;/a&gt; lists, &lt;a href=&#34;https://www.w3schools.com/tags/tag_q.asp&#34;&gt;inline&lt;/a&gt; and &lt;a href=&#34;https://www.w3schools.com/tags/tag_blockquote.asp&#34;&gt;block&lt;/a&gt; quotations, &lt;a href=&#34;https://www.w3schools.com/tags/tag_table.asp&#34;&gt;tables&lt;/a&gt;, and &lt;a href=&#34;https://www.w3schools.com/tags/tag_a.asp&#34;&gt;links&lt;/a&gt;. It also contains tags like &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;video&amp;gt;&lt;/code&gt; to display audio-visual material, as well as markup for inline components, such as &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; or &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Note also that in HTML an opening tag is as a rule matched by a closing tag:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;this word is &amp;lt;em&amp;gt;emphasized&amp;lt;/em&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;markup-and-markdown&#34;&gt;Markup and Markdown&lt;/h3&gt;
+&lt;p&gt;Markdown is a format where text is encoded with minimal markup: hence &lt;strong&gt;Mark&lt;em&gt;down&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Markdown is designed for writing structured documents and makes use of a distinct but simple set of formatting conventions.&lt;/p&gt;
+&lt;p&gt;Markdown files are written in &lt;a href=&#34;https://www.w3.org/2001/06/utf-8-test/UTF-8-demo.html&#34;&gt;UTF-8&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;simple-structured-documents-in-markdown&#34;&gt;Simple structured documents in Markdown&lt;/h3&gt;
+&lt;p&gt;As a first step in generating structured documents, you can experiment with &lt;strong&gt;Markdown&lt;/strong&gt;, &amp;lsquo;a plain text format for writing structured documents&amp;rsquo;, as it is defined on the &lt;a href=&#34;https://commonmark.org/&#34;&gt;CommonMark site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/commonmark.png&#34;
+         alt=&#34;Markdown&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Content in Markdown rendered for display&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Next, take the &lt;a href=&#34;https://commonmark.org/help/tutorial/&#34;&gt;ten-minute CommonMark tutorial&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And then experiment in writing Markdown on the &lt;a href=&#34;https://pandoc.org/try/?text=&amp;amp;from=commonmark&amp;amp;to=&#34;&gt;pandoc site&lt;/a&gt;, where you can experiment further by transforming one kind of markup into another.&lt;/p&gt;
+&lt;h3 id=&#34;markdown-in-practice&#34;&gt;Markdown in practice&lt;/h3&gt;
+&lt;p&gt;So, you use minimal code to designate a heading and other elements:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;# This is a level-one heading
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;This is a paragraph with a *link* to [CommonMark](https://commonmark.org/)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A paragraph, by contrast with a heading, doesn&amp;rsquo;t bear any specific code in Markdown, but is simply delimited by being followed by a blank line.&lt;/p&gt;
+&lt;p&gt;Single asterisks denote emphasis, or italics; double asterisks denote strong emphasis, or bold type.&lt;/p&gt;
+&lt;p&gt;Here is an unordered list:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre&gt;&lt;code&gt;- markup
+- markdown
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And here is a block quotation:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;&amp;gt; En 1815, M. Charles-François-Bienvenu Myriel était évêque de Digne. C&#39;était un vieillard d&#39;environ soixante-quinze ans; il occupait le siège  de Digne depuis 1806.&lt;/code&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;advantages-of-markdown&#34;&gt;Advantages of Markdown&lt;/h3&gt;
+&lt;p&gt;This practice is different from how a word-processor is normally used, where one typically applies a format to a given element of a document, e.g. by applying bold to a heading for display, rather than designating its structural function.&lt;/p&gt;
+&lt;p&gt;The advantage of a structured document, where, say, a heading or a list is designated as such, is that information about the &lt;strong&gt;structure&lt;/strong&gt; can be re-used, just as much as the &lt;strong&gt;content&lt;/strong&gt;: a single Markdown file can give rise to a PDF for printing, or to a webpage via an application like &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;, with the structure being displayed as appropriate in each case.&lt;/p&gt;
+&lt;p&gt;This site is made up of Markdown files which are converted into webpages using Hugo.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/markdown.png&#34;
+         alt=&#34;Developing web content in Markdown&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Developing web content in Markdown&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;By definition, then, Markdown is designed for writing structured documents and, like markup languages, makes use of a distinct set of formatting conventions. Because information on style is encoded, like content, in plain  text, content is not subordinated to presentation, meaning that Markdown files are smaller in size.&lt;/p&gt;
+&lt;p&gt;Markdown files can incorporate also &lt;strong&gt;metadata&lt;/strong&gt;, again in plain text.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/metadata.png&#34;
+         alt=&#34;File metadata in Markdown&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;File metadata in Markdown&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The four elements of metadata included here are the document&amp;rsquo;s title, its author, a set of tags to denote its content, and an abstract, or summary.&lt;/p&gt;
+&lt;h3 id=&#34;a-standard-for-markdown&#34;&gt;A standard for Markdown&lt;/h3&gt;
+&lt;p&gt;A variety of forms of Markdown exist, with work being undertaken at the moment to develop a common standard, namely &lt;a href=&#34;http://commonmark.org/&#34;&gt;CommonMark&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Markdown, like many of the tools you might use with it, is open source (subject to a &lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons license&lt;/a&gt;).&lt;/p&gt;
+&lt;h3 id=&#34;why-markup-matters&#34;&gt;Why markup matters&lt;/h3&gt;
+&lt;p&gt;Markup matters because it is widely used to store structured data, including a wide range of data used in &lt;a href=&#34;https://ec.europa.eu/jrc/en/language-technologies&#34;&gt;language databases&lt;/a&gt; and in &lt;a href=&#34;https://www.clarin.eu/resource-families&#34;&gt;corpora&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/hr.png&#34;
+         alt=&#34;EU legislation: a structured document in Croatian&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;EU legislation: a structured document in Croatian&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In EU translation databases, texts like legal documents are &lt;strong&gt;encoded&lt;/strong&gt; using &lt;a href=&#34;https://www.w3schools.com/xml/xml_whatis.asp&#34;&gt;XML markup&lt;/a&gt;, consisting of specialized tags, e.g. &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; for &lt;strong&gt;paragraph&lt;/strong&gt;, or &lt;code&gt;&amp;lt;head&amp;gt;&lt;/code&gt; for a &lt;strong&gt;heading&lt;/strong&gt; that contains information about a document.&lt;/p&gt;
+&lt;p&gt;Collections of electronic texts are a further example of the use of markup. A local example is &lt;a href=&#34;https://celt.ucc.ie/about.html&#34;&gt;CELT&lt;/a&gt;, which is a collection of materials relating to Irish literary and historical culture in the languages represented on the island, including Irish, Latin, Anglo-Norman French and English. CELT makes use of &lt;a href=&#34;https://celt.ucc.ie//links.html#sgmltei&#34;&gt;specialized markup&lt;/a&gt; designed for use with just these kinds of sources.&lt;/p&gt;
+&lt;p&gt;As you work with specialized collections like these in the course of your studies, you will learn more about the different kinds of markup that allow large collections of linguistic data to be used in flexible ways. Experimenting with Markdown is a way of beginning to understand other forms of markup.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Using Markdown</title>
+      <link>/docs/experiment-with-markdown/using-markdown/</link>
+      <pubDate>Wed, 04 Mar 2020 12:20:39 +0000</pubDate>
+      
+      <guid>/docs/experiment-with-markdown/using-markdown/</guid>
+      <description>
+        
+        
+        &lt;h3 id=&#34;from-markdown-to-pdf&#34;&gt;From Markdown to PDF&lt;/h3&gt;
+&lt;p&gt;An open-source editor like &lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt; allows you to write and to edit documents in Markdown, and to preview the content as it would appear in print or on screen.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/vscode.png&#34;
+         alt=&#34;A Markdown file in Visual Studio Code with preview&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A Markdown file in Visual Studio Code with preview&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Other tools, like &lt;a href=&#34;http://marked2app.com/&#34;&gt;Marked2&lt;/a&gt; also allow you to preview a file and to export it for printing as a PDF.&lt;/p&gt;
+&lt;p&gt;You can also apply stylesheets to determine the formatting of Markdown elements (e.g. headings, lists) in PDF files.&lt;/p&gt;
+&lt;p&gt;Further tools, like &lt;a href=&#34;https://tylingsoft.com/markdown-plus/&#34;&gt;Markdown Plus&lt;/a&gt;, allow you to combine several of these functions (there are versions for Windows and Mac).&lt;/p&gt;
+&lt;h3 id=&#34;markdown-as-a-common-denominator&#34;&gt;Markdown as a common denominator&lt;/h3&gt;
+&lt;p&gt;There are other tools that use Markdown as a common standard from which files in other formats (including word-processor formats, like Word) can be generated, notably &lt;a href=&#34;http://pandoc.org/&#34;&gt;pandoc&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Markdown can also be used in conjunction with &lt;a href=&#34;https://forums.zotero.org/discussion/31269/add-on-to-use-markdown-in-zotero-notes&#34;&gt;reference and research management tools&lt;/a&gt;, like &lt;a href=&#34;https://www.zotero.org&#34;&gt;Zotero&lt;/a&gt;, many of which are open source.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

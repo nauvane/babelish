@@ -1,0 +1,687 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Babelish – Tips</title>
+    <link>/docs/tips/</link>
+    <description>Recent content in Tips on Babelish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Sun, 01 Mar 2020 18:30:54 +0000</lastBuildDate>
+    
+	  <atom:link href="/docs/tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Use the keyboard, not the mouse</title>
+      <link>/docs/tips/using-the-keyboard/</link>
+      <pubDate>Tue, 03 Mar 2020 14:10:26 +0000</pubDate>
+      
+      <guid>/docs/tips/using-the-keyboard/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Many computer users find it more convenient to use the keyboard rather than a mouse or other device to enter commands. You will find that almost any aspect of the operation of an application can be controlled using keyboard shortcuts.&lt;/p&gt;
+&lt;h3 id=&#34;system-wide-shortcuts&#34;&gt;System-wide shortcuts&lt;/h3&gt;
+&lt;p&gt;Basic operations can be performed by means of shortcuts.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Copy&lt;/td&gt;
+&lt;td&gt;CTRL+C (Windows) or CMD+C (macOS)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cut&lt;/td&gt;
+&lt;td&gt;CTRL+X or CMD+X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Paste&lt;/td&gt;
+&lt;td&gt;CTRL+V or CMD+V&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Select all&lt;/td&gt;
+&lt;td&gt;CTRL+A or CMD+A&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Undo an action&lt;/td&gt;
+&lt;td&gt;CTRL+Z or CMD+Z&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Redo an action&lt;/td&gt;
+&lt;td&gt;CTRL+Y or CMD+Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Save&lt;/td&gt;
+&lt;td&gt;CTRL+S or CMD+S&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Save as&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+ S or CMD+SHIFT+ S&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Print&lt;/td&gt;
+&lt;td&gt;CTRL+P or CMD+P&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Close the active document&lt;/td&gt;
+&lt;td&gt;CTRL+F4 or CMD+W&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;If you find it convenient to use the keyboard to carry out operations like these, you will find a much fuller range of options in &lt;a href=&#34;https://support.microsoft.com/en-gb/help/12445/windows-keyboard-shortcuts&#34;&gt;Windows&lt;/a&gt; and in &lt;a href=&#34;https://support.apple.com/en-us/HT201236&#34;&gt;macOS&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Tip&lt;/h4&gt;
+
+    &lt;strong&gt;Paste special&lt;/strong&gt; is a useful command: it allows you to paste copied material as plain text, in other words, without its original formatting. In Windows: CTRL+SHIFT+V; in macOS: CMD+OPTION+SHIFT+V.
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;shortcuts-in-web-browsers&#34;&gt;Shortcuts in web browsers&lt;/h3&gt;
+&lt;p&gt;These commands function both in &lt;a href=&#34;https://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly&#34;&gt;Firefox&lt;/a&gt; and in &lt;a href=&#34;https://support.google.com/chrome/answer/157179?hl=en-GB&#34;&gt;Chrome&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Open new window&lt;/td&gt;
+&lt;td&gt;CTRL+N or CMD+N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Open new tab&lt;/td&gt;
+&lt;td&gt;CTRL+T or CMD+T&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Go to the top of the page&lt;/td&gt;
+&lt;td&gt;CTRL+↑ or CMD+↑&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Go to the bottom of the page&lt;/td&gt;
+&lt;td&gt;CTRL+↓ or CMD+↓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Print&lt;/td&gt;
+&lt;td&gt;CTRL+P or CMD+P&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Reload&lt;/td&gt;
+&lt;td&gt;CTRL+R or CMD+R&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Find in page&lt;/td&gt;
+&lt;td&gt;CTRL+F or CMD+F&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Highlight current address&lt;/td&gt;
+&lt;td&gt;CTRL+L or CMD+L&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;History&lt;/td&gt;
+&lt;td&gt;CTRL+H or CMD+H&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;shortcuts-in-word-processors&#34;&gt;Shortcuts in word-processors&lt;/h3&gt;
+&lt;p&gt;Many of the system-wide shortcuts function in word-processors and &lt;a href=&#34;https://support.office.com/en-gb/article/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2&#34;&gt;Word&lt;/a&gt;, &lt;a href=&#34;https://help.libreoffice.org/Writer/Shortcut_Keys_for_Writer#Shortcut_Keys_for_LibreOffice_Writer&#34;&gt;LibreOffice&lt;/a&gt; and &lt;a href=&#34;https://support.google.com/docs/answer/179738?co=GENIE.Platform%3DDesktop&amp;amp;hl=en&#34;&gt;Google Docs&lt;/a&gt; all many additional commands that can be activated through the keyboard.&lt;/p&gt;
+&lt;p&gt;Here are some useful ones to keep in mind in using any of these applications.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Open a document&lt;/td&gt;
+&lt;td&gt;CTRL+O or CMD+O&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Open a new document&lt;/td&gt;
+&lt;td&gt;CTRL+N or CMD+N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Edit link&lt;/td&gt;
+&lt;td&gt;CTRL+K or CMD+K&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Find&lt;/td&gt;
+&lt;td&gt;CTRL+F or CMD+F&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Italics&lt;/td&gt;
+&lt;td&gt;CTRL+I or CMD+I&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bold&lt;/td&gt;
+&lt;td&gt;CTRL+B or CMD+B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Accented and special characters</title>
+      <link>/docs/tips/accented-and-special-characters/</link>
+      <pubDate>Sun, 10 May 2020 09:52:22 +0100</pubDate>
+      
+      <guid>/docs/tips/accented-and-special-characters/</guid>
+      <description>
+        
+        
+        &lt;p&gt;You will produce plenty of written work in the languages you are studying and will also find yourself quoting from primary sources in essays written in English. One of the hallmarks of good writing in your studied languages is precision in the treatment of characters that are used with accents or &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#diacritic&#34;&gt;diacritics&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;special-characters-using-the-keyboard&#34;&gt;Special characters using the keyboard&lt;/h3&gt;
+&lt;p&gt;Accented characters in Latin script can be obtained by combining keystrokes.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th&gt;Windows&lt;/th&gt;
+&lt;th&gt;macOS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;é&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+&#39;, e&lt;/td&gt;
+&lt;td&gt;Option+e&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The same combination of strokes with other relevant characters gives further accented versions, as in &lt;strong&gt;á&lt;/strong&gt;, or &lt;strong&gt;í&lt;/strong&gt;, or &lt;strong&gt;ó&lt;/strong&gt;, or &lt;strong&gt;ú&lt;/strong&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th&gt;Windows&lt;/th&gt;
+&lt;th&gt;macOS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;É&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+&#39;, E&lt;/td&gt;
+&lt;td&gt;Option+E&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The same combination of strokes with an uppercase character gives an accented capital letter.&lt;/p&gt;
+&lt;p&gt;Here are further combinations in Latin script, giving accented or other special characters used in European languages.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th&gt;Windows&lt;/th&gt;
+&lt;th&gt;macOS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;à&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+`, a&lt;/td&gt;
+&lt;td&gt;Option+`, a&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;û&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+^, u&lt;/td&gt;
+&lt;td&gt;Option+^, u&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;ï&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+:, i&lt;/td&gt;
+&lt;td&gt;Option+*, i&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;ã&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+~, a&lt;/td&gt;
+&lt;td&gt;Option+n, a&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;æ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+&amp;amp;, a&lt;/td&gt;
+&lt;td&gt;Option+&#39;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;œ&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+&amp;amp;, o&lt;/td&gt;
+&lt;td&gt;Option+q&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;ç&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+,, c&lt;/td&gt;
+&lt;td&gt;Option+c, c&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;ß&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+&amp;amp;, s&lt;/td&gt;
+&lt;td&gt;Option+s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Again, the same combinations can be used with other characters where necessary, and uppercase versions can also be generated as in the example of &lt;strong&gt;É&lt;/strong&gt; above.&lt;/p&gt;
+&lt;p&gt;In macOS, a further method of inserting accented characters is to hold down the key for the character in question. You will then see the several available accented versions displayed.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/accentoptions.png&#34;
+         alt=&#34;Available accented characters in macOS&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Available accented characters in macOS&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You select the relevant option, here number 2, and the correct character appears.&lt;/p&gt;
+&lt;h3 id=&#34;punctuation-and-quotation-marks&#34;&gt;Punctuation and quotation marks&lt;/h3&gt;
+&lt;p&gt;Latin script incorporates many specific forms of these marks used in different European languages. Here are some of the most common of these.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;/th&gt;
+&lt;th&gt;Windows&lt;/th&gt;
+&lt;th&gt;macOS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;«&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+,&lt;/td&gt;
+&lt;td&gt;Option+\&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;»&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+SHIFT+.&lt;/td&gt;
+&lt;td&gt;Option+SHIFT+\&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;„&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+,&lt;/td&gt;
+&lt;td&gt;Option+SHIFT+,&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;“&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;CTRL+.&lt;/td&gt;
+&lt;td&gt;Option+[&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;¡&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ALT+CTRL+SHIFT+!&lt;/td&gt;
+&lt;td&gt;Option+1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;¿&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ALT+CTRL+SHIFT+?&lt;/td&gt;
+&lt;td&gt;Shift+Option+?&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;resources-of-a-keyboard&#34;&gt;Resources of a keyboard&lt;/h3&gt;
+&lt;p&gt;You can verify all of the different key combinations that a keyboard may contain, both in Windows and in macOS.&lt;/p&gt;
+&lt;p&gt;In macOS, you need first to make sure that you can access the keyboard. Open &lt;strong&gt;Keyboard&lt;/strong&gt; is &lt;strong&gt;System Preferences&lt;/strong&gt; and select &lt;strong&gt;Input Sources&lt;/strong&gt;. Here, check the box labelled &lt;strong&gt;Show Input menu in menu bar&lt;/strong&gt;. You will see either a language flag or a keyboard icon appear in the top right-hand corner of the menu bar. Click here and select &lt;strong&gt;Show Keyboard Viewer&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/keybalt.png&#34;
+         alt=&#34;Keyboard Viewer in macOS&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Keyboard Viewer in macOS&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here, you can see all of the characters that can be generated by combining &lt;code&gt;Option&lt;/code&gt; with a given key in the Irish-English keyboard. You can also see which characters can be obtained by combining &lt;code&gt;Option+Shift&lt;/code&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/keybaltshift.png&#34;
+         alt=&#34;Option&amp;#43;Shift keyboard options&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Option+Shift keyboard options&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In Windows, you can install or select a given keyboard in the Taskbar at the bottom of the screen. If you then activate the keyboard icon, the available characters will be displayed.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/windowskeyb.png&#34;
+         alt=&#34;A French keyboard in WIndows&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A French keyboard in WIndows&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;inserting-symbols-in-applications&#34;&gt;Inserting symbols in applications&lt;/h3&gt;
+&lt;p&gt;If you are unsure of the method of obtaining a given character via the keyboard, there are other means by which you can do so using an appllication like a word-processor. In Word, for instance, in the &lt;strong&gt;Insert&lt;/strong&gt; ribbon, you can selected &lt;strong&gt;Advanced Symbol&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/symbol.png&#34;
+         alt=&#34;Accessing the symbol menu in Word&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Accessing the symbol menu in Word&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This will bring up a display like the one illustrated here, where you can locate and select the character you need.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/insertij.png&#34;
+         alt=&#34;Selecting a character in Windows&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Selecting a character in Windows&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is a useful means to insert a character when you may know already know the key combination required to generate it.&lt;/p&gt;
+&lt;p&gt;Note also that Windows allows you to use further shortcuts to enter characters, as shown here, where you can type &lt;code&gt;0132&lt;/code&gt;, followed by &lt;code&gt;ALT+X&lt;/code&gt;, and see &lt;a href=&#34;/docs/fonts/types-and-usage/#digraphs-and-ligatures&#34;&gt;the IJ digraph&lt;/a&gt; appear. Use the &lt;strong&gt;Advanced Symbol&lt;/strong&gt; display to discover other shortcuts that may be useful.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Learn to touch type</title>
+      <link>/docs/tips/learn-to-touch-type/</link>
+      <pubDate>Sun, 10 May 2020 09:51:44 +0100</pubDate>
+      
+      <guid>/docs/tips/learn-to-touch-type/</guid>
+      <description>
+        
+        
+        
+&lt;figure&gt;
+    &lt;img src=&#34;/images/learntotype.png&#34;
+         alt=&#34;typing.com (screenshot)&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Learning to type online: typing.com&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Touch typing involves using all of your fingers to enter text via the keyboard: it is as simple as that. Computer keyboards have what are termed &lt;strong&gt;home keys&lt;/strong&gt;: there are slight raised edges on the &lt;strong&gt;F&lt;/strong&gt; and &lt;strong&gt;J&lt;/strong&gt; keys to enable you to position your hands in the right position for touch typing.&lt;/p&gt;
+&lt;p&gt;Typing is relevant to almost all aspects of your work: searching a library catalogue, using a word-processor to write an essay, communicating via social media, exploring the internet all involve using the keyboard. The ability to touch type will greatly facilitate all of these and other kinds of activity, online and offline.&lt;/p&gt;
+&lt;h3 id=&#34;advantages-of-touch-typing&#34;&gt;Advantages of touch typing&lt;/h3&gt;
+&lt;p&gt;Touch typing makes an immediate and practical difference in several ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;you can write and compose more rapidly and more accurately using the keyboard&lt;/li&gt;
+&lt;li&gt;you can view the screen rather than they keyboard while you type, which helps concentration and flow as you write&lt;/li&gt;
+&lt;li&gt;it also makes it easier to edit your work as you progress&lt;/li&gt;
+&lt;li&gt;touch typing is less tiring and less likely to be harmful to your hands and wrists&lt;/li&gt;
+&lt;li&gt;the ability to touch type may be useful to you in your future work as well as your studies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tools-for-touch-typing&#34;&gt;Tools for touch typing&lt;/h3&gt;
+&lt;p&gt;There are many online tools that allow you to learn and to practice your typing. One of these is &lt;a href=&#34;typing.com&#34;&gt;typing.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/homekeys.png&#34;
+         alt=&#34;Home keys: learning to type online&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Home keys: learning to type online&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Using sites like this or &lt;a href=&#34;/docs/applications/#touch-typing&#34;&gt;dedicated applications&lt;/a&gt;, it is possible to make rapid progress.&lt;/p&gt;
+&lt;h3 id=&#34;keyboards-and-languages&#34;&gt;Keyboards and languages&lt;/h3&gt;
+&lt;p&gt;The predominant keyboard layout in use today is &lt;strong&gt;QWERTY&lt;/strong&gt;, which is dedicated to typing in English. When typewriters were in use, different layouts existed for different languages: these were designed with letter frequencies in mind and with the need for special characters. Thus, the traditional French keyboard is known as &lt;strong&gt;AZERTY&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/azerty.png&#34;
+         alt=&#34;French keyboard layout&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;French keyboard layout&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As you can see, there are dedicated keys for accented characters.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/spanish_iso.png&#34;
+         alt=&#34;Spanish ISO keyboard layout&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Spanish keyboard layout&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A Spanish keyboard follows the &lt;strong&gt;QWERTY&lt;/strong&gt; layout, but with dedicated keys for accented characters and puncuation marks.&lt;/p&gt;
+&lt;p&gt;It is possible, but always not very convenient, to learn to use more than one keyboard. Alternatively, you can learn to use &lt;a href=&#34;/docs/tips/accented-characters/&#34;&gt;specific techniques&lt;/a&gt; on a Windows or Mac or other computer to enter special characters.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/wubixing.png&#34;
+         alt=&#34;Wubi Xing keyboard&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Wubi Xing keyboard&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;On the other hand, a dedicated keyboard can make it more practicable to enter text in &lt;a href=&#34;/docs/scripts-and-unicode/what-is-a-script/#cjk-scripts&#34;&gt;a distinct script&lt;/a&gt;, like Simplified Chinese.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Smart typography</title>
+      <link>/docs/tips/smart-typography/</link>
+      <pubDate>Tue, 03 Mar 2020 14:11:01 +0000</pubDate>
+      
+      <guid>/docs/tips/smart-typography/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Latin script is the most widely used in the world today and encompasses &lt;a href=&#34;/docs/unicode/what-is-a-script&#34;&gt;several blocks in Unicode&lt;/a&gt;. This means that it encompasses, for instance, the diverse punctuation signs and quotation marks used in different European languages.&lt;/p&gt;
+&lt;h3 id=&#34;quotations-marks&#34;&gt;Quotations marks&lt;/h3&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/quotmarks.png&#34;
+         alt=&#34;Quotation marks&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Quotation marks&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It is important when you use a font that you use &amp;ldquo;smart&amp;rdquo; rather than &amp;ldquo;straight&amp;rdquo; quotation marks. In Word, you can automatically ensure this happens by selecting &lt;strong&gt;Word&lt;/strong&gt; &amp;gt; &lt;strong&gt;Preferences&lt;/strong&gt; &amp;gt; &lt;strong&gt;AutoCorrect&lt;/strong&gt; &amp;gt; &lt;strong&gt;Auto Format As you Type&lt;/strong&gt;, and check the box that says &amp;ldquo;&amp;lsquo;Straight quotes&amp;rsquo; with &amp;lsquo;smart quotes&amp;rsquo;&amp;rdquo;. Note that in the example above quotation marks are aligned with the ascender line.&lt;/p&gt;
+&lt;p&gt;In general, you should follow the conventions for quotations marks in the language in which you are writing. So, if you are writing an essay in English, you should not use &lt;em&gt;guillemets&lt;/em&gt; for quotations in French. Conversely, if you are writing in French, you should substitute &lt;em&gt;guillemets&lt;/em&gt; for single or double quotation marks throughout.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/guillemets.png&#34;
+         alt=&#34;Guillemets&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Guillemets&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;dashes&#34;&gt;Dashes&lt;/h3&gt;
+&lt;p&gt;It is important also to distinguish between hyphens and dashes.&lt;/p&gt;
+&lt;p&gt;A hyphen is used to connect two words used a phrasal unit: &amp;ldquo;a nineteenth-century novel&amp;rdquo; (as distinct from &amp;ldquo;the novel is a major genre in the nineteenth century&amp;rdquo;), or in multi-word expressions in different languages, e.g. &amp;ldquo;bien-être&amp;rdquo;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/emrule.png&#34;
+         alt=&#34;Hyphens and dashes&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Hyphens and dashes&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Dashes have a different purpose. An &lt;strong&gt;en-dash&lt;/strong&gt; is used with ranges of numbers, e.g. 11–22, or to express the sense &amp;ldquo;between&amp;rdquo;, e.g. &amp;ldquo;the Franco–Prussian war&amp;rdquo;. An &lt;strong&gt;em-dash&lt;/strong&gt; is used as a punctuation mark to separate parts of a sentence more decisively than with a comma.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If you are interested in languages, you need to know about characters — and Unicode.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Em-dashes can also be the equivalent of parentheses:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Madame Bovary&lt;/em&gt; — first published in 1857 — was soon translated into English.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;They are also used in French to introduce direct speech:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;— « Félicité ! la porte ! la porte ! »&lt;/p&gt;
+&lt;/blockquote&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Working with links</title>
+      <link>/docs/tips/working-with-links/</link>
+      <pubDate>Tue, 03 Mar 2020 14:11:14 +0000</pubDate>
+      
+      <guid>/docs/tips/working-with-links/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A &lt;strong&gt;&lt;a href=&#34;https://www.w3schools.com/html/html_links.asp&#34;&gt;hyperlink&lt;/a&gt;&lt;/strong&gt; is an element of a document or webpage that links to a website or webpage, another document, or to part of the same or another document. Hyperlinks are key building blocks of the internet.&lt;/p&gt;
+&lt;h3 id=&#34;retrieving-a-link&#34;&gt;Retrieving a link&lt;/h3&gt;
+&lt;p&gt;Wherever you use an online source, you should provide a link to it. To go automatically to the address bar of a browser and highlight the current address, press CTRL+L (Windows) or CMD+L (macOS); you can then press CTRL+C or CMD+C to copy the link, so that you can insert it into your own document.&lt;/p&gt;
+
+
+&lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;Tip&lt;/h4&gt;
+
+    If you choose to insert a link into body text, it should always be incorporated into intelligible &lt;strong&gt;link text&lt;/strong&gt;. Make sure that you write clear and helpful link text: for example, &amp;ldquo;&lt;u&gt;Smith&amp;rsquo;s discussion&lt;/u&gt; shows&amp;hellip;&amp;rdquo;, &lt;strong&gt;not&lt;/strong&gt; &amp;ldquo;as you can see &lt;u&gt;here&lt;/u&gt;&amp;rdquo;. To create a link, press CTRL+K (Windows) or CMD+K (macOS).
+
+&lt;/div&gt;
+
+&lt;h3 id=&#34;kinds-of-link&#34;&gt;Kinds of link&lt;/h3&gt;
+&lt;p&gt;At its simplest, a link is a current web address as displayed in a web browser.&lt;/p&gt;
+&lt;p&gt;You will also find yourself using other types of link. A &lt;strong&gt;persistent URL&lt;/strong&gt; is a link that is designed to be permanent and is often a feature of library catalogue pages.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/persistent_url.png&#34;
+         alt=&#34;Persistent link in a library catalogue page&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Persistent link in a library catalogue page&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Where one is provided, you should always make use of a persistent link.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;digital object identifier&lt;/strong&gt; (&lt;strong&gt;DOI&lt;/strong&gt;) is another important kind of link: it is a persistent identifier for a published item and should therefore be used in your bibliographies or lists of works cited.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/doi.png&#34;
+         alt=&#34;A digital object identifier in an academic journal&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;A digital object identifier in an academic journal&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;links-as-references&#34;&gt;Links as references&lt;/h3&gt;
+&lt;p&gt;Links can be used to document your sources. Make sure you follow the relevant &lt;a href=&#34;/docs/style-guide/hyperlinks&#34;&gt;style conventions&lt;/a&gt; in incorporating them into your work.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: What is a snippet?</title>
+      <link>/docs/tips/what-is-a-snippet/</link>
+      <pubDate>Tue, 03 Mar 2020 14:11:55 +0000</pubDate>
+      
+      <guid>/docs/tips/what-is-a-snippet/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A snippet is a useful shortcut: a short string of text expands into a word or phrase that you use frequently in your work. On a Mac, for example, where snippets are enabled the words &amp;ldquo;On my way!&amp;rdquo; will appear by default in the application that you are using if you type &amp;ldquo;omw&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;In macOS, you can create such snippets by opening &lt;strong&gt;System Preferences&lt;/strong&gt;, and then select &lt;strong&gt;Keyboard&lt;/strong&gt; &amp;gt; &lt;strong&gt;Text&lt;/strong&gt;. You can then create snippets of your own, for example, your name, or your email address, or your degree programme, but also titles of books to which you refer often in an essay or a recurring phrase or concept, e.g. &amp;ldquo;gmm&amp;rdquo; for &amp;ldquo;grammaticalization&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;using-dedicated-tools&#34;&gt;Using dedicated tools&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;/docs/applications/#snippets&#34;&gt;Dedicated tools&lt;/a&gt; can be used in more extensive and flexible ways to create and use snippets.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/atext.png&#34;
+         alt=&#34;aText: an expansion tool for Mac and Window&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;aText: an expansion tool for Mac and Windows&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here are some default examples in the application &lt;strong&gt;aText&lt;/strong&gt;, to which you can add other more specific ones of your choice.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Taking and using screenshots</title>
+      <link>/docs/tips/taking-and-using-screenshots/</link>
+      <pubDate>Tue, 03 Mar 2020 14:12:15 +0000</pubDate>
+      
+      <guid>/docs/tips/taking-and-using-screenshots/</guid>
+      <description>
+        
+        
+        &lt;p&gt;You can use a computer to make a screenshot of material that you wish to analyse or discuss in your work.&lt;/p&gt;
+&lt;p&gt;Windows now includes an application named &lt;a href=&#34;https://support.microsoft.com/en-us/help/4488540/windows-10-how-to-take-and-annotate-screenshots&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Snip &amp;amp; Sketch&lt;/strong&gt;&lt;/a&gt;: to activate it, press the Windows logo key+SHIFT+S. You can then access a range of tools to capture and annotate any part of the screen that is of interest to you. To obtain a capture of your whole screen, press the &lt;strong&gt;PrtScn&lt;/strong&gt; key.&lt;/p&gt;
+&lt;p&gt;In macOS, the simplest method to make a screenshot is to use &lt;a href=&#34;https://support.apple.com/en-gb/HT201361&#34;&gt;the built-in software&lt;/a&gt; that allows you take shots as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CMD+SHIFT+3: capture a shot of your desktop. An icon will appear on-screen: click on this and you can then annotate or crop the shot as you wish&lt;/li&gt;
+&lt;li&gt;CMD+SHIFT+4: capture a shot of a specific portion of your screen by dragging the crosshairs that appear over the desired area&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;file-format&#34;&gt;File format&lt;/h3&gt;
+&lt;p&gt;Wherever possible, you should capture screenshots in &lt;code&gt;.png&lt;/code&gt; format: this is a lossless format and therefore is likely to result in a higher-resolution file.&lt;/p&gt;
+&lt;h3 id=&#34;dedicated-applications&#34;&gt;Dedicated applications&lt;/h3&gt;
+&lt;p&gt;You can also make use of &lt;a href=&#34;/docs/applications/#screenshots&#34;&gt;dedicated applications&lt;/a&gt; to capture screenshots.&lt;/p&gt;
+&lt;h3 id=&#34;references-and-fair-use&#34;&gt;References and fair use&lt;/h3&gt;
+&lt;p&gt;You should always include a caption, giving your source and including a link where relevant.&lt;/p&gt;
+&lt;p&gt;When using screenshots, you should bear considerations of &amp;ldquo;fair use&amp;rdquo; in mind. The source of the screenshot should always be given in any work where you reproduce it. The creation of a screenshot for personal use is generally considered to be fair use, but you should take care to check carefully any limitations that a given site or other resource may place on making copies though screenshots or other means.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Search the internet</title>
+      <link>/docs/tips/search-the-internet/</link>
+      <pubDate>Tue, 03 Mar 2020 14:11:32 +0000</pubDate>
+      
+      <guid>/docs/tips/search-the-internet/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The most common kind of search is via a search engine querying the public internet. &lt;strong&gt;&lt;a href=&#34;https://www.google.com/&#34;&gt;Google&lt;/a&gt;&lt;/strong&gt; is the most commonly used search engine. &lt;strong&gt;&lt;a href=&#34;https://duckduckgo.com/&#34;&gt;DuckDuckGo&lt;/a&gt;&lt;/strong&gt; is an instance of a search engine that allows greater scope for privacy, in that it does not track users and does not store personal information.&lt;/p&gt;
+&lt;h3 id=&#34;search-tips&#34;&gt;Search tips&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;to search a specific site, use the following method: &lt;code&gt;CJK site:unicode.org&lt;/code&gt; (note that you do not need to specify the protocol (&lt;code&gt;https&lt;/code&gt;) nor include the &lt;code&gt;www&lt;/code&gt; prefix)&lt;/li&gt;
+&lt;li&gt;to search for exact matches of a specific phrase, use quotation marks: &lt;code&gt;&amp;quot;detective fiction&amp;quot;&lt;/code&gt;, or &lt;code&gt;&amp;quot;Victor Hugo&amp;quot; drawings&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;you can use wildcards to extend the scope of a search: &lt;code&gt;i think therefore *&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;wildcards can also be used with search terms: &lt;code&gt;gramm*&lt;/code&gt; will return results with &amp;ldquo;grammar&amp;rdquo;, &amp;ldquo;grammatical&amp;rdquo;, &amp;ldquo;grammaticalization&amp;rdquo;, and so on&lt;/li&gt;
+&lt;li&gt;a wildcard will also return terms with variant spellings: &lt;code&gt;characteri?ation&lt;/code&gt; will return &amp;ldquo;characterization&amp;rdquo; and &amp;ldquo;characterisation&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;to limit your search to resources with a specific page title, use this method: &lt;code&gt;character intitle:unicode&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;to find out which pages link to a site you are interested in, use the following method: &lt;code&gt;link:europeana.eu&lt;/code&gt; (in this case, you can locate versions of the site in question in different European languages)&lt;/li&gt;
+&lt;li&gt;you can limit your search by specifying a file type: &lt;code&gt;&amp;quot;Victor Hugo&amp;quot; drawings filetype:jpg&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;you can search social media by using the relevant prefix as follows: &lt;code&gt;@twitter unicode&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also use what are termed Boolean operators in your searches:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;novel AND fiction&lt;/code&gt;: search for material where &lt;strong&gt;both&lt;/strong&gt; terms occur&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;novel OR fiction&lt;/code&gt;: search for material which contains &lt;strong&gt;either or both&lt;/strong&gt; of the terms (thus, wider in scope that a search with AND)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;novel NOT fiction&lt;/code&gt;: search for material that contains the first term but does &lt;strong&gt;not&lt;/strong&gt; contain the second&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also exclude a term by using a hyphen: &lt;code&gt;Celtic -football&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;These operators can also be combined: &lt;code&gt;&amp;quot;Victor Hugo&amp;quot; AND (novel OR poetry)&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;searching-repositories&#34;&gt;Searching repositories&lt;/h3&gt;
+&lt;p&gt;Major data collections or repositories have their own dedicated search facilities.&lt;/p&gt;
+&lt;p&gt;Take the example of &lt;strong&gt;&lt;a href=&#34;https://data.bnf.fr/&#34;&gt;data.bnf.fr&lt;/a&gt;&lt;/strong&gt;, a public database provided by the &lt;a href=&#34;https://www.bnf.fr/&#34;&gt;Bibliothèque nationale de France&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/databnf.png&#34;
+         alt=&#34;data.bnf.fr: a web interface to BNF data&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;data.bnf.fr: a web interface to BNF data&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As you can see, this site provides its own search engine, through which you can apply several of the search techniques described above.&lt;/p&gt;
+&lt;p&gt;Because this database has its own public domain name, you can also search its contents using a search engine, again using the techniques described above and some further search options:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;to locate items connected to a given keyword, e.g. &amp;ldquo;roman&amp;rdquo;, meaning &amp;ldquo;novel&amp;rdquo; in French, you can  search with wildcards: &lt;code&gt;roman* site:data.bnf.fr&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This search will produce a set of terms connected to &amp;ldquo;roman&amp;rdquo;, e.g. &amp;ldquo;roman d&amp;rsquo;aventures&amp;rdquo;, &amp;ldquo;roman grec&amp;rdquo;, &amp;ldquo;roman à clefs&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://libguides.ucc.ie/az.php&#34;&gt;Repositories that you access through the Library&lt;/a&gt; will also have their own search engines. Note also that you can search across these from the Library homepage.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/onesearch.png&#34;
+         alt=&#34;OneSearch: applying search techniques in the Library homepage&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;OneSearch: applying search techniques in the Library homepage&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;searching-the-creative-commons&#34;&gt;Searching the Creative Commons&lt;/h3&gt;
+&lt;p&gt;You may on occasion wish to use relevant illustrations in your work.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;/images/ccsearch.png&#34;
+         alt=&#34;Image search in the Creative Commons&#34; width=&#34;80%&#34;/&gt; &lt;figcaption&gt;
+            &lt;p&gt;Image search in the Creative Commons&lt;/p&gt;
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The &lt;strong&gt;&lt;a href=&#34;https://creativecommons.org/&#34;&gt;Creative Commons&lt;/a&gt;&lt;/strong&gt; is a major open-access resource with its own &lt;a href=&#34;https://ccsearch.creativecommons.org/&#34;&gt;dedicated search engine&lt;/a&gt; — note too its guidance on its own specialized &lt;a href=&#34;https://search.creativecommons.org/search-help&#34;&gt;search query syntax&lt;/a&gt;. Make sure to &lt;a href=&#34;https://creativecommons.org/use-remix/attribution/&#34;&gt;document your use of such sources&lt;/a&gt; by including captions with the relevant copyright information.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

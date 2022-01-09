@@ -1,0 +1,64 @@
+/*
+
+Local variables
+
+*/
+
+// $enable-gradients: true;
+// $enable-rounded: true;
+// $enable-shadows: true;
+
+// Main colors
+
+$primary: #005CB3;
+$secondary: #99CEFF;
+
+// Font: Noto Sans
+
+$td-enable-google-fonts: true;
+
+$google_font_name: "Noto Sans";
+$google_font_family: "Noto+Sans:300,300i,400,400i,700,700i";
+$web-font-path: "https://fonts.googleapis.com/css?family=#{$google_font_family}";
+
+// Image border and caption
+
+img{
+ padding:2px;
+ // background-color:rgba($primary, 0.1);
+ // background-color:#dee2e6;
+ background-color:#eee;
+ // background-color:#c9e5ff;
+
+
+}
+
+figcaption{
+    margin-top: 0.5rem;
+    padding-left: 0.5rem;
+    line-height:1.75rem;
+    height:1.75rem;
+    // border:1px solid rgba($primary, 0.075);
+    // background-color:rgba($primary, 0.066);
+    border:1px solid #dee2e6;
+    // background-color:#dee2e6;
+    // border:1px solid #eee;
+    background-color:#c9e5ff;
+    width: 80%;
+    // color: #fff;
+    // font-weight: 900;
+  }
+  
+  // External links indicator
+  
+  a[target="_blank"]:after {
+    font-family: 'Font Awesome 5 Free';
+    font-size: 0.66rem;
+    font-weight: 400;
+    position: relative;
+    bottom: 0.4rem;
+    // content: " \f08e";
+    content: ' \f35d';
+}
+
+
