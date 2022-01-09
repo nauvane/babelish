@@ -59,7 +59,7 @@
         &lt;p&gt;Writing forms an essential part of your work as a student of languages. Many of the different kinds of work that you will do use writing as their medium: research and taking notes; presentations; essays and dissertations; translations and other language exercises. Even day-to-day communications depend massively on keyboards and screens — think of email and all social media. Much of the writing you will do as students will involve the use of information technologies too and almost any variety of academic writing can make use of &lt;a href=&#34;/docs/applications/&#34;&gt;such tools&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;an-essay-is-a-structured-document&#34;&gt;An essay is a structured document&lt;/h3&gt;
 &lt;p&gt;Take essay-writing as an instance. You will write many essays in the course of your studies and almost invariably these are nowadays produced using dedicated information technologies, typically word-processors. In some cases, they may be printed and read on paper; but equally they will be circulated electronically and read on screen. In either case, it pays to think about presentation as well as content — and to regard this as an aspect of the careful and precise thinking about language that is at the forefront of your work. In structured documents, these two aspects are interdependent.&lt;/p&gt;
-&lt;p&gt;Here is an image of what an essay might look like, using &lt;a href=&#34;https://loremipsum.io/&#34;&gt;some placeholder text&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is an image of what an essay might look like, using &lt;a href=&#34;https://loremipsum.io/&#34; target=&#34;_blank&#34;&gt;some placeholder text&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&#34;/images/page_design.png&#34;
@@ -94,15 +94,15 @@
       <description>
         
         
-        &lt;p&gt;The most widely used word-processor continues to be &lt;strong&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/microsoft-365/word&#34;&gt;Microsoft Word&lt;/a&gt;&lt;/strong&gt;, which is &lt;a href=&#34;https://support.office.com/en-gb/word&#34;&gt;a well-documented application&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can also consider using &lt;strong&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;LibreOffice Writer&lt;/a&gt;&lt;/strong&gt; for your work in languages for a number of reasons:&lt;/p&gt;
+        &lt;p&gt;The most widely used word-processor continues to be &lt;strong&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/microsoft-365/word&#34; target=&#34;_blank&#34;&gt;Microsoft Word&lt;/a&gt;&lt;/strong&gt;, which is &lt;a href=&#34;https://support.office.com/en-gb/word&#34; target=&#34;_blank&#34;&gt;a well-documented application&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also consider using &lt;strong&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34; target=&#34;_blank&#34;&gt;LibreOffice Writer&lt;/a&gt;&lt;/strong&gt; for your work in languages for a number of reasons:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;easy access to information about &lt;a href=&#34;/docs/unicode/what-is-unicode&#34;&gt;Unicode blocks&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;dedicated &lt;a href=&#34;/docs/applications/#word-processors&#34;&gt;add-on tools&lt;/a&gt; in a range of languages&lt;/li&gt;
 &lt;li&gt;implementation of &lt;a href=&#34;/docs/fonts/open-type&#34;&gt;Open Type features&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Both Word and LibreOffice Writer are typically used as applications installed in your computer. By contrast, &lt;strong&gt;&lt;a href=&#34;https://docs.google.com/&#34;&gt;Google Docs&lt;/a&gt;&lt;/strong&gt; allows you to create, edit, share and collaborate on documents through a web browser. If you have an &lt;strong&gt;&lt;a href=&#34;https://www.office.com/&#34;&gt;Office 365&lt;/a&gt;&lt;/strong&gt; account, you can also &lt;a href=&#34;https://products.office.com/en-gb/word&#34;&gt;write and edit online&lt;/a&gt; in Word.&lt;/p&gt;
-&lt;p&gt;LibreOffice is an instance of &lt;a href=&#34;https://opensource.com/article/17/11/open-source-or-free-software&#34;&gt;free and open-source software&lt;/a&gt;. Google Docs is &lt;a href=&#34;https://www.google.co.uk/docs/about&#34;&gt;free for personal use&lt;/a&gt;, but not open-source.&lt;/p&gt;
+&lt;p&gt;Both Word and LibreOffice Writer are typically used as applications installed in your computer. By contrast, &lt;strong&gt;&lt;a href=&#34;https://docs.google.com/&#34; target=&#34;_blank&#34;&gt;Google Docs&lt;/a&gt;&lt;/strong&gt; allows you to create, edit, share and collaborate on documents through a web browser. If you have an &lt;strong&gt;&lt;a href=&#34;https://www.office.com/&#34; target=&#34;_blank&#34;&gt;Office 365&lt;/a&gt;&lt;/strong&gt; account, you can also &lt;a href=&#34;https://products.office.com/en-gb/word&#34; target=&#34;_blank&#34;&gt;write and edit online&lt;/a&gt; in Word.&lt;/p&gt;
+&lt;p&gt;LibreOffice is an instance of &lt;a href=&#34;https://opensource.com/article/17/11/open-source-or-free-software&#34; target=&#34;_blank&#34;&gt;free and open-source software&lt;/a&gt;. Google Docs is &lt;a href=&#34;https://www.google.co.uk/docs/about&#34; target=&#34;_blank&#34;&gt;free for personal use&lt;/a&gt;, but not open-source.&lt;/p&gt;
 &lt;h3 id=&#34;document-design-using-a-word-processor&#34;&gt;Document design using a word-processor&lt;/h3&gt;
 &lt;p&gt;The most important single aspect of the design of your document is &lt;strong&gt;body text&lt;/strong&gt;, in other words the paragraphs and other blocks of text, like quotations and bibliographies, that make up a written piece. The key consideration to bear in mind is to ensure that your content is clear and legible throughout. Among the most important factors are line length and spacing.&lt;/p&gt;
 &lt;p&gt;For an item like an essay, &lt;strong&gt;line length&lt;/strong&gt; should be about eighty characters in total, including spaces: this makes it easier for the eye to move from line to line. For this reason, you should ensure that your document has generous left and right margins (up to 4 cm).&lt;/p&gt;
@@ -143,7 +143,7 @@
 &lt;h3 id=&#34;why-use-styles&#34;&gt;Why use styles?&lt;/h3&gt;
 &lt;p&gt;One of the major advantages of using styles is that any changes you make to an individual format, e.g. block quotations or footnotes, are automatically applied to all instances in your text. You can also apply the same styles in more than one essay: once you have make the necessary modifications, they are available for re-use in each new document.&lt;/p&gt;
 &lt;h3 id=&#34;styles-in-libreoffice&#34;&gt;Styles in LibreOffice&lt;/h3&gt;
-&lt;p&gt;LibreOffice is, like Word, &lt;a href=&#34;https://help.libreoffice.org/latest/en-US/text/shared/05/new_help.html&#34;&gt;extensively documented&lt;/a&gt; — search, for instance, for styles. Styles can be edited and applied in LibreOffice writer in much the same way. Select &lt;strong&gt;Styles&lt;/strong&gt; &amp;gt; &lt;strong&gt;Manage Styles&lt;/strong&gt; to identify an individual element and to apply your modifications to it.&lt;/p&gt;
+&lt;p&gt;LibreOffice is, like Word, &lt;a href=&#34;https://help.libreoffice.org/latest/en-US/text/shared/05/new_help.html&#34; target=&#34;_blank&#34;&gt;extensively documented&lt;/a&gt; — search, for instance, for styles. Styles can be edited and applied in LibreOffice writer in much the same way. Select &lt;strong&gt;Styles&lt;/strong&gt; &amp;gt; &lt;strong&gt;Manage Styles&lt;/strong&gt; to identify an individual element and to apply your modifications to it.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&#34;/images/libre_styles.png&#34;
@@ -205,7 +205,7 @@
       <description>
         
         
-        &lt;p&gt;A file in in &lt;strong&gt;&lt;a href=&#34;https://acrobat.adobe.com/uk/en/acrobat/about-adobe-pdf.html&#34;&gt;Portable Document Format&lt;/a&gt;&lt;/strong&gt; is a printable document  that presents contents, images and other elements consistently from device to device. This means that such a file appears identically irrespective of the machine on which it is opened. This format is now also used to create archives of digital documents.&lt;/p&gt;
+        &lt;p&gt;A file in in &lt;strong&gt;&lt;a href=&#34;https://acrobat.adobe.com/uk/en/acrobat/about-adobe-pdf.html&#34; target=&#34;_blank&#34;&gt;Portable Document Format&lt;/a&gt;&lt;/strong&gt; is a printable document  that presents contents, images and other elements consistently from device to device. This means that such a file appears identically irrespective of the machine on which it is opened. This format is now also used to create archives of digital documents.&lt;/p&gt;
 &lt;h3 id=&#34;generating-pdfs&#34;&gt;Generating PDFs&lt;/h3&gt;
 &lt;p&gt;Any word-processing application can be used to create a PDF. In &lt;strong&gt;Word&lt;/strong&gt;, select &lt;strong&gt;File&lt;/strong&gt; &amp;gt; &lt;strong&gt;Print&lt;/strong&gt;, or press &lt;strong&gt;CMD+P&lt;/strong&gt; (Windows) or &lt;strong&gt;CMD+P&lt;/strong&gt; (macOS). Then, in the &lt;strong&gt;PDF&lt;/strong&gt; tab in the bottom left-hand corner, select &lt;strong&gt;Save as PDF&lt;/strong&gt;.&lt;/p&gt;
 
@@ -275,10 +275,10 @@
 &lt;h3 id=&#34;additional-fonts&#34;&gt;Additional fonts&lt;/h3&gt;
 &lt;p&gt;First, install the following fonts on your machine using these links to download the relevant compressed &lt;code&gt;.zip&lt;/code&gt; files:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://software.sil.org/downloads/r/charis/CharisSIL-5.000.zip&#34;&gt;Charis SIL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://mirrors.ctan.org/fonts/clara.zip&#34;&gt;Clara&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://noto-website-2.storage.googleapis.com/pkgs/NotoSans-unhinted.zip&#34;&gt;Noto Sans&lt;/a&gt; and &lt;a href=&#34;https://noto-website-2.storage.googleapis.com/pkgs/NotoSerif-unhinted.zip&#34;&gt;Noto Serif&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com/get/noto/help/cjk/&#34;&gt;Noto Sans and Noto Serif CJK fonts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://software.sil.org/downloads/r/charis/CharisSIL-5.000.zip&#34; target=&#34;_blank&#34;&gt;Charis SIL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mirrors.ctan.org/fonts/clara.zip&#34; target=&#34;_blank&#34;&gt;Clara&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noto-website-2.storage.googleapis.com/pkgs/NotoSans-unhinted.zip&#34; target=&#34;_blank&#34;&gt;Noto Sans&lt;/a&gt; and &lt;a href=&#34;https://noto-website-2.storage.googleapis.com/pkgs/NotoSerif-unhinted.zip&#34; target=&#34;_blank&#34;&gt;Noto Serif&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com/get/noto/help/cjk/&#34; target=&#34;_blank&#34;&gt;Noto Sans and Noto Serif CJK fonts&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The Noto CJK fonts allow you to combine &lt;a href=&#34;/docs/unicode/what-is-a-script&#34;&gt;Latin script&lt;/a&gt; with characters in Japanese, Korean, Simplified Chinese or Traditional Chinese.&lt;/p&gt;
 &lt;p&gt;Once you have &lt;a href=&#34;/docs/applications/#utilities&#34;&gt;unzipped the downloaded files&lt;/a&gt;, you can then &lt;a href=&#34;/docs/fonts/installing-fonts&#34;&gt;install the fonts&lt;/a&gt;.&lt;/p&gt;
@@ -292,7 +292,7 @@
 &lt;li&gt;an &lt;a href=&#34;/templates/noto_sc_serif_mla_template.odt&#34;&gt;essay template&lt;/a&gt; in MLA style using Noto Serif Simplified Chinese&lt;/li&gt;
 &lt;li&gt;an &lt;a href=&#34;/templates/noto_sc_sans_mla_template.odt&#34;&gt;essay template&lt;/a&gt; in MLA style using Noto Sans Simplified Chinese&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;You can also obtain &lt;a href=&#34;https://templates.office.com/en-us/mla-style-research-paper-tm03984841&#34;&gt;an MLA template for Word&lt;/a&gt; directly from Microsoft.&lt;/p&gt;
+&lt;p&gt;You can also obtain &lt;a href=&#34;https://templates.office.com/en-us/mla-style-research-paper-tm03984841&#34; target=&#34;_blank&#34;&gt;an MLA template for Word&lt;/a&gt; directly from Microsoft.&lt;/p&gt;
 &lt;h3 id=&#34;accessing-cjk-character-sets&#34;&gt;Accessing CJK character sets&lt;/h3&gt;
 &lt;p&gt;Note that you will have to choose which precise Noto CJK font you wish to use according to the language in which you will be writing — here, Simplified Chinese is selected.&lt;/p&gt;
 
@@ -354,8 +354,8 @@
         &lt;p&gt;Files store information in particular formats, according to their function and often also the application (or applications) with which they are associated. So, you can open an image file with an application like Preview on macOS, or Adobe Photoshop.&lt;/p&gt;
 &lt;h3 id=&#34;word-processor-files&#34;&gt;Word-processor files&lt;/h3&gt;
 &lt;p&gt;A file format is typically designated by the file&amp;rsquo;s extension, which takes the following format: &lt;code&gt;.xxx&lt;/code&gt;. In other words, the extension contains &lt;strong&gt;metadata&lt;/strong&gt;, or information about the file, typically its file type and the data it contains. A Word file is a text document produced using a word-processor and has the extension &lt;code&gt;.docx&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;This is also an Open XML format, which means a Word file can more easily be transferred between computers and also transformed into other document formats. It also makes it &lt;a href=&#34;https://support.office.com/en-gb/article/open-xml-formats-and-file-name-extensions-5200d93c-3449-4380-8e11-31ef14555b18#bm2&#34;&gt;compact and modular in its structure&lt;/a&gt;. Because information about the file is stored together with its contents, it will open with the same appearance in a different user&amp;rsquo;s computer.&lt;/p&gt;
-&lt;p&gt;A LibreOffice file with the extension &lt;code&gt;.odf&lt;/code&gt; is also a word-processing file. LibreOffice makes use of the &lt;a href=&#34;https://www.libreoffice.org/discover/what-is-opendocument/&#34;&gt;OpenDocument Format&lt;/a&gt;. This format supports structured documents that are interoperable. This means that ODF files can be read on machines using different operating systems and with a range of different applications other than LibreOffice.&lt;/p&gt;
+&lt;p&gt;This is also an Open XML format, which means a Word file can more easily be transferred between computers and also transformed into other document formats. It also makes it &lt;a href=&#34;https://support.office.com/en-gb/article/open-xml-formats-and-file-name-extensions-5200d93c-3449-4380-8e11-31ef14555b18#bm2&#34; target=&#34;_blank&#34;&gt;compact and modular in its structure&lt;/a&gt;. Because information about the file is stored together with its contents, it will open with the same appearance in a different user&amp;rsquo;s computer.&lt;/p&gt;
+&lt;p&gt;A LibreOffice file with the extension &lt;code&gt;.odf&lt;/code&gt; is also a word-processing file. LibreOffice makes use of the &lt;a href=&#34;https://www.libreoffice.org/discover/what-is-opendocument/&#34; target=&#34;_blank&#34;&gt;OpenDocument Format&lt;/a&gt;. This format supports structured documents that are interoperable. This means that ODF files can be read on machines using different operating systems and with a range of different applications other than LibreOffice.&lt;/p&gt;
 &lt;p&gt;Both Word and LibreOffice store all of the information associated with a given document in the form of a compressed archive file (usually a &lt;code&gt;.zip&lt;/code&gt; file).&lt;/p&gt;
 
 &lt;figure&gt;
@@ -366,7 +366,7 @@
 &lt;/figure&gt;
 
 &lt;p&gt;As well as the contents of the file, this format contains information about the styles used in a given document as well as its metadata. All of this data is in the form of &lt;code&gt;.xml&lt;/code&gt; files, a format designed for the exchange of information between computer applications. The eighteen files of which this example is made up also include an image file in &lt;code&gt;.jpg&lt;/code&gt; format embedded in the document — it is the largest file by some margin. Finally, because these files also contain information about the configuration of the LibreOffice application in which the document was created, it too will be retrieved with exactly the same layout when opened in a different machine.&lt;/p&gt;
-&lt;p&gt;Word and LibreOffice files can also &lt;a href=&#34;https://support.google.com/a/users/answer/9300311?ref_topic=9296546#1.2&#34;&gt;be used with Google Docs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Word and LibreOffice files can also &lt;a href=&#34;https://support.google.com/a/users/answer/9300311?ref_topic=9296546#1.2&#34; target=&#34;_blank&#34;&gt;be used with Google Docs&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;plain-text-formats&#34;&gt;Plain text formats&lt;/h3&gt;
 &lt;p&gt;Several file formats exist in which textual information can be encoded more simply than in a word-processing files. These are referred to as &amp;ldquo;plain text&amp;rdquo; formats because they contain only text. The simplest of these formats is a &lt;code&gt;.txt&lt;/code&gt; file, whose contents include none of the formatting found in word-processor files.&lt;/p&gt;
 
@@ -378,17 +378,17 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;In Windows, you can open a &lt;code&gt;.txt&lt;/code&gt; file using the &lt;strong&gt;Notepad&lt;/strong&gt; application and in macOS with &lt;strong&gt;TextEdit&lt;/strong&gt;. Both of these are plain text editors. You can also download and install other such editors, like &lt;strong&gt;&lt;a href=&#34;https://atom.io/&#34;&gt;Atom&lt;/a&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Plain text files are used in the creation of corpora and you can download copies of works of literature in this format from &lt;a href=&#34;https://www.gutenberg.org/wiki/Main_Page&#34;&gt;Project Gutenberg&lt;/a&gt; to create a corpus of your own, or with web applications like &lt;strong&gt;&lt;a href=&#34;https://voyant-tools.org/&#34;&gt;Voyant Tools&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In Windows, you can open a &lt;code&gt;.txt&lt;/code&gt; file using the &lt;strong&gt;Notepad&lt;/strong&gt; application and in macOS with &lt;strong&gt;TextEdit&lt;/strong&gt;. Both of these are plain text editors. You can also download and install other such editors, like &lt;strong&gt;&lt;a href=&#34;https://atom.io/&#34; target=&#34;_blank&#34;&gt;Atom&lt;/a&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34; target=&#34;_blank&#34;&gt;Visual Studio Code&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Plain text files are used in the creation of corpora and you can download copies of works of literature in this format from &lt;a href=&#34;https://www.gutenberg.org/wiki/Main_Page&#34; target=&#34;_blank&#34;&gt;Project Gutenberg&lt;/a&gt; to create a corpus of your own, or with web applications like &lt;strong&gt;&lt;a href=&#34;https://voyant-tools.org/&#34; target=&#34;_blank&#34;&gt;Voyant Tools&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;binary-document-formats&#34;&gt;Binary document formats&lt;/h3&gt;
 &lt;p&gt;From these examples we can conclude that the contents of a document can exist within files of different formats and that it is possible to transfer the content between formats, so that the document can then be edited using different applications. Google Docs can be used to import  and can export files in a range of formats.&lt;/p&gt;
 &lt;p&gt;It is also possible to generate a file in a binary format from a word-processing document. The most common outcome of such an operation is a &lt;strong&gt;Portable Document Format&lt;/strong&gt; file with the extension &lt;code&gt;.pdf&lt;/code&gt;.  Files in Word or a LibreOffice or Google Docs can be used to create a PDF.&lt;/p&gt;
 &lt;iframe width=&#34;80%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/_zavrsIxRvs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;figcaption&gt;&lt;strong&gt;Source&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&lt;a href=&#34;https://www.youtube.com/channel/UCl78QGX_hfK6zT8Mc-2w8GA&#34;&gt;Adobe Document Cloud&lt;/a&gt;&lt;/figcaption&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;A binary file is in a file format that contains digital data not in the form of plain printable characters. While it is now possible to transform a PDF file into a format in which it can be edited in Word, for instance, a word-processing application cannot be used to open the digital PDF file directly. Instead, you must use a dedicated application that will retain the exact appearance of the document contained in the file, like &lt;a href=&#34;https://get.adobe.com/uk/reader/&#34;&gt;Adobe Acrobat Reader&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A binary file is in a file format that contains digital data not in the form of plain printable characters. While it is now possible to transform a PDF file into a format in which it can be edited in Word, for instance, a word-processing application cannot be used to open the digital PDF file directly. Instead, you must use a dedicated application that will retain the exact appearance of the document contained in the file, like &lt;a href=&#34;https://get.adobe.com/uk/reader/&#34; target=&#34;_blank&#34;&gt;Adobe Acrobat Reader&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Because such applications exist for all operating systems and for mobile devices as well as computers, a PDF file is said to be &amp;ldquo;platform-independent&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;There are also dedicated open-source applications like &lt;strong&gt;&lt;a href=&#34;https://www.laurenceanthony.net/software/antfileconverter/&#34;&gt;AntFileConverter&lt;/a&gt;&lt;/strong&gt;, which allow you to convert word-processor files or PDFs into plain text for use with &lt;a href=&#34;/docs/applications/#corpora-tools&#34;&gt;corpus tools&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There are also dedicated open-source applications like &lt;strong&gt;&lt;a href=&#34;https://www.laurenceanthony.net/software/antfileconverter/&#34; target=&#34;_blank&#34;&gt;AntFileConverter&lt;/a&gt;&lt;/strong&gt;, which allow you to convert word-processor files or PDFs into plain text for use with &lt;a href=&#34;/docs/applications/#corpora-tools&#34;&gt;corpus tools&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;image-files&#34;&gt;Image files&lt;/h3&gt;
 &lt;p&gt;Most image files are also binary files containing digital data. Typical formats include &lt;code&gt;.jpg&lt;/code&gt;, &lt;code&gt;.png&lt;/code&gt; and &lt;code&gt;.tiff&lt;/code&gt; files. In both &lt;code&gt;.jpg&lt;/code&gt; and &lt;code&gt;.png&lt;/code&gt; files, some of the binary data is compressed. On the other hand, both &lt;code&gt;.png&lt;/code&gt; and &lt;code&gt;.tiff&lt;/code&gt; files are &amp;ldquo;lossless&amp;rdquo;, which means that the original data can be fully reconstructed from a compressed file.&lt;/p&gt;
 &lt;h3 id=&#34;font-files&#34;&gt;Font files&lt;/h3&gt;
@@ -397,19 +397,19 @@
 &lt;h3 id=&#34;common-file-extensions-and-formats&#34;&gt;Common file extensions and formats&lt;/h3&gt;
 &lt;dl&gt;
 &lt;dt&gt;.css&lt;/dt&gt;
-&lt;dd&gt;a file in &lt;a href=&#34;https://www.w3schools.com/css/css_intro.asp&#34;&gt;Cascading Style Sheet language&lt;/a&gt; that controls the appearance of an HTML file on screen, in print and in other media&lt;/dd&gt;
+&lt;dd&gt;a file in &lt;a href=&#34;https://www.w3schools.com/css/css_intro.asp&#34; target=&#34;_blank&#34;&gt;Cascading Style Sheet language&lt;/a&gt; that controls the appearance of an HTML file on screen, in print and in other media&lt;/dd&gt;
 &lt;dt&gt;.docx&lt;/dt&gt;
 &lt;dd&gt;a Word text document&lt;/dd&gt;
 &lt;dt&gt;.epub&lt;/dt&gt;
 &lt;dd&gt;an e-book file for use with most e-book readers (note, however, that a Kindle uses files in &lt;code&gt;.azw&lt;/code&gt; or &lt;code&gt;.azw3&lt;/code&gt; format); as well as text, it can support color images, graphics, interactive elements, and video files&lt;/dd&gt;
 &lt;dt&gt;.html&lt;/dt&gt;
-&lt;dd&gt;a document in &lt;a href=&#34;https://www.w3schools.com/html/html_intro.asp&#34;&gt;Hypertext Markup Language&lt;/a&gt; designed for display on the web&lt;/dd&gt;
+&lt;dd&gt;a document in &lt;a href=&#34;https://www.w3schools.com/html/html_intro.asp&#34; target=&#34;_blank&#34;&gt;Hypertext Markup Language&lt;/a&gt; designed for display on the web&lt;/dd&gt;
 &lt;dt&gt;.jpg&lt;/dt&gt;
 &lt;dd&gt;a compressed lossy image format&lt;/dd&gt;
 &lt;dt&gt;.key&lt;/dt&gt;
 &lt;dd&gt;a macOS presentation file&lt;/dd&gt;
 &lt;dt&gt;.md&lt;/dt&gt;
-&lt;dd&gt;a &lt;a href=&#34;https://commonmark.org/&#34;&gt;Markdown&lt;/a&gt; document; a plain text format&lt;/dd&gt;
+&lt;dd&gt;a &lt;a href=&#34;https://commonmark.org/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; document; a plain text format&lt;/dd&gt;
 &lt;dt&gt;.mov&lt;/dt&gt;
 &lt;dd&gt;a QuickTime video file&lt;/dd&gt;
 &lt;dt&gt;.mp3&lt;/dt&gt;
@@ -423,7 +423,7 @@
 &lt;dt&gt;.pages&lt;/dt&gt;
 &lt;dd&gt;a macOS text document&lt;/dd&gt;
 &lt;dt&gt;.pdf&lt;/dt&gt;
-&lt;dd&gt;a printable document in &lt;a href=&#34;https://acrobat.adobe.com/uk/en/acrobat/about-adobe-pdf.html&#34;&gt;Portable Document Format&lt;/a&gt; that presents contents, images and other elements consistently from device to device&lt;/dd&gt;
+&lt;dd&gt;a printable document in &lt;a href=&#34;https://acrobat.adobe.com/uk/en/acrobat/about-adobe-pdf.html&#34; target=&#34;_blank&#34;&gt;Portable Document Format&lt;/a&gt; that presents contents, images and other elements consistently from device to device&lt;/dd&gt;
 &lt;dt&gt;.png&lt;/dt&gt;
 &lt;dd&gt;a lightweight lossless image format&lt;/dd&gt;
 &lt;dt&gt;.pptx&lt;/dt&gt;
@@ -441,7 +441,7 @@
 &lt;dt&gt;.woff, .woff2&lt;/dt&gt;
 &lt;dd&gt;Web Open Font Format font files&lt;/dd&gt;
 &lt;dt&gt;.xml&lt;/dt&gt;
-&lt;dd&gt;a file in &lt;a href=&#34;https://www.w3schools.com/xml/xml_whatis.asp&#34;&gt;Extensible Markup Language&lt;/a&gt; used for storing and transporting information&lt;/dd&gt;
+&lt;dd&gt;a file in &lt;a href=&#34;https://www.w3schools.com/xml/xml_whatis.asp&#34; target=&#34;_blank&#34;&gt;Extensible Markup Language&lt;/a&gt; used for storing and transporting information&lt;/dd&gt;
 &lt;dt&gt;.zip&lt;/dt&gt;
 &lt;dd&gt;an archive file format that supports lossless compression of files or directories&lt;/dd&gt;
 &lt;/dl&gt;

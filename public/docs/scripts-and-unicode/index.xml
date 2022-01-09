@@ -24,9 +24,9 @@
       <description>
         
         
-        &lt;p&gt;The written word is pervasive and scripts are the basis on which we communicate in writing. With the publication of &lt;strong&gt;&lt;a href=&#34;http://www.unicode.org/versions/Unicode14.0.0/&#34;&gt;Unicode 14.0.0&lt;/a&gt;&lt;/strong&gt; on 14 September 2021, the standard now supports &lt;a href=&#34;https://www.unicode.org/standard/supported.html&#34;&gt;159 scripts&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This is how Unicode defines a script: &amp;ldquo;A collection of letters and other written signs used to represent textual information in one or more writing systems. For example, Russian is written with a subset of the Cyrillic script; Ukrainian is written with a different subset. The Japanese writing system uses several scripts&amp;rdquo; (&lt;a href=&#34;https://www.unicode.org/glossary/#script&#34;&gt;Glossary of Unicode terms&lt;/a&gt;). Within this framework, the different scripts in the world, historical and contemporary, present &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&amp;amp;uid=cq3q4pwuah&#34;&gt;wide variations&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;About two-thirds of the writing systems in the world today use &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#alph&#34;&gt;alphabetical scripts&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;The written word is pervasive and scripts are the basis on which we communicate in writing. With the publication of &lt;strong&gt;&lt;a href=&#34;http://www.unicode.org/versions/Unicode14.0.0/&#34; target=&#34;_blank&#34;&gt;Unicode 14.0.0&lt;/a&gt;&lt;/strong&gt; on 14 September 2021, the standard now supports &lt;a href=&#34;https://www.unicode.org/standard/supported.html&#34; target=&#34;_blank&#34;&gt;159 scripts&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is how Unicode defines a script: &amp;ldquo;A collection of letters and other written signs used to represent textual information in one or more writing systems. For example, Russian is written with a subset of the Cyrillic script; Ukrainian is written with a different subset. The Japanese writing system uses several scripts&amp;rdquo; (&lt;a href=&#34;https://www.unicode.org/glossary/#script&#34;&gt;Glossary of Unicode terms&lt;/a&gt;). Within this framework, the different scripts in the world, historical and contemporary, present &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&amp;amp;uid=cq3q4pwuah&#34; target=&#34;_blank&#34;&gt;wide variations&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;About two-thirds of the writing systems in the world today use &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#alph&#34; target=&#34;_blank&#34;&gt;alphabetical scripts&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;latin-script&#34;&gt;Latin script&lt;/h3&gt;
 &lt;p&gt;This is the script that you are likely to use most often: it is the one in which English and many European languages are written, and is the most widely script used today.&lt;/p&gt;
 
@@ -37,7 +37,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Scripts can be defined according to a number of characteristics, using &lt;a href=&#34;https://www.unicode.org/glossary/&#34;&gt;Unicode&lt;/a&gt; or &lt;a href=&#34;https://www.adobe.com/ie/products/type/adobe-type-references-tips/glossary.html&#34;&gt;typographical&lt;/a&gt; terminology. Here are a number of these characteristics in the case of Latin script:&lt;/p&gt;
+&lt;p&gt;Scripts can be defined according to a number of characteristics, using &lt;a href=&#34;https://www.unicode.org/glossary/&#34; target=&#34;_blank&#34;&gt;Unicode&lt;/a&gt; or &lt;a href=&#34;https://www.adobe.com/ie/products/type/adobe-type-references-tips/glossary.html&#34; target=&#34;_blank&#34;&gt;typographical&lt;/a&gt; terminology. Here are a number of these characteristics in the case of Latin script:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Latin script is &lt;strong&gt;alphabetical&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;it is &lt;strong&gt;bicameral&lt;/strong&gt;, meaning that it has upper-case and lower-case characters, and is &lt;strong&gt;case-sensitive&lt;/strong&gt; — so, we recognize &lt;strong&gt;brown&lt;/strong&gt; to be an adjective and &lt;strong&gt;Brown&lt;/strong&gt; to be a proper noun&lt;/li&gt;
@@ -57,11 +57,11 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://r12a.github.io/scripts/arabic/index&#34;&gt;Arabic scripts&lt;/a&gt; present several more distinguishing features than Latin script. After the Latin alphabet, it is the second most widely used script in the world.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://r12a.github.io/scripts/arabic/index&#34; target=&#34;_blank&#34;&gt;Arabic scripts&lt;/a&gt; present several more distinguishing features than Latin script. After the Latin alphabet, it is the second most widely used script in the world.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Arabic is a &lt;strong&gt;right-to-left&lt;/strong&gt; mid-baseline script&lt;/li&gt;
-&lt;li&gt;the script directly represents only consonants and long vowel sounds; in other words, it is an &lt;strong&gt;&lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#abjad&#34;&gt;abjad&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;short vowel sounds and other phonetic information are denoted by &lt;strong&gt;&lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#diacritic&#34;&gt;diacritics&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;the script directly represents only consonants and long vowel sounds; in other words, it is an &lt;strong&gt;&lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#abjad&#34; target=&#34;_blank&#34;&gt;abjad&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;short vowel sounds and other phonetic information are denoted by &lt;strong&gt;&lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#diacritic&#34; target=&#34;_blank&#34;&gt;diacritics&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;it is a &lt;strong&gt;cursive&lt;/strong&gt; script; in other words, the characters &amp;ldquo;join up&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;the shape of cursive characters can be determined by the characters to which they are joined&lt;/li&gt;
 &lt;li&gt;characters can also overlap&lt;/li&gt;
@@ -79,8 +79,8 @@
 
 &lt;p&gt;Note the Arabic numerals on the second row from the top of this lower case keyboard.&lt;/p&gt;
 &lt;h3 id=&#34;cjk-scripts&#34;&gt;CJK scripts&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;CJK scripts&lt;/strong&gt; refer to Chinese, or &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&amp;amp;key=Hans&#34;&gt;Han&lt;/a&gt;, ideographs used in the writing systems of Chinese and &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&amp;amp;key=Jpan&#34;&gt;Japanese&lt;/a&gt;, and to a more limited extent in &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&amp;amp;key=Kore&#34;&gt;Korean&lt;/a&gt;. Unicode supports more than eighty thousand Han characters.&lt;/p&gt;
-&lt;p&gt;Here is an example of a sentence using &lt;a href=&#34;https://r12a.github.io/scripts/chinese/&#34;&gt;the Simplified Chinese script&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CJK scripts&lt;/strong&gt; refer to Chinese, or &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&amp;amp;key=Hans&#34; target=&#34;_blank&#34;&gt;Han&lt;/a&gt;, ideographs used in the writing systems of Chinese and &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&amp;amp;key=Jpan&#34; target=&#34;_blank&#34;&gt;Japanese&lt;/a&gt;, and to a more limited extent in &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=script_detail&amp;amp;key=Kore&#34; target=&#34;_blank&#34;&gt;Korean&lt;/a&gt;. Unicode supports more than eighty thousand Han characters.&lt;/p&gt;
+&lt;p&gt;Here is an example of a sentence using &lt;a href=&#34;https://r12a.github.io/scripts/chinese/&#34; target=&#34;_blank&#34;&gt;the Simplified Chinese script&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&#34;/images/han.png&#34;
@@ -92,13 +92,13 @@
 &lt;p&gt;Can you identify the use of Traditional Chinese quotation marks here, as well as the European comma and full point?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Han scripts are &lt;strong&gt;ideographic&lt;/strong&gt;, with characters usually representing a spoken syllable&lt;/li&gt;
-&lt;li&gt;for this reason, Han script is also referred to as a &lt;strong&gt;&lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#logosyl&#34;&gt;logosyllabary&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;for this reason, Han script is also referred to as a &lt;strong&gt;&lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#logosyl&#34; target=&#34;_blank&#34;&gt;logosyllabary&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Japanese script features both syllabic and ideographic-syllabic text, with word-spacing being used with the former&lt;/li&gt;
 &lt;li&gt;CJK scripts generally are left-to-right and can also be written vertically&lt;/li&gt;
 &lt;li&gt;they are not case-sensitive&lt;/li&gt;
 &lt;li&gt;Han does not use spaces as word-separators, though the &lt;strong&gt;justification&lt;/strong&gt; of lines leads to adjustments in the placement of characters within their frames&lt;/li&gt;
 &lt;li&gt;Korean, by contrast, does feature spacing between words&lt;/li&gt;
-&lt;li&gt;both Han and Japanese script uses &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#baseline&#34;&gt;a centred baseline&lt;/a&gt;, whereas in Korean a bottom baseline is used&lt;/li&gt;
+&lt;li&gt;both Han and Japanese script uses &lt;a href=&#34;https://scriptsource.org/cms/scripts/page.php?item_id=glossary#baseline&#34; target=&#34;_blank&#34;&gt;a centred baseline&lt;/a&gt;, whereas in Korean a bottom baseline is used&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;figure&gt;
@@ -108,9 +108,9 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;A Han ideogram can be thought of as contained a uniform square frame: here, the characters are displayed in visible &lt;strong&gt;bounding boxes&lt;/strong&gt; to illustrate the absence of features like case and word separation. Note that punctuation marks imported from European scripts are &lt;strong&gt;&lt;a href=&#34;https://unicode.org/glossary/#fullwidth&#34;&gt;full-width&lt;/a&gt;&lt;/strong&gt; rather than &lt;strong&gt;&lt;a href=&#34;https://unicode.org/glossary/#halfwidth&#34;&gt;half-width&lt;/a&gt;&lt;/strong&gt;, and therefore do not require additional spacing.&lt;/p&gt;
+&lt;p&gt;A Han ideogram can be thought of as contained a uniform square frame: here, the characters are displayed in visible &lt;strong&gt;bounding boxes&lt;/strong&gt; to illustrate the absence of features like case and word separation. Note that punctuation marks imported from European scripts are &lt;strong&gt;&lt;a href=&#34;https://unicode.org/glossary/#fullwidth&#34; target=&#34;_blank&#34;&gt;full-width&lt;/a&gt;&lt;/strong&gt; rather than &lt;strong&gt;&lt;a href=&#34;https://unicode.org/glossary/#halfwidth&#34; target=&#34;_blank&#34;&gt;half-width&lt;/a&gt;&lt;/strong&gt;, and therefore do not require additional spacing.&lt;/p&gt;
 &lt;h3 id=&#34;a-historical-script-ogham&#34;&gt;A historical script: Ogham&lt;/h3&gt;
-&lt;p&gt;Unicode extends also to historical scripts that are no longer current, one example being the medieval script of &lt;a href=&#34;https://scriptsource.org/scr/Ogam&#34;&gt;Ogham&lt;/a&gt;, which was widely used for inscriptions in Ireland, and also in parts of Britain. Here is &lt;a href=&#34;https://www.ucl.ac.uk/archaeology/cisp/database/stone/incha_1.html&#34;&gt;an example&lt;/a&gt; of an Ogham inscription.&lt;/p&gt;
+&lt;p&gt;Unicode extends also to historical scripts that are no longer current, one example being the medieval script of &lt;a href=&#34;https://scriptsource.org/scr/Ogam&#34; target=&#34;_blank&#34;&gt;Ogham&lt;/a&gt;, which was widely used for inscriptions in Ireland, and also in parts of Britain. Here is &lt;a href=&#34;https://www.ucl.ac.uk/archaeology/cisp/database/stone/incha_1.html&#34; target=&#34;_blank&#34;&gt;an example&lt;/a&gt; of an Ogham inscription.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&#34;/images/ogham.png&#34;
@@ -120,12 +120,12 @@
 &lt;/figure&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Ogham is &lt;a href=&#34;https://www.omniglot.com/writing/ogham.htm&#34;&gt;an alphabetical script&lt;/a&gt;, with incisions corresponding to characters in the Latin alphabet&lt;/li&gt;
+&lt;li&gt;Ogham is &lt;a href=&#34;https://www.omniglot.com/writing/ogham.htm&#34; target=&#34;_blank&#34;&gt;an alphabetical script&lt;/a&gt;, with incisions corresponding to characters in the Latin alphabet&lt;/li&gt;
 &lt;li&gt;it is a left-to-right script, with a mid-baseline&lt;/li&gt;
 &lt;li&gt;many original Ogham inscriptions are vertical, reading from bottom to top, as in this example&lt;/li&gt;
 &lt;li&gt;Ogham inscriptions did not make use of word-spacing&lt;/li&gt;
-&lt;li&gt;Ogham forms a &lt;a href=&#34;https://www.unicode.org/charts/PDF/U1680.pdf&#34;&gt;block&lt;/a&gt; in the &lt;strong&gt;&lt;a href=&#34;/docs/scripts-and-unicode/what-is-unicode/#how-is-unicode-organized&#34;&gt;Basic Multilingual Plane&lt;/a&gt;&lt;/strong&gt; in Unicode&lt;/li&gt;
-&lt;li&gt;the &lt;strong&gt;&lt;a href=&#34;/docs/fonts/installing-fonts/#unicode-fonts&#34;&gt;Noto Project&lt;/a&gt;&lt;/strong&gt; includes &lt;a href=&#34;https://noto-website-2.storage.googleapis.com/pkgs/NotoSansOgham-unhinted.zip&#34;&gt;a font for Ogham&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ogham forms a &lt;a href=&#34;https://www.unicode.org/charts/PDF/U1680.pdf&#34; target=&#34;_blank&#34;&gt;block&lt;/a&gt; in the &lt;strong&gt;&lt;a href=&#34;/docs/scripts-and-unicode/what-is-unicode/#how-is-unicode-organized&#34;&gt;Basic Multilingual Plane&lt;/a&gt;&lt;/strong&gt; in Unicode&lt;/li&gt;
+&lt;li&gt;the &lt;strong&gt;&lt;a href=&#34;/docs/fonts/installing-fonts/#unicode-fonts&#34;&gt;Noto Project&lt;/a&gt;&lt;/strong&gt; includes &lt;a href=&#34;https://noto-website-2.storage.googleapis.com/pkgs/NotoSansOgham-unhinted.zip&#34; target=&#34;_blank&#34;&gt;a font for Ogham&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;figure&gt;
@@ -148,9 +148,9 @@
       <description>
         
         
-        &lt;p&gt;Unicode is a computer standard that provides a single code for each character in each language, or each script, bearing in mind that a given script can be used by more than one language. To quote &lt;a href=&#34;https://home.unicode.org/basic-info/overview/&#34;&gt;the Unicode site&lt;/a&gt;, &amp;ldquo;Unicode provides a unique number for every character, no matter what the platform, program, or language is&amp;rdquo;.&lt;/p&gt;
+        &lt;p&gt;Unicode is a computer standard that provides a single code for each character in each language, or each script, bearing in mind that a given script can be used by more than one language. To quote &lt;a href=&#34;https://home.unicode.org/basic-info/overview/&#34; target=&#34;_blank&#34;&gt;the Unicode site&lt;/a&gt;, &amp;ldquo;Unicode provides a unique number for every character, no matter what the platform, program, or language is&amp;rdquo;.&lt;/p&gt;
 &lt;h3 id=&#34;encoding-scripts&#34;&gt;Encoding scripts&lt;/h3&gt;
-&lt;p&gt;All of the data associated with a given script are contained in &lt;a href=&#34;https://www.unicode.org/charts/&#34;&gt;character code charts&lt;/a&gt; maintained by the Unicode Consortium. These charts, then, represent the &lt;strong&gt;character set&lt;/strong&gt; of the script in question.&lt;/p&gt;
+&lt;p&gt;All of the data associated with a given script are contained in &lt;a href=&#34;https://www.unicode.org/charts/&#34; target=&#34;_blank&#34;&gt;character code charts&lt;/a&gt; maintained by the Unicode Consortium. These charts, then, represent the &lt;strong&gt;character set&lt;/strong&gt; of the script in question.&lt;/p&gt;
 &lt;p&gt;Here are the characters contained in &lt;strong&gt;Basic Latin&lt;/strong&gt;, which is the first block of the Latin script in Unicode.&lt;/p&gt;
 
 &lt;figure&gt;
@@ -205,63 +205,63 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Basic Latin&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=basic_latin&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0000.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=basic_latin&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0000.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Latin-1 Supplement&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin-1_supplement&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0080.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin-1_supplement&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0080.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Latin Extended-A&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-a&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0100.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-a&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0100.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Latin Extended-B&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-b&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0180.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-b&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0180.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Latin Extended-C&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-c&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U2C60.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-c&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U2C60.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Latin Extended-D&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-d&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/UA720.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-d&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/UA720.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Latin Extended-E&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-e&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/UAB30.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended-e&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/UAB30.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Latin Extended Additional&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended_additional&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U1E00.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=latin_extended_additional&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U1E00.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Halfwidth and Fullwidth Forms&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=halfwidth_and_fullwidth_forms&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/UFF00.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=halfwidth_and_fullwidth_forms&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/UFF00.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;IPA Extensions&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=ipa_extensions&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0250.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=ipa_extensions&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U0250.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Phonetic Extensions&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=phonetic_extensions&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U1D00.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=phonetic_extensions&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U1D00.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Phonetic Extensions Supplement&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=phonetic_extensions_supplement&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U1D80.pdf&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://r12a.github.io/uniview/?block=phonetic_extensions_supplement&#34; target=&#34;_blank&#34;&gt;Character data&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.unicode.org/charts/PDF/U1D80.pdf&#34; target=&#34;_blank&#34;&gt;Character chart&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -276,7 +276,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Unicode charts are now available in &lt;a href=&#34;https://www.unicode.org/charts/fr/&#34;&gt;French&lt;/a&gt; as well as English, with the added possibility of &lt;a href=&#34;https://www.unicode.org/charts/fr/charindex.html&#34;&gt;searching for characters by name&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Unicode charts are now available in &lt;a href=&#34;https://www.unicode.org/charts/fr/&#34; target=&#34;_blank&#34;&gt;French&lt;/a&gt; as well as English, with the added possibility of &lt;a href=&#34;https://www.unicode.org/charts/fr/charindex.html&#34; target=&#34;_blank&#34;&gt;searching for characters by name&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;how-computers-handle-characters&#34;&gt;How computers handle characters&lt;/h3&gt;
 &lt;p&gt;When you are working in a given application and select a character on a keyboard, you need to be sure that it will then appear on screen: you depend on a &lt;strong&gt;character encoding&lt;/strong&gt; for this to happen.&lt;/p&gt;
 &lt;p&gt;The most common encoding used today is &lt;strong&gt;UTF-8&lt;/strong&gt;. It is the standard encoding for the internet and is also the default in word-processing applications. When you enter a character in UTF-8, a computer will then transform that into binary code in &lt;strong&gt;bits&lt;/strong&gt;, or minimal units of digital information (a &lt;strong&gt;0&lt;/strong&gt; or a &lt;strong&gt;1&lt;/strong&gt; in base 2 numbers).&lt;/p&gt;
@@ -357,10 +357,10 @@
       <description>
         
         
-        &lt;p&gt;A number of tools exist through which you can explore the relationship between scripts, languages and characters, in particular the &lt;a href=&#34;https://r12a.github.io/applist#scripts&#34;&gt;web-based resources&lt;/a&gt; developed by Richard Ishida.&lt;/p&gt;
-&lt;p&gt;You can also use applications directly in your computer. The Unicode Consortium has developed &lt;a href=&#34;https://unicode.org/unibook/help/unibook.htm&#34;&gt;Unibook Character Browser&lt;/a&gt; as a resource for Windows; this also requires you to download and install related &lt;a href=&#34;https://unicode.org/unibook/help/unibook.htm#InstallingPropertyData&#34;&gt;character property data&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;An alternative application for Windows is &lt;a href=&#34;https://www.babelstone.co.uk/Software/BabelMap.html&#34;&gt;BabelMap&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For macOS, &lt;a href=&#34;https://earthlingsoft.net/UnicodeChecker&#34;&gt;UnicodeChecker&lt;/a&gt; is a utility that is comparable in scope.&lt;/p&gt;
+        &lt;p&gt;A number of tools exist through which you can explore the relationship between scripts, languages and characters, in particular the &lt;a href=&#34;https://r12a.github.io/applist#scripts&#34; target=&#34;_blank&#34;&gt;web-based resources&lt;/a&gt; developed by Richard Ishida.&lt;/p&gt;
+&lt;p&gt;You can also use applications directly in your computer. The Unicode Consortium has developed &lt;a href=&#34;https://unicode.org/unibook/help/unibook.htm&#34; target=&#34;_blank&#34;&gt;Unibook Character Browser&lt;/a&gt; as a resource for Windows; this also requires you to download and install related &lt;a href=&#34;https://unicode.org/unibook/help/unibook.htm#InstallingPropertyData&#34; target=&#34;_blank&#34;&gt;character property data&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;An alternative application for Windows is &lt;a href=&#34;https://www.babelstone.co.uk/Software/BabelMap.html&#34; target=&#34;_blank&#34;&gt;BabelMap&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For macOS, &lt;a href=&#34;https://earthlingsoft.net/UnicodeChecker&#34; target=&#34;_blank&#34;&gt;UnicodeChecker&lt;/a&gt; is a utility that is comparable in scope.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&#34;/images/bmpcjk.png&#34;
@@ -369,7 +369,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;For characters in the CJK blocks in Unicode, UnicodeChecker also summarizes information derived from the &lt;a href=&#34;https://unicode.org/charts/unihan.html&#34;&gt;Unihan Database&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For characters in the CJK blocks in Unicode, UnicodeChecker also summarizes information derived from the &lt;a href=&#34;https://unicode.org/charts/unihan.html&#34; target=&#34;_blank&#34;&gt;Unihan Database&lt;/a&gt;.&lt;/p&gt;
 
       </description>
     </item>
@@ -383,7 +383,7 @@
       <description>
         
         
-        &lt;p&gt;The &lt;a href=&#34;https://www.internationalphoneticassociation.org/content/full-ipa-chart&#34;&gt;International Phonetic Alphabet&lt;/a&gt;is an alphabetical system of phonetic notation. It is based on &lt;a href=&#34;/docs/scripts-and-unicode/what-is-a-script&#34;&gt;Latin script&lt;/a&gt;.&lt;/p&gt;
+        &lt;p&gt;The &lt;a href=&#34;https://www.internationalphoneticassociation.org/content/full-ipa-chart&#34; target=&#34;_blank&#34;&gt;International Phonetic Alphabet&lt;/a&gt;is an alphabetical system of phonetic notation. It is based on &lt;a href=&#34;/docs/scripts-and-unicode/what-is-a-script&#34;&gt;Latin script&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&#34;/images/ipachart.png&#34;
@@ -392,7 +392,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;One convenient way to generate a phonetic transcription using the IPA is via &lt;a href=&#34;https://r12a.github.io/pickers/ipa/&#34;&gt;an IPA picker&lt;/a&gt;: you select the symbols required and they then appear in a box at the top of the screen. Here is a transcription of the German word &lt;em&gt;für&lt;/em&gt;.
+&lt;p&gt;One convenient way to generate a phonetic transcription using the IPA is via &lt;a href=&#34;https://r12a.github.io/pickers/ipa/&#34; target=&#34;_blank&#34;&gt;an IPA picker&lt;/a&gt;: you select the symbols required and they then appear in a box at the top of the screen. Here is a transcription of the German word &lt;em&gt;für&lt;/em&gt;.
 You can then, for example, copy and paste a transcription into a word-processing document.&lt;/p&gt;
 
 
@@ -421,7 +421,7 @@ You can then, for example, copy and paste a transcription into a word-processing
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libre Office&lt;/a&gt; lends itself particularly well to this task. You can see that the transcription of the German word &amp;ldquo;für&amp;rdquo; includes two symbols, the triangular colon and the small turned &lt;strong&gt;a&lt;/strong&gt; character, that do not form part of the Basic Latin script. The IPA is, however, included in &lt;a href=&#34;/docs/scripts-and-unicode/what-is-unicode&#34;&gt;Unicode&lt;/a&gt; and when you need to input a symbol that is not to be found in the Basic Latin block, you can click on the omega icon in Libre Office in order to select the relevant character.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.libreoffice.org/&#34; target=&#34;_blank&#34;&gt;Libre Office&lt;/a&gt; lends itself particularly well to this task. You can see that the transcription of the German word &amp;ldquo;für&amp;rdquo; includes two symbols, the triangular colon and the small turned &lt;strong&gt;a&lt;/strong&gt; character, that do not form part of the Basic Latin script. The IPA is, however, included in &lt;a href=&#34;/docs/scripts-and-unicode/what-is-unicode&#34;&gt;Unicode&lt;/a&gt; and when you need to input a symbol that is not to be found in the Basic Latin block, you can click on the omega icon in Libre Office in order to select the relevant character.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;img src=&#34;/images/turneda.png&#34;

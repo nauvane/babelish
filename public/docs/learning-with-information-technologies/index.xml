@@ -24,7 +24,7 @@
       <description>
         
         
-        &lt;p&gt;At their simplest, computers are devices that can store or access data, on which you can perform a range of operations — for instance, a text file in which you can search for occurrences of a given word, a word-processing application in which you work on an essay, an academic source that you can &lt;a href=&#34;/docs/research/research-and-reading&#34;&gt;read and annotate&lt;/a&gt;, an &lt;a href=&#34;https://www.sketchengine.eu/&#34;&gt;application or web service&lt;/a&gt; with which you can interact in the process of learning, or &lt;a href=&#34;https://ucc.summon.serialssolutions.com/?q=#!/search?ho=t&amp;amp;l=en-UK&amp;amp;q=&#34;&gt;a dedicated search engine&lt;/a&gt; in which you can explore existing knowledge in subjects of interest to you.&lt;/p&gt;
+        &lt;p&gt;At their simplest, computers are devices that can store or access data, on which you can perform a range of operations — for instance, a text file in which you can search for occurrences of a given word, a word-processing application in which you work on an essay, an academic source that you can &lt;a href=&#34;/docs/research/research-and-reading&#34;&gt;read and annotate&lt;/a&gt;, an &lt;a href=&#34;https://www.sketchengine.eu/&#34; target=&#34;_blank&#34;&gt;application or web service&lt;/a&gt; with which you can interact in the process of learning, or &lt;a href=&#34;https://ucc.summon.serialssolutions.com/?q=#!/search?ho=t&amp;amp;l=en-UK&amp;amp;q=&#34; target=&#34;_blank&#34;&gt;a dedicated search engine&lt;/a&gt; in which you can explore existing knowledge in subjects of interest to you.&lt;/p&gt;
 &lt;p&gt;These are all operations you can perform on a computer, but also, say, on a smartphone or a tablet.&lt;/p&gt;
 
 &lt;figure&gt;
@@ -53,7 +53,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;A web application like &lt;a href=&#34;https://voyant-tools.org/&#34;&gt;Voyant Tools&lt;/a&gt; can perform all of these operations, providing, as here, a word cloud displaying word-frequencies in the poems of Emily Dickinson.&lt;/p&gt;
+&lt;p&gt;A web application like &lt;a href=&#34;https://voyant-tools.org/&#34; target=&#34;_blank&#34;&gt;Voyant Tools&lt;/a&gt; can perform all of these operations, providing, as here, a word cloud displaying word-frequencies in the poems of Emily Dickinson.&lt;/p&gt;
 &lt;h3 id=&#34;the-computer-as-a-device-for-transforming-information&#34;&gt;The computer as a device for transforming information&lt;/h3&gt;
 &lt;p&gt;Today, we think of computers and similar devices as tools for studying how we can handle and transform information. In other words, the handling and processing of information are as signifcant as the devices themselves through which we study them.&lt;/p&gt;
 
@@ -149,7 +149,7 @@
 &lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
 &lt;h4 class=&#34;alert-heading&#34;&gt;Tip&lt;/h4&gt;
 
-    It&amp;rsquo;s a very good idea to have backups of all of your files and data, by using, for instance, one of &lt;a href=&#34;https://www.ucc.ie/en/sit/online-services/&#34;&gt;the cloud services&lt;/a&gt; provided by the University.
+    It&amp;rsquo;s a very good idea to have backups of all of your files and data, by using, for instance, one of &lt;a href=&#34;https://www.ucc.ie/en/sit/online-services/&#34; target=&#34;_blank&#34;&gt;the cloud services&lt;/a&gt; provided by the University.
 
 &lt;/div&gt;
 
@@ -183,13 +183,13 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Any computer runs a number of software &lt;strong&gt;processes&lt;/strong&gt; via the &lt;strong&gt;central processing unit&lt;/strong&gt;, or &lt;strong&gt;CPU&lt;/strong&gt;, at any one time. The CPU is thus a key component of the computer&amp;rsquo;s hardware. A computer uses its &lt;strong&gt;system memory&lt;/strong&gt;, or &lt;strong&gt;RAM&lt;/strong&gt;, in order to function, e.g. to make data available to the programs or applications that you may install on your machine while these are in use. A web browser (in this case, Firefox) typically makes heavy demands of this system of primary memory. A computer uses a different, more permanent, form of memory to store information on &lt;strong&gt;disks&lt;/strong&gt;. And finally, most computers today have open &lt;strong&gt;net&lt;/strong&gt; connections that allow you to access remote data via the internet and the &lt;a href=&#34;https://www.w3.org/Help/#webinternet&#34;&gt;World Wide Web&lt;/a&gt;. The operating system controls all of these processes and their interactions.&lt;/p&gt;
+&lt;p&gt;Any computer runs a number of software &lt;strong&gt;processes&lt;/strong&gt; via the &lt;strong&gt;central processing unit&lt;/strong&gt;, or &lt;strong&gt;CPU&lt;/strong&gt;, at any one time. The CPU is thus a key component of the computer&amp;rsquo;s hardware. A computer uses its &lt;strong&gt;system memory&lt;/strong&gt;, or &lt;strong&gt;RAM&lt;/strong&gt;, in order to function, e.g. to make data available to the programs or applications that you may install on your machine while these are in use. A web browser (in this case, Firefox) typically makes heavy demands of this system of primary memory. A computer uses a different, more permanent, form of memory to store information on &lt;strong&gt;disks&lt;/strong&gt;. And finally, most computers today have open &lt;strong&gt;net&lt;/strong&gt; connections that allow you to access remote data via the internet and the &lt;a href=&#34;https://www.w3.org/Help/#webinternet&#34; target=&#34;_blank&#34;&gt;World Wide Web&lt;/a&gt;. The operating system controls all of these processes and their interactions.&lt;/p&gt;
 
 
 &lt;div class=&#34;alert alert-primary&#34; role=&#34;alert&#34;&gt;
 &lt;h4 class=&#34;alert-heading&#34;&gt;Tip&lt;/h4&gt;
 
-    You can monitor just how your computer is functioning for yourself by using built-in applications like &lt;a href=&#34;https://docs.microsoft.com/en-us/shows/inside/task-manager&#34;&gt;Task Manager&lt;/a&gt; in Windows or &lt;a href=&#34;https://support.apple.com/en-ie/guide/activity-monitor/welcome/mac&#34;&gt;Activity Monitor&lt;/a&gt; in macOS.
+    You can monitor just how your computer is functioning for yourself by using built-in applications like &lt;a href=&#34;https://docs.microsoft.com/en-us/shows/inside/task-manager&#34; target=&#34;_blank&#34;&gt;Task Manager&lt;/a&gt; in Windows or &lt;a href=&#34;https://support.apple.com/en-ie/guide/activity-monitor/welcome/mac&#34; target=&#34;_blank&#34;&gt;Activity Monitor&lt;/a&gt; in macOS.
 
 &lt;/div&gt;
 
@@ -201,7 +201,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Today, computers can be complex machines designed to fulfil a wide range of uses. Operating systems are designed to facilitate your interactions with a device, and with all of the information and processes on which you may draw in your work. For this reason, it makes sense to explore and learn just how &lt;a href=&#34;https://www.microsoft.com/en-gb/windows&#34;&gt;Windows&lt;/a&gt; or &lt;a href=&#34;https://support.apple.com/macos&#34;&gt;macOS&lt;/a&gt; or &lt;a href=&#34;https://www.google.com/chromebook/chrome-os/&#34;&gt;Chrome OS&lt;/a&gt; operates and how each one can help you in your use of the different computers you are likely to encounter.&lt;/p&gt;
+&lt;p&gt;Today, computers can be complex machines designed to fulfil a wide range of uses. Operating systems are designed to facilitate your interactions with a device, and with all of the information and processes on which you may draw in your work. For this reason, it makes sense to explore and learn just how &lt;a href=&#34;https://www.microsoft.com/en-gb/windows&#34; target=&#34;_blank&#34;&gt;Windows&lt;/a&gt; or &lt;a href=&#34;https://support.apple.com/macos&#34; target=&#34;_blank&#34;&gt;macOS&lt;/a&gt; or &lt;a href=&#34;https://www.google.com/chromebook/chrome-os/&#34; target=&#34;_blank&#34;&gt;Chrome OS&lt;/a&gt; operates and how each one can help you in your use of the different computers you are likely to encounter.&lt;/p&gt;
 &lt;h3 id=&#34;text-and-hypertext-networks-and-the-web&#34;&gt;Text and hypertext: networks and the web&lt;/h3&gt;
 &lt;p&gt;The web forms part of the internet, or the network of all connected networks. When you go online, for example via WiFi, you connect to a &lt;strong&gt;local area network&lt;/strong&gt;. This network is in turn connected to innumerable other networks via specialized &lt;strong&gt;gateways&lt;/strong&gt; and &lt;strong&gt;servers&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;A webpage is located in a web domain, in other words a computer or group of computers that form a local area network of their own, and are likewise connected through a web server to the Internet. To connect to such a page, you activate, as you well know, a &lt;a href=&#34;/docs/tips/working-with-links&#34;&gt;hyperlink&lt;/a&gt; which contains the web address of the domain and page in question.&lt;/p&gt;
@@ -302,7 +302,7 @@
         &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;These capabilities have been &lt;a href=&#34;https://digitalcapability.jiscinvolve.org/wp/files/2015/06/1.-Digital-capabilities-6-elements.pdf&#34;&gt;extensively documented&lt;/a&gt;, including their critical dimension and also their important implications for your digital well-being. When thinking about how you want to develop your digital literacy, consider also these &lt;a href=&#34;https://www.jisc.ac.uk/guides/developing-digital-literacies/top-tips#&#34;&gt;tips&lt;/a&gt;. The effective use of digital technologies and tools is more and more a key path to becoming a proficient independent learner.&lt;/p&gt;
+&lt;p&gt;These capabilities have been &lt;a href=&#34;https://digitalcapability.jiscinvolve.org/wp/files/2015/06/1.-Digital-capabilities-6-elements.pdf&#34; target=&#34;_blank&#34;&gt;extensively documented&lt;/a&gt;, including their critical dimension and also their important implications for your digital well-being. When thinking about how you want to develop your digital literacy, consider also these &lt;a href=&#34;https://www.jisc.ac.uk/guides/developing-digital-literacies/top-tips#&#34; target=&#34;_blank&#34;&gt;tips&lt;/a&gt;. The effective use of digital technologies and tools is more and more a key path to becoming a proficient independent learner.&lt;/p&gt;
 &lt;h3 id=&#34;reflect-on-your-experience&#34;&gt;Reflect on your experience&lt;/h3&gt;
 &lt;p&gt;It is a good idea to monitor and reflect on your experience of learning technologies: in the course of your studies, you are likely to encounter many different kinds of tool and application and it makes sense to think about how these help you in your work. Expect change: new resources and ways of accessing and using information are constantly being developed, and your own work is likely to evolve in parallel. Monitor and learn from your own use of these resources and think critically about their strengths and weaknesses.&lt;/p&gt;
 
@@ -334,7 +334,7 @@
 &lt;p&gt;An important distinction is made between &lt;strong&gt;asynchronous&lt;/strong&gt; and &lt;strong&gt;synchronous&lt;/strong&gt; access to teaching and learning materials:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;materials can be made available to you to engage with in your own time between sessions: this &lt;strong&gt;asynchronous&lt;/strong&gt; approach will allow you to organize your work independently, meaning that you can work at your own pace and in ways that suit your learning style, while also taking into account any contraints that may affect you&lt;/li&gt;
-&lt;li&gt;weekly sessions are not limited to physical meetings in class: using &lt;strong&gt;synchronous&lt;/strong&gt; tools like &lt;a href=&#34;https://teams.microsoft.com/&#34;&gt;Microsoft Teams&lt;/a&gt; or &lt;a href=&#34;https://meet.google.com/&#34;&gt;Google Meet&lt;/a&gt; you can engage in discussion and debate with your teachers and classmates, again on specific issues and themes, with the possibility of sub-dividing the group for part of a given session to facilitate something more like face-to-face discussion&lt;/li&gt;
+&lt;li&gt;weekly sessions are not limited to physical meetings in class: using &lt;strong&gt;synchronous&lt;/strong&gt; tools like &lt;a href=&#34;https://teams.microsoft.com/&#34; target=&#34;_blank&#34;&gt;Microsoft Teams&lt;/a&gt; or &lt;a href=&#34;https://meet.google.com/&#34; target=&#34;_blank&#34;&gt;Google Meet&lt;/a&gt; you can engage in discussion and debate with your teachers and classmates, again on specific issues and themes, with the possibility of sub-dividing the group for part of a given session to facilitate something more like face-to-face discussion&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The diversity of tools and channels means that you can experiment with different learning styles and find the ones that work best for you in a given area of your studies. Not all of your work in learning demands the immediacy of the classroom and one of the notable capacities that you will develop is the ability to combine independent work with structured learning via a wide range of media.&lt;/p&gt;
 
