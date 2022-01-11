@@ -130,6 +130,16 @@ OpenType fonts typically include numerals in different styles:
 
 Old-style numerals are appropriate to use in body text: they form an even line with alphabetical characters, so improving the legibility of your content. Tabular forms, whether lining or non-lining, are most useful in tables: columns of numbers then remain aligned from row to row. Lining numerals are as a rule slightly less than capital height. Where figures are to be combined with upper case characters, lining numerals are a better choice. 
 
+### Discover font features
+
+OpenType fonts have indeed greatly expanded the range of typographic features on which you can draw in your work. All of the relevant information about these resources is encoded in OpenType and TrueType [font files](/docs/writing/file-formats/font-files). 
+
+[FontGoggles](https://fontgoggles.org/) is an application for macOS that allows you to display the available characters in a font and to access relevant information concerning available features.
+
+{{< figure src="/images/font_goggles.png" caption="Available type features in FontGoggles: the case of numerals" alt="Available type features: the case of numerals" width="80%">}}
+
+Numerals can take many forms and so call for specific typographic variants, including not only lining, non-lining, proportional and tabular forms, but also fractions, nominators and denominators. If these options are available in a given font, many of them will be activated automatically when you enter the relevant data.
+
 ### Accessing font features in word-processors
 
 To access font controls in **Word**, select **Format** > **Fonts**, or use to keyboard to select **CTRL+D** (Windows) or **CMD+D** (macOS).
