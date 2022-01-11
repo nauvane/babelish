@@ -7,6 +7,10 @@ description: >
   Where to go to find out more
 ---
 
+## What computers can do
+
+Brian Kernighan, *[D is for Digital: What a Well-Informed Person Should Know About Computers and Communications](https://library.ucc.ie/record=b2236451)*. DisforDigital.net, 2011.
+
 ## Argument
 
 Anthony Weston, *[A Rulebook for Arguments](http://library.ucc.ie/record=b1183033)*. Hackett, 1992.
@@ -39,6 +43,8 @@ Richard Ishida, *An Introduction to Writing Systems and Unicode*.
 
 *MHRA Style Guide*.
 
+> [www.mhra.org.uk/style/](https://www.mhra.org.uk/style/)
+
 *MLA Style*.
 
 > [style.mla.org](https://style.mla.org/)
@@ -53,7 +59,7 @@ Matthew Butterick, *Practical Typography*.
 
 > [practicaltypography.com](https://practicaltypography.com/)
 
-Paul Luna, *Typography: A Very Short Introduction*. Oxford University Press, 2018.
+Paul Luna, *[Typography: A Very Short Introduction](https://library.ucc.ie/record=b2238069)*. Oxford University Press, 2018.
 
 Microsoft, *Microsoft Typography Documentation*.
 
