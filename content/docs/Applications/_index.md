@@ -18,6 +18,7 @@ description: >
 - [PDFs](/docs/applications/#pdfs)
 - [Unicode](/docs/applications/#unicode)
 - [Phonetic transcription](/docs/applications/#phonetic-transcription)
+- [Font tools](/docs/applications/#font-tools)
 - [Corpora tools](/docs/applications/#corpora-tools)
 - [Image editors](/docs/applications/#image-editors)
 - [Colour](/docs/applications/#colour)
@@ -91,7 +92,12 @@ Before downloading and installing applications, check your operating system, e.g
 
 ## Phonetic transcription
 
+- [IPA Character App](https://r12a.github.io/pickers/ipa/) (r12a)
 - [IPA Keyboard](https://ipakeyboard.com/) (macOS and Windows)
+
+## Font tools
+
+- [FontGoggles](https://fontgoggles.org/)
 
 ## Corpora tools
 
