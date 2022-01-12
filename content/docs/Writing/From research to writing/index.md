@@ -11,7 +11,7 @@ Writing essays is a central element of your work in languages, one that draws on
 
 ### What is a critical essay?
 
-A critical essay is a means of advancing an argument, of making and justifying claims. A critical essay is shaped by and engages with existing knowledge of the material on which you’re working. A critical essay is objective and responsive all at once. A critical essay is [always well documented](/docs/style-guide/references-and-bibliography), using [the relevant style conventions](/docs/style-guide/). A critical essay is an exercise in persuasion more than it is the rehearsal of a personal point of view. 
+A critical essay is a means of advancing an argument, of making and justifying claims. A critical essay is shaped by and engages with existing knowledge of the material on which you’re working. A critical essay is objective and responsive all at once. A critical essay is [always well documented](/docs/research/use-a-reference-manager), using [the relevant style conventions](/docs/useful-reading/style-guides/). A critical essay is an exercise in persuasion more than it is the rehearsal of a personal point of view. 
 
 ### The essay as genre
 
@@ -29,7 +29,7 @@ Because essays are as a rule relatively brief, they are often examples of writin
 
 Research will form part of your work. Your essay is researched and written with a specific focus in mind, as defined by the topic on which you choose to write. This is what gives your essay its primary purpose — to give a thoughtful, engaged and engaging account of a specific set of issues. In your research as well as your writing, it is important always to ensure that what you have to say remains relevant to the topic. Make sure that you use reliable sources, especially secondary sources that are accurate as well as relevant. 
 
-An essay demands [close reference to your primary sources](/docs/style-guide/using-sources). One of the important skills that you will acquire is to recognize just what elements of the text are relevant to the topic and that allow you to develop your own response to it. This is where you should make precise and telling references to specific parts of the work (always giving page references when you do so).
+An essay demands [close reference to your primary sources](/docs/research/discover-research-materials/#primary-sources). One of the important skills that you will acquire is to recognize just what elements of the text are relevant to the topic and that allow you to develop your own response to it. This is where you should make precise and telling references to specific parts of the work (always giving page references when you do so).
 
 ### Quotations
 
@@ -39,7 +39,7 @@ Quotations take [a number of forms](/docs/writing/structured-documents/#an-essay
 
 ### Get your references right 
 
-In any academic work, you are expected to document your sources. This is the reason why it is important when doing your research to take careful note of the information, explanations, ideas and arguments on which you wish to draw in your essay. Your essay should always include references in the form of a footnote, and a complete list of all of the sources on which your argument depends in a bibliography at the end of your essay.
+In any academic work, you are expected to document your sources. This is the reason why it is important when doing your research to take [careful note](/docs/research/reading-and-research/#reading-and-taking-notes) of the information, explanations, ideas and arguments on which you wish to draw in your essay. Your essay should always include references in the form of a footnote, and a complete list of all of the sources on which your argument depends in a bibliography at the end of your essay.
 
 ### Quotation and citation
 

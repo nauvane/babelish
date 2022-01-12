@@ -14,7 +14,7 @@ A **[hyperlink](https://www.w3schools.com/html/html_links.asp)** is an element o
 Wherever you use an online source, you should provide a link to it. To go automatically to the address bar of a browser and highlight the current address, press CTRL+L (Windows) or CMD+L (macOS); you can then press CTRL+C or CMD+C to copy the link, so that you can insert it into your own document. 
 
 {{% alert title="Tip" color="primary" %}}
-If you choose to insert a link into body text, it should always be incorporated into intelligible **link text**. Make sure that you write clear and helpful link text: for example, "<u>Smith's discussion</u> shows...", **not** "as you can see <u>here</u>". To create a link, press CTRL+K (Windows) or CMD+K (macOS).
+If you choose to insert a link into body text, it should always be incorporated into intelligible **link text**. Make sure that you write clear and helpful link text: for example, "<u>Smith's discussion</u> shows...", **not** "as you can see <u>here</u>". To create or insert a link in a word-processing application, press CTRL+K (Windows) or CMD+K (macOS).
 {{% /alert %}}
 
 ### Kinds of link
@@ -33,4 +33,4 @@ A **digital object identifier** (**DOI**) is another important kind of link: it 
 
 ###  Links as references
 
-Links can be used to document your sources. Make sure you follow the relevant [style conventions](/docs/style-guide/hyperlinks) in incorporating them into your work. 
+Links can be used to document your sources. Make sure you follow the relevant [style conventions](/docs/useful-reading/#style-guides) in incorporating them into your work. 

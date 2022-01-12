@@ -27,7 +27,7 @@ A web application like [Voyant Tools](https://voyant-tools.org/) can perform all
 
 ### The computer as a device for transforming information
 
-Today, we think of computers and similar devices as tools for studying how we can handle and transform information. In other words, the handling and processing of information are as signifcant as the devices themselves through which we study them. 
+Today, we think of computers and similar devices as tools for studying how we can handle and transform information. In other words, the handling and processing of information are as significant as the devices themselves through which we study them. 
 
 {{< figure src="/images/linguee.png" caption="Processing information: the case of translation (source: DeepL)" alt="Processing information: translation (source: DeepL)" width="80%">}}
 
@@ -36,6 +36,8 @@ A major area of development in **information sciences** is **natural language pr
 So, a computer can be thought of as a layered interactive device: you interact with it by entering a query and then the application in question interacts with the large volume of data available to it in order to provide a response.
 
 {{< figure src="/images/interaction.png" caption="Automated translation: alternatives for 'dispositivo' in the database" alt="Automated translation: alternatives in the database" width="80%">}}
+
+This is a process that can be repeated: in the case of this translation into Italian it is possible to interrogate the database to obtain information on alternative terms, again on the basis of their probability.
 
 ### Computer operations
 
@@ -93,7 +95,7 @@ In macOS, a single interface can combine a wide range of searches.
 
 The results in turn provide you not only with information on the contents of your files, but also point you in the direction of relevant internet sources. 
 
-### How does a computer operate?
+### How does a computer function?
 
 An **operating system** (or **OS**) is a system software that allows applications to interact with the computer's hardware, for example, by allocating the computer's resources and memory to the different applications that a user may invoke. The operating system also controls the device's display and it functions independently of you as user, mobilizing the different components of the machine in response to your commands. 
 
@@ -115,7 +117,7 @@ Today, computers can be complex machines designed to fulfil a wide range of uses
 
 The web forms part of the internet, or the network of all connected networks. When you go online, for example via WiFi, you connect to a **local area network**. This network is in turn connected to innumerable other networks via specialized **gateways** and **servers**.
 
-A webpage is located in a web domain, in other words a computer or group of computers that form a local area network of their own, and are likewise connected through a web server to the Internet. To connect to such a page, you activate, as you well know, a [hyperlink](/docs/tips/working-with-links) which contains the web address of the domain and page in question.
+A webpage is located in a web domain, in other words a computer or group of computers that form a local area network of their own, and are likewise connected through a web server to the Internet. To connect to such a page, you can activate, as you well know, a [hyperlink](/docs/tips/working-with-links) which contains the web address of the domain and page in question.
 
 {{< figure src="/images/hyperlink.png" caption="Activating a hyperlink" alt="Activating a hyperlink" width="80%">}}
 

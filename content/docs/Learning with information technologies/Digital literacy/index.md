@@ -13,7 +13,7 @@ In the context of your studies, you will also develop both your general and your
 
 In reading these pages, you will be able to explore the latter in particular, by thinking about the kinds of technologies that are relevant to your work in learning about language and languages. 
 
-A whole spectrum of skills is involved: conceptual (e.g. understanding the relationship between [a language and a script](/docs/scripts-and-unicode/what-is-a-script)), practical (e.g. [how to make the most productive use of a computer keyboard](/docs/tips/use-the-keyboard-not-the-mouse)), technological (e.g. [how to encode transcriptions using the International Phonetic Alphabet](/docs/scripts-and-unicode/using-the-international-phonetic-alphabet)), and cognitive (e.g. understanding how technological literacy can improve your contribute to your data and information literacy).
+A whole spectrum of skills is involved: conceptual (e.g. understanding the relationship between [a language and a script](/docs/scripts-and-unicode/what-is-a-script)), practical (e.g. [how to make the most productive use of a computer keyboard](/docs/tips/use-the-keyboard-not-the-mouse)), technological (e.g. [how to encode transcriptions using the International Phonetic Alphabet](/docs/scripts-and-unicode/using-the-international-phonetic-alphabet)), and cognitive (e.g. understanding how technological literacy can improve your data and information literacy).
 
 ### Learning technologies
 

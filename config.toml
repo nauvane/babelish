@@ -66,7 +66,8 @@ github_project_repo = "https://github.com/nauvane/babelish"
 algolia_docsearch = false
 
 # Enable local search
-offlineSearch = true 
+offlineSearch = true
+offlineSearchMaxResults = 25
 
 # User interface configuration
 

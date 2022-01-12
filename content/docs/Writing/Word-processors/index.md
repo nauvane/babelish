@@ -71,7 +71,7 @@ Styles can readily be applied also in Google Docs. Once you have logged on to yo
 
 You can apply a format to a given element of your document using the editing tools displayed on screen, and then apply that in turn to a given style for use in future documents. 
 
-It is also possible to apply more specialized templates by incorporating **Add-ons** into your Google Docs profile. Here, for example, a dedicated MLA formatter has been added to a Google account for use with a given document.
+It is also possible to apply more specialized templates by incorporating **Add-ons** into your Google Docs profile. Here, for example, a dedicated [MLA](/docs/useful-reading/#style-guides) formatter has been added to a Google account for use with a given document.
 
 {{< figure src="/images/mla_formatter.png" caption="Apply MLA style with an add-on" alt="Apply MLA style with an add-on" width="80%">}}
 
@@ -79,7 +79,7 @@ Google Docs also allows you to modify your default fonts just as you can when us
 
 {{< figure src="/images/gdocs_fonts.png" caption="Selecting a font in Google Docs" alt="Selecting a font in Google Docs" width="80%">}}
 
-If you select **More fonts**, you are given the option of using additional fonts from within Google Fonts.
+If you select **More fonts**, you are given the option of using additional fonts from within [Google Fonts](https://fonts.google).
 
 {{< figure src="/images/addit_fonts.png" caption="Options in Google Fonts" alt="Options in Google Fonts" width="80%">}}
 

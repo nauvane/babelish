@@ -29,9 +29,9 @@ A reference manager is one type of [note-taking application](/docs/research/read
  
  Zotero can also be used with a web browser, allowing you to record details of useful or interesting items in the course of your research — these can include webpages as well as articles or books. 
  
- In Google Docs, for instance, you can install [Zotero Connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc) as an add-on, to automate the process of recording items.
+ In Google Chrome, for instance, you can install [Zotero Connector](https://chrome.google.com/webstore/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc) as an add-on, to automate the process of recording items.
  
- {{< figure src="/images/zotero_connector.png" caption="Using Zotero Connector in Google Docs" alt="Using Zotero Connector in Google Docs" width="80%">}}
+ {{< figure src="/images/zotero_connector.png" caption="Using Zotero Connector in Google Chrome" alt="Using Zotero Connector in Google Chrome" width="80%">}}
  
  Where a document, typically in the form of a PDF, is associated with a reference, you can also download this and link it to the Zotero record in your database.
  
@@ -45,7 +45,7 @@ A reference manager is one type of [note-taking application](/docs/research/read
  
  {{< figure src="/images/zotero_edit.png" caption="A reference created using Zotero" alt="A reference created using Zotero" width="80%">}}
  
- Select **Document preferences...** to specify the style you wish to use in the document in question.
+ Select **Document preferences...** to specify the [style](/docs/useful-reading/#style-guides) you wish to use in the document in question.
  
  {{< figure src="/images/zotero_styles.png" caption="Apply styles in Zotero in Google Docs" alt="Apply styles in Zotero in Google Docs" width="80%">}}
  

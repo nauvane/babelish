@@ -7,11 +7,11 @@ description: >
   Learn how to carry out phonetic transcriptions
 ---
 
-The [International Phonetic Alphabet](https://www.internationalphoneticassociation.org/content/full-ipa-chart)is an alphabetical system of phonetic notation. It is based on [Latin script](/docs/scripts-and-unicode/what-is-a-script). 
+The [International Phonetic Alphabet](https://www.internationalphoneticassociation.org/content/full-ipa-chart) is an alphabetical system of phonetic notation. It is based on [Latin script](/docs/scripts-and-unicode/what-is-a-script). 
 
 {{< figure src="/images/ipachart.png" caption="The IPA chart (source: [r12a](https://r12a.github.io/pickers/ipa/))" alt="The IPA chart (source: r12a)" width="80%">}}
 
-One convenient way to generate a phonetic transcription using the IPA is via [an IPA picker](https://r12a.github.io/pickers/ipa/): you select the symbols required and they then appear in a box at the top of the screen. Here is a transcription of the German word *für*.
+One convenient way to generate a phonetic transcription using the IPA is via [an IPA picker](https://r12a.github.io/pickers/ipa/): you select the relevant symbols as they appear in the IPA chart and they then appear in a box at the top of the screen. Here is a transcription of the German word **_für_**.
 You can then, for example, copy and paste a transcription into a word-processing document. 
 
 {{% alert title="Tip" color="primary" %}}
